@@ -1,0 +1,2487 @@
+#SampleID	Sample	Event	Sport	Age	Date	City	State	Run	Type
+CP.MC013	MC013	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC047	MC047	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC042	MC042	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.ME007	ME007	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC019	MC019	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC026	MC026	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC037	MC037	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.ME006	ME006	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC029	MC029	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.ME006	ME006	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC095	MC095	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC037	MC037	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC096	MC096	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC096	MC096	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC009	MC009	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC033	MC033	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC025	MC025	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC030	MC030	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC022	MC022	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC018	MC018	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC009	MC009	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC097	MC097	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC036	MC036	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.ME004	ME004	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.ME004	ME004	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC043	MC043	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC035	MC035	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC025	MC025	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.ME005	ME005	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC031	MC031	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC098	MC098	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC024	MC024	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC007	MC007	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC041	MC041	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC098	MC098	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC100	MC100	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.ME009	ME009	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.ME008	ME008	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC039	MC039	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC030	MC030	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC062	MC062	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC035	MC035	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC099	MC099	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC016	MC016	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC007	MC007	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC031	MC031	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC040	MC040	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC034	MC034	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC095	MC095	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC047	MC047	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC028	MC028	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC093	MC093	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC026	MC026	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.LV043	LV043	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC024	MC024	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC043	MC043	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC019	MC019	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.ME003	ME003	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC040	MC040	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC093	MC093	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.LV043	LV043	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.ME009	ME009	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC022	MC022	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC099	MC099	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC039	MC039	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC034	MC034	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC097	MC097	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.ME008	ME008	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC032	MC032	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.ME007	ME007	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC014	MC014	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC014	MC014	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC032	MC032	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.ME005	ME005	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.ME003	ME003	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC036	MC036	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC016	MC016	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC042	MC042	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+SH.MC013	MC013	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC029	MC029	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+SH.MC033	MC033	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	shoe
+CP.MC100	MC100	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.MC028	MC028	76ers	Basketball	Adult	2/18/2014	Philadelphia	PA	3	phone
+CP.LS082	LS082	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT001	LT001	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.FY012	FY012	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS086	LS086	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE044	AE044	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.FY016	FY016	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS094	LS094	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ036	AQ036	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT007	LT007	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AB082	AB082	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE042	AE042	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AQ038	AQ038	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS100	LS100	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT018	LT018	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT006	LT006	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT013	LT013	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AB081	AB081	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT014	LT014	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS093	LS093	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ035	AQ035	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.FY013	FY013	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT004	LT004	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AB081	AB081	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.FY012	FY012	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ034	AQ034	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AB086	AB086	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS083	LS083	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE042	AE042	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AE043	AE043	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS100	LS100	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT005	LT005	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT014	LT014	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE047	AE047	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT002	LT002	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT015	LT015	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS081	LS081	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT010	LT010	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT008	LT008	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS095	LS095	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AE054	AE054	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS097	LS097	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AB085	AB085	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS089	LS089	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT010	LT010	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS090	LS090	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT018	LT018	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT008	LT008	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE053	AE053	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE060	AE060	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT009	LT009	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE041	AE041	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE055	AE055	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE058	AE058	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AQ032	AQ032	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS096	LS096	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT009	LT009	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS092	LS092	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE054	AE054	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ036	AQ036	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE059	AE059	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT003	LT003	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT011	LT011	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AQ039	AQ039	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.FY013	FY013	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS087	LS087	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS098	LS098	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ040	AQ040	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE059	AE059	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE048	AE048	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE053	AE053	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AB086	AB086	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ032	AQ032	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT001	LT001	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.FY020	FY020	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS093	LS093	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ031	AQ031	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.FY011	FY011	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS099	LS099	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE043	AE043	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ037	AQ037	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS094	LS094	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT005	LT005	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS090	LS090	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT012	LT012	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS098	LS098	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ038	AQ038	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS091	LS091	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS085	LS085	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS095	LS095	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS097	LS097	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS092	LS092	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AB084	AB084	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS081	LS081	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE056	AE056	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS084	LS084	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AE057	AE057	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AB083	AB083	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS088	LS088	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT013	LT013	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS096	LS096	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AB083	AB083	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE041	AE041	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT002	LT002	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE044	AE044	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AB069	AB069	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.FY020	FY020	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT019	LT019	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE055	AE055	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AB085	AB085	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.AE051	AE051	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT017	LT017	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS088	LS088	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AB069	AB069	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS091	LS091	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.FY017	FY017	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.FY017	FY017	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT016	LT016	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AE058	AE058	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS085	LS085	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT011	LT011	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.FY014	FY014	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE051	AE051	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT003	LT003	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ033	AQ033	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.FY014	FY014	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ037	AQ037	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT006	LT006	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS086	LS086	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS082	LS082	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LT019	LT019	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LT007	LT007	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT004	LT004	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE047	AE047	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ035	AQ035	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT017	LT017	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT015	LT015	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE057	AE057	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AQ034	AQ034	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AE050	AE050	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LT016	LT016	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ039	AQ039	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LS087	LS087	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE056	AE056	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS083	LS083	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.FY016	FY016	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.FY011	FY011	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.FY015	FY015	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AQ033	AQ033	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.LS099	LS099	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.LS089	LS089	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+SH.LS084	LS084	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AQ040	AQ040	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.AE060	AE060	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AE048	AE048	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AB082	AB082	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AE050	AE050	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.LT012	LT012	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.AQ031	AQ031	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+SH.FY015	FY015	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	shoe
+CP.AB084	AB084	BASF	None	Mixed	11/2/2013	San Francisco	CA	1	phone
+CP.FV098	FV098	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+CP.FV091	FV091	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+CP.FV099	FV099	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+SH.FV091	FV091	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+SH.FV098	FV098	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+SH.FV096	FV096	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+SH.FV099	FV099	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+SH.FV090	FV090	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+CP.FV094	FV094	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+CP.FV096	FV096	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+CP.FV093	FV093	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+SH.FV095	FV095	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+CP.FV095	FV095	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+CP.FV090	FV090	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	phone
+SH.FV094	FV094	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+SH.FV093	FV093	Broward	None	Adult	8/14/2013	Fort Lauderdale	FL	2	shoe
+SH.LA093	LA093	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+SH.LA100	LA100	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.LA099	LA099	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+CP.LA097	LA097	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+SH.LA099	LA099	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.LA095	LA095	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+SH.LA098	LA098	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.LA093	LA093	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+CP.LA091	LA091	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+SH.LA097	LA097	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+SH.LA091	LA091	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.LA098	LA098	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+CP.LA094	LA094	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+SH.LA095	LA095	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.LA092	LA092	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+SH.LA092	LA092	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.LA100	LA100	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+CP.LA096	LA096	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	phone
+SH.LA094	LA094	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+SH.LA096	LA096	ChapmanHill	None	Kid	10/4/2013	Salem	OR	1	shoe
+CP.AG097	AG097	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	phone
+SH.AG097	AG097	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	shoe
+CP.AG082	AG082	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	phone
+SH.AG084	AG084	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	shoe
+SH.AG082	AG082	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	shoe
+CP.AG083	AG083	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	phone
+SH.AG088	AG088	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	shoe
+SH.AG083	AG083	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	shoe
+CP.AG088	AG088	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	phone
+CP.AG084	AG084	CHF	None	Adult	5/23/2013	Philadelphia	PA	1	phone
+CP.AQ077	AQ077	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ070	AQ070	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ071	AQ071	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ073	AQ073	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ074	AQ074	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ066	AQ066	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ073	AQ073	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ061	AQ061	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ075	AQ075	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ071	AQ071	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ068	AQ068	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ080	AQ080	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ078	AQ078	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ065	AQ065	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ079	AQ079	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ067	AQ067	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ077	AQ077	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ070	AQ070	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ065	AQ065	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ068	AQ068	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ079	AQ079	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ062	AQ062	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ063	AQ063	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ069	AQ069	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ061	AQ061	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ064	AQ064	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ066	AQ066	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ069	AQ069	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ074	AQ074	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ072	AQ072	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ062	AQ062	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ080	AQ080	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ064	AQ064	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ072	AQ072	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.AQ063	AQ063	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+SH.AQ075	AQ075	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	shoe
+CP.AQ078	AQ078	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+CP.AQ067	AQ067	ColeMiddle	None	Kid	10/10/2013	Fountain	CO	1	phone
+SH.FX012	FX012	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX005	FX005	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX009	FX009	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX015	FX015	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX007	FX007	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX002	FX002	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX014	FX014	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX016	FX016	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX004	FX004	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX014	FX014	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX010	FX010	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX019	FX019	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX013	FX013	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX012	FX012	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX006	FX006	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX017	FX017	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX019	FX019	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX005	FX005	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX018	FX018	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX016	FX016	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX003	FX003	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX015	FX015	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX010	FX010	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX006	FX006	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX007	FX007	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX020	FX020	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX017	FX017	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX020	FX020	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX008	FX008	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX002	FX002	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX001	FX001	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX003	FX003	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+CP.FX011	FX011	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX001	FX001	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX009	FX009	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX018	FX018	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.FX013	FX013	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX011	FX011	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+SH.FX008	FX008	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	shoe
+CP.FX004	FX004	DiscoveryDays	None	Mixed	4/26/2014	Philadelphia	PA	4	phone
+SH.AH096	AH096	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+SH.AH091	AH091	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+SH.AH100	AH100	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+SH.AH088	AH088	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH088	AH088	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH089	AH089	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH084	AH084	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH099	AH099	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH095	AH095	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH091	AH091	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH092	AH092	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH095	AH095	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH097	AH097	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH083	AH083	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH090	AH090	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH084	AH084	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH100	AH100	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH083	AH083	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+SH.AH086	AH086	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH086	AH086	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH081	AH081	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH093	AH093	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH099	AH099	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH087	AH087	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH082	AH082	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+SH.AH092	AH092	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH081	AH081	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH087	AH087	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH096	AH096	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH097	AH097	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.AH082	AH082	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+CP.AH090	AH090	DMNS	None	Adult	5/8/2013	Denver	CO	1	phone
+SH.AH093	AH093	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+SH.AH089	AH089	DMNS	None	Adult	5/8/2013	Denver	CO	1	shoe
+CP.FX081	FX081	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+CP.FZ013	FZ013	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+CP.FZ011	FZ011	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FZ030	FZ030	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FZ030	FZ030	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FX086	FX086	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+SH.FX025	FX025	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+SH.FX089	FX089	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FZ020	FZ020	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+CP.FX025	FX025	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FX032	FX032	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FX085	FX085	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FX085	FX085	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FZ005	FZ005	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FZ020	FZ020	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FX033	FX033	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FZ005	FZ005	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FX032	FX032	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FZ013	FZ013	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FX026	FX026	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FY099	FY099	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+SH.FX084	FX084	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FX086	FX086	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	phone
+SH.FZ011	FZ011	DrexelLibrary	None	Mixed	4/30/2014	Philadelphia	PA	4	shoe
+CP.FX076	FX076	FranklinInstitute	None	Adult	5/30/2013	Philadelphia	PA	2	phone
+SH.FX076	FX076	FranklinInstitute	None	Adult	5/30/2013	Philadelphia	PA	2	shoe
+CP.FX069	FX069	FranklinInstitute	None	Adult	5/30/2013	Philadelphia	PA	2	phone
+SH.FX069	FX069	FranklinInstitute	None	Adult	5/30/2013	Philadelphia	PA	2	shoe
+SH.AG008	AG008	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG008	AG008	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG018	AG018	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG001	AG001	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG004	AG004	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG009	AG009	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.AG006	AG006	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG020	AG020	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG010	AG010	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG012	AG012	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG010	AG010	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG009	AG009	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG011	AG011	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG015	AG015	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG018	AG018	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG007	AG007	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG019	AG019	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG006	AG006	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG020	AG020	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG019	AG019	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG013	AG013	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG017	AG017	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.AG004	AG004	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.AG016	AG016	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.AG015	AG015	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG016	AG016	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG003	AG003	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG012	AG012	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.AG007	AG007	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG017	AG017	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG003	AG003	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+CP.AG011	AG011	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG001	AG001	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+CP.AG002	AG002	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	phone
+SH.AG002	AG002	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.AG013	AG013	Girl Scouts 	None	Kid	4/27/2013	Atlanta	GA	2	shoe
+SH.FW082	FW082	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV017	FV017	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW082	FW082	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW093	FW093	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FW097	FW097	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV019	FV019	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV003	FV003	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV007	FV007	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV020	FV020	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW100	FW100	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV013	FV013	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FW083	FW083	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV011	FV011	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV018	FV018	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV007	FV007	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV004	FV004	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV006	FV006	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW081	FW081	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FW085	FW085	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW081	FW081	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW093	FW093	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW083	FW083	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV012	FV012	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV016	FV016	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FW090	FW090	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW096	FW096	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV013	FV013	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW092	FW092	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV005	FV005	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV014	FV014	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV001	FV001	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FW086	FW086	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW094	FW094	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV009	FV009	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW087	FW087	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV012	FV012	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW095	FW095	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV003	FV003	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV008	FV008	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW092	FW092	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW098	FW098	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV004	FV004	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV010	FV010	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV020	FV020	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV019	FV019	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV010	FV010	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW091	FW091	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW094	FW094	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW088	FW088	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV005	FV005	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV011	FV011	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW084	FW084	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV009	FV009	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW096	FW096	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV015	FV015	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV016	FV016	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FV017	FV017	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV015	FV015	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW100	FW100	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW097	FW097	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW085	FW085	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV018	FV018	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW087	FW087	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV001	FV001	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FV006	FV006	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW090	FW090	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW086	FW086	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FW095	FW095	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW084	FW084	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+SH.FW099	FW099	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW098	FW098	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV014	FV014	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW091	FW091	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FV002	FV002	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	shoe
+CP.FW088	FW088	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FV002	FV002	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+CP.FW099	FW099	HowardCCC	None	Adult	6/9/2013	Columbia	MD	2	phone
+SH.FX078	FX078	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+CP.FZ019	FZ019	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+SH.FZ036	FZ036	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+SH.FX036	FX036	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+SH.ME023	ME023	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+CP.FX038	FX038	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+SH.FZ039	FZ039	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	3	shoe
+CP.FX039	FX039	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+SH.FZ019	FZ019	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+CP.ME023	ME023	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+CP.FX078	FX078	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+CP.FZ002	FZ002	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	3	phone
+SH.FX034	FX034	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+SH.FZ033	FZ033	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	3	shoe
+SH.FX038	FX038	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+CP.FZ033	FZ033	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	3	phone
+CP.FZ039	FZ039	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	3	phone
+SH.FY062	FY062	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+CP.FY062	FY062	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+CP.FZ036	FZ036	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+SH.FZ002	FZ002	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	3	shoe
+SH.FX039	FX039	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	shoe
+CP.FX036	FX036	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+CP.FX034	FX034	KidneyFoundation	None	Mixed	5/4/2014	Baltimore	MA	4	phone
+CP.ME072	ME072	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+SH.ME071	ME071	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+SH.ME061	ME061	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+SH.ME063	ME063	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+SH.ME064	ME064	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+SH.ME065	ME065	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+CP.ME065	ME065	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+CP.ME063	ME063	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+CP.ME061	ME061	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+SH.ME062	ME062	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+CP.ME062	ME062	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+CP.ME064	ME064	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+CP.ME071	ME071	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	phone
+SH.ME072	ME072	KidScoop	None	Kid	4/23/2014	Unknown	Unknown	4	shoe
+CP.AC041	AC041	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC042	AC042	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC051	AC051	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC044	AC044	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC042	AC042	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC060	AC060	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC049	AC049	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+CP.AC050	AC050	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC053	AC053	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+SH.AC057	AC057	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC044	AC044	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+CP.AC053	AC053	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC045	AC045	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+SH.AC041	AC041	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC045	AC045	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC049	AC049	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+SH.AC058	AC058	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+SH.AC047	AC047	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC060	AC060	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC050	AC050	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC055	AC055	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC046	AC046	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC047	AC047	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC054	AC054	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+SH.AC051	AC051	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC046	AC046	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+CP.AC058	AC058	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC055	AC055	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC054	AC054	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.AC059	AC059	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+SH.AC043	AC043	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	shoe
+CP.AC059	AC059	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+CP.AC057	AC057	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+CP.AC043	AC043	MiamiDolphins	Football	Adult	9/25/2013	Miami	FL	1	phone
+SH.FR021	FR021	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR015	FR015	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR033	FR033	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR035	FR035	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR012	FR012	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR035	FR035	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR007	FR007	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR032	FR032	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR011	FR011	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR018	FR018	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR002	FR002	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR010	FR010	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR023	FR023	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR022	FR022	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR034	FR034	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR032	FR032	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR002	FR002	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR031	FR031	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR003	FR003	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR017	FR017	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR015	FR015	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR009	FR009	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR021	FR021	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR028	FR028	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR013	FR013	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR034	FR034	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR016	FR016	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR017	FR017	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR019	FR019	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR019	FR019	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR026	FR026	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR012	FR012	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR009	FR009	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR022	FR022	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR024	FR024	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR005	FR005	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR027	FR027	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR025	FR025	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR018	FR018	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR027	FR027	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR001	FR001	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR006	FR006	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR031	FR031	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR029	FR029	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR023	FR023	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR025	FR025	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR020	FR020	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR030	FR030	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR029	FR029	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR024	FR024	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR008	FR008	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR010	FR010	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR020	FR020	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR011	FR011	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR005	FR005	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR007	FR007	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR003	FR003	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR001	FR001	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR016	FR016	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR030	FR030	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR008	FR008	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR006	FR006	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR004	FR004	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+CP.FR014	FR014	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR028	FR028	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR033	FR033	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR004	FR004	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+CP.FR026	FR026	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	phone
+SH.FR013	FR013	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.FR014	FR014	NSFSTEM	None	Mixed	9/28/2013	Dulles	VA	4	shoe
+SH.AK043	AK043	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG027	AG027	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG049	AG049	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	3	phone
+SH.AG039	AG039	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK066	AK066	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK056	AK056	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG037	AG037	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK076	AK076	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG041	AG041	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG099	AG099	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG035	AG035	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK033	AK033	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK048	AK048	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK044	AK044	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK044	AK044	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG051	AG051	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG055	AG055	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG042	AG042	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG051	AG051	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK038	AK038	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG052	AG052	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK046	AK046	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK060	AK060	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK068	AK068	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK056	AK056	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK028	AK028	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK042	AK042	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG057	AG057	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG039	AG039	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG057	AG057	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK080	AK080	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK036	AK036	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG058	AG058	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG049	AG049	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	3	shoe
+CP.AK043	AK043	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK079	AK079	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG030	AG030	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK066	AK066	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG031	AG031	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG099	AG099	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK061	AK061	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK072	AK072	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG023	AG023	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK028	AK028	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK027	AK027	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK033	AK033	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK076	AK076	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG042	AG042	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK079	AK079	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK042	AK042	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG044	AG044	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG031	AG031	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG044	AG044	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG025	AG025	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG034	AG034	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG058	AG058	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK074	AK074	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG037	AG037	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG025	AG025	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK061	AK061	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG041	AG041	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG090	AG090	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK027	AK027	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG053	AG053	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK048	AK048	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG055	AG055	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG052	AG052	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK077	AK077	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK073	AK073	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK072	AK072	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AG030	AG030	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK077	AK077	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG034	AG034	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK038	AK038	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG048	AG048	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG090	AG090	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK073	AK073	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG023	AG023	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AK036	AK036	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AK060	AK060	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AK080	AK080	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+CP.AG053	AG053	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.AG027	AG027	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK074	AK074	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+SH.AK068	AK068	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	shoe
+CP.AG048	AG048	PhilliesGame	Baseball	Mixed	4/25/2013	Philadelphia	PA	2	phone
+SH.FW008	FW008	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+CP.FW010	FW010	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+SH.FW010	FW010	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+SH.FW014	FW014	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+CP.FW014	FW014	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+SH.FW005	FW005	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+CP.FW005	FW005	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+CP.FW006	FW006	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+SH.FW002	FW002	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+SH.FW007	FW007	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+CP.FW008	FW008	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+SH.FW009	FW009	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+CP.FW002	FW002	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+CP.FW007	FW007	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+CP.FW003	FW003	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+CP.FW009	FW009	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	phone
+SH.FW006	FW006	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+SH.FW003	FW003	PhillyANS	None	Adult	6/4/2013	Philadelphia	PA	2	shoe
+SH.AM010	AM010	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	shoe
+SH.AM071	AM071	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	shoe
+CP.AM010	AM010	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	phone
+CP.AM069	AM069	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	phone
+CP.AM061	AM061	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	phone
+CP.AM068	AM068	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	phone
+SH.AM061	AM061	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	shoe
+SH.AM068	AM068	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	shoe
+SH.AM013	AM013	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	shoe
+SH.AM069	AM069	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	shoe
+CP.AM071	AM071	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	phone
+CP.AM013	AM013	PhillyScienceFest	None	Mixed	4/20/2013	Philadelphia	PA	2	phone
+SH.MH047	MH047	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH081	MH081	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH027	MH027	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH082	MH082	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FY087	FY087	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY098	FY098	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH010	MH010	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FY095	FY095	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH056	MH056	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FY083	FY083	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH049	MH049	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH050	MH050	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FS061	FS061	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH017	MH017	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH040	MH040	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH100	MH100	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH059	MH059	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH016	MH016	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.FY084	FY084	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH020	MH020	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY085	FY085	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH030	MH030	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH014	MH014	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH099	MH099	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH046	MH046	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FY091	FY091	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH024	MH024	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH044	MH044	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FX057	FX057	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH044	MH044	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FY100	FY100	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH042	MH042	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH013	MH013	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH026	MH026	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH039	MH039	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH006	MH006	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH061	MH061	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH050	MH050	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH051	MH051	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH026	MH026	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FS061	FS061	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH028	MH028	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH055	MH055	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH069	MH069	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH068	MH068	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH047	MH047	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH018	MH018	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY087	FY087	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH007	MH007	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FY098	FY098	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH004	MH004	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH036	MH036	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FY082	FY082	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY096	FY096	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH033	MH033	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH041	MH041	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH033	MH033	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FS062	FS062	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH024	MH024	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH013	MH013	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH058	MH058	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH031	MH031	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH098	MH098	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FY089	FY089	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FX044	FX044	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FS065	FS065	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FX043	FX043	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FS064	FS064	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH009	MH009	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FX051	FX051	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH052	MH052	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH039	MH039	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH046	MH046	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FX082	FX082	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY090	FY090	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FX082	FX082	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH043	MH043	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH017	MH017	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH066	MH066	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FX056	FX056	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH002	MH002	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH060	MH060	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FY085	FY085	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH021	MH021	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FZ015	FZ015	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH005	MH005	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FY081	FY081	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH027	MH027	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH042	MH042	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH008	MH008	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH004	MH004	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH058	MH058	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.FS063	FS063	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH018	MH018	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FY092	FY092	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH028	MH028	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH041	MH041	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH037	MH037	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH043	MH043	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH038	MH038	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH012	MH012	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH082	MH082	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FY090	FY090	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH059	MH059	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FX056	FX056	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FX043	FX043	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY091	FY091	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH009	MH009	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH085	MH085	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH003	MH003	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH062	MH062	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH065	MH065	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH032	MH032	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH045	MH045	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH019	MH019	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH021	MH021	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH064	MH064	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH016	MH016	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH035	MH035	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH007	MH007	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH056	MH056	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH029	MH029	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FX049	FX049	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH083	MH083	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH066	MH066	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH022	MH022	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH064	MH064	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FY094	FY094	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FY094	FY094	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH060	MH060	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH099	MH099	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH003	MH003	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH084	MH084	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH022	MH022	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH029	MH029	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FS064	FS064	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH014	MH014	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH015	MH015	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FX049	FX049	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH023	MH023	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY095	FY095	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH068	MH068	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH063	MH063	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FX055	FX055	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH055	MH055	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH054	MH054	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH053	MH053	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH069	MH069	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.FY092	FY092	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY088	FY088	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FZ001	FZ001	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY100	FY100	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH081	MH081	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH023	MH023	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH001	MH001	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH030	MH030	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH063	MH063	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FZ001	FZ001	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH034	MH034	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH049	MH049	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH037	MH037	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FY096	FY096	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH062	MH062	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH008	MH008	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FX051	FX051	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH002	MH002	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.MH035	MH035	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH061	MH061	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH100	MH100	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY086	FY086	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH020	MH020	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY081	FY081	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH012	MH012	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH032	MH032	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH098	MH098	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH034	MH034	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH025	MH025	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH001	MH001	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH010	MH010	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.MH052	MH052	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY084	FY084	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FX046	FX046	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH006	MH006	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH083	MH083	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH036	MH036	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FS062	FS062	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH054	MH054	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH040	MH040	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH067	MH067	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FX046	FX046	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH011	MH011	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.FY082	FY082	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH067	MH067	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FX044	FX044	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FY089	FY089	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY086	FY086	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH005	MH005	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FY097	FY097	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FY083	FY083	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.FY097	FY097	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.FX055	FX055	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH051	MH051	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH025	MH025	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+SH.FS063	FS063	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH019	MH019	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.MH048	MH048	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH048	MH048	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.FS065	FS065	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FZ015	FZ015	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.FX048	FX048	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH038	MH038	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH045	MH045	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH011	MH011	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.FX048	FX048	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+SH.MH053	MH053	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH031	MH031	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FY088	FY088	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+CP.MH015	MH015	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+CP.MH084	MH084	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	phone
+SH.FX057	FX057	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	shoe
+SH.MH085	MH085	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	3	shoe
+CP.MH065	MH065	PhillySciFest	None	Mixed	5/3/2014	Philadelphia	PA	4	phone
+CP.AC086	AC086	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	phone
+SH.AC083	AC083	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+CP.AC095	AC095	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC090	AC090	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	phone
+SH.AC082	AC082	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	shoe
+CP.AC094	AC094	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+SH.AC094	AC094	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC099	AC099	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+CP.AC098	AC098	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC085	AC085	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+SH.AC084	AC084	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC090	AC090	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	shoe
+SH.AC085	AC085	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+CP.AC082	AC082	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	phone
+SH.AC098	AC098	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+CP.AC097	AC097	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+SH.AC091	AC091	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	shoe
+SH.AC088	AC088	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC095	AC095	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC100	AC100	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC097	AC097	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC096	AC096	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	shoe
+SH.AC089	AC089	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+CP.AC092	AC092	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+SH.AC081	AC081	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	shoe
+CP.AC089	AC089	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC096	AC096	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	phone
+SH.AC092	AC092	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	shoe
+SH.AC086	AC086	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	shoe
+CP.AC083	AC083	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC100	AC100	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC088	AC088	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC081	AC081	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	phone
+CP.AC099	AC099	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC084	AC084	Potluch	None	Kid	10/10/2013	Potlatch	ID	1	phone
+CP.AC091	AC091	Potluch	None	Kid	10/10/2013	Potlatch	ID	2	phone
+CP.FS025	FS025	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+SH.FS029	FS029	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+CP.FS027	FS027	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+CP.FS040	FS040	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+CP.FS038	FS038	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+CP.FS032	FS032	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS039	FS039	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+SH.FS023	FS023	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+SH.FS040	FS040	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+SH.FS033	FS033	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+SH.FS034	FS034	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+SH.FS025	FS025	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+SH.FS032	FS032	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+SH.FS030	FS030	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.FS033	FS033	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS031	FS031	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.FS034	FS034	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+CP.FS021	FS021	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+SH.FS022	FS022	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.FS035	FS035	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS027	FS027	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.FS028	FS028	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+CP.FS022	FS022	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS028	FS028	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.FS023	FS023	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS021	FS021	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+CP.FS024	FS024	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+CP.FS029	FS029	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+SH.FS038	FS038	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+CP.FS031	FS031	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS036	FS036	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.FS036	FS036	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS026	FS026	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+SH.FS024	FS024	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	shoe
+CP.FS026	FS026	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	1	phone
+CP.FS039	FS039	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	phone
+SH.FS035	FS035	PWBears	Cheer	Kid	9/4/2013	Chittenango	NY	4	shoe
+CP.AD029	AD029	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD031	AD031	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD023	AD023	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD028	AD028	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD038	AD038	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AB025	AB025	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AB025	AB025	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD038	AD038	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD021	AD021	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD035	AD035	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD025	AD025	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD029	AD029	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD022	AD022	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD028	AD028	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD027	AD027	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD027	AD027	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD021	AD021	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD024	AD024	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD037	AD037	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD023	AD023	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD024	AD024	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD022	AD022	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD035	AD035	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD031	AD031	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD026	AD026	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD040	AD040	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD034	AD034	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD026	AD026	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD032	AD032	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD037	AD037	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD036	AD036	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD030	AD030	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD040	AD040	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD034	AD034	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+SH.AD033	AD033	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD030	AD030	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD036	AD036	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+CP.AD033	AD033	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.AD032	AD032	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	shoe
+CP.AD025	AD025	PWBrantley	Cheer	Kid	9/7/2013	Orlando	FL	1	phone
+SH.FS003	FS003	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+CP.FS007	FS007	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+SH.FS001	FS001	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+SH.FS004	FS004	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+CP.FS006	FS006	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+SH.FS002	FS002	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+SH.FS005	FS005	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+SH.FS006	FS006	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+CP.FS003	FS003	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+CP.FS004	FS004	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+SH.FS007	FS007	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	shoe
+CP.FS002	FS002	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+CP.FS001	FS001	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+CP.FS005	FS005	PWCoronado 	Cheer	Kid	8/24/2013	San Diego	CA	2	phone
+SH.AB098	AB098	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+CP.AB090	AB090	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+CP.AB089	AB089	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+SH.AB090	AB090	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+SH.AB089	AB089	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+SH.AB092	AB092	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+SH.AB096	AB096	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+CP.AB088	AB088	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+SH.AB088	AB088	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+SH.AB087	AB087	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+SH.AB091	AB091	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	shoe
+CP.AB096	AB096	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+CP.AB098	AB098	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+CP.AB091	AB091	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+CP.AB087	AB087	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+CP.AB092	AB092	PWGladiators	Cheer	Kid	9/29/2013	Castro Valley	CA	1	phone
+SH.FY021	FY021	Redskins	Football	Adult	10/29/2013	Landover	MA	1	shoe
+CP.FY021	FY021	Redskins	Football	Adult	10/29/2013	Landover	MA	1	phone
+SH.FY033	FY033	Redskins	Football	Adult	10/29/2013	Landover	MA	1	shoe
+SH.FY026	FY026	Redskins	Football	Adult	10/29/2013	Landover	MA	1	shoe
+CP.FY033	FY033	Redskins	Football	Adult	10/29/2013	Landover	MA	1	phone
+CP.FY026	FY026	Redskins	Football	Adult	10/29/2013	Landover	MA	1	phone
+CP.MB031	MB031	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB001	MB001	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA045	MA045	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB019	MB019	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MB069	MB069	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB072	MB072	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB039	MB039	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA100	MA100	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB008	MB008	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB008	MB008	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA014	MA014	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB055	MB055	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB068	MB068	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA071	MA071	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA054	MA054	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB069	MB069	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB041	MB041	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB077	MB077	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+SH.MA031	MA031	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB081	MB081	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB062	MB062	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB018	MB018	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB048	MB048	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB086	MB086	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB037	MB037	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA047	MA047	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA097	MA097	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB051	MB051	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB026	MB026	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB083	MB083	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB029	MB029	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA010	MA010	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB076	MB076	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB057	MB057	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MB070	MB070	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB004	MB004	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB020	MB020	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA099	MA099	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA033	MA033	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB052	MB052	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA041	MA041	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB009	MB009	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA047	MA047	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA095	MA095	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB002	MB002	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB064	MB064	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB024	MB024	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MA093	MA093	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+SH.MA062	MA062	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA044	MA044	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA062	MA062	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA083	MA083	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA029	MA029	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB041	MB041	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB063	MB063	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB006	MB006	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MA060	MA060	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB037	MB037	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA016	MA016	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB098	MB098	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB090	MB090	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB052	MB052	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA021	MA021	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA081	MA081	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA020	MA020	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA002	MA002	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA040	MA040	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA061	MA061	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA065	MA065	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB086	MB086	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA054	MA054	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA072	MA072	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA069	MA069	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA060	MA060	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB004	MB004	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB083	MB083	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA018	MA018	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB093	MB093	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA007	MA007	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA034	MA034	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB034	MB034	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB062	MB062	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA069	MA069	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB002	MB002	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA084	MA084	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB056	MB056	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB020	MB020	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB046	MB046	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB084	MB084	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB012	MB012	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB093	MB093	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA098	MA098	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB001	MB001	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA098	MA098	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB038	MB038	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA003	MA003	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB033	MB033	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA012	MA012	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA065	MA065	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB046	MB046	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA087	MA087	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA063	MA063	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB045	MB045	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB097	MB097	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA043	MA043	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB096	MB096	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+SH.MB009	MB009	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA059	MA059	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB074	MB074	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA071	MA071	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB014	MB014	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MB013	MB013	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA089	MA089	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA006	MA006	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA046	MA046	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB023	MB023	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA075	MA075	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MB071	MB071	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MA014	MA014	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB092	MB092	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA090	MA090	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB012	MB012	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA042	MA042	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA015	MA015	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB089	MB089	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB070	MB070	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA031	MA031	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA035	MA035	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA087	MA087	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB030	MB030	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+SH.MB066	MB066	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MA021	MA021	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA049	MA049	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA064	MA064	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB097	MB097	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA016	MA016	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB099	MB099	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB048	MB048	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB067	MB067	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB042	MB042	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB019	MB019	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MB100	MB100	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA043	MA043	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB055	MB055	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA048	MA048	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB006	MB006	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MB051	MB051	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA095	MA095	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB099	MB099	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA034	MA034	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA099	MA099	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB089	MB089	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB058	MB058	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA077	MA077	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA083	MA083	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB044	MB044	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB017	MB017	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MB067	MB067	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB015	MB015	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA037	MA037	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA033	MA033	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA085	MA085	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA072	MA072	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB095	MB095	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA094	MA094	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB011	MB011	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB032	MB032	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB072	MB072	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB032	MB032	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA024	MA024	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA079	MA079	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB029	MB029	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA044	MA044	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB040	MB040	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB040	MB040	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA049	MA049	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA025	MA025	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA036	MA036	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA002	MA002	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB042	MB042	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA012	MA012	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA061	MA061	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB100	MB100	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB022	MB022	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB095	MB095	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA088	MA088	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA053	MA053	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA064	MA064	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA048	MA048	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB035	MB035	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA007	MA007	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB094	MB094	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA090	MA090	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB030	MB030	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB056	MB056	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA013	MA013	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA030	MA030	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB045	MB045	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB066	MB066	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MA040	MA040	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB064	MB064	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB014	MB014	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+SH.MA081	MA081	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB038	MB038	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+SH.MB063	MB063	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA089	MA089	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB090	MB090	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB033	MB033	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA030	MA030	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB017	MB017	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MB039	MB039	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB018	MB018	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB049	MB049	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA029	MA029	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB074	MB074	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MB096	MB096	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+CP.MA013	MA013	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA075	MA075	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB058	MB058	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB025	MB025	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB071	MB071	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MA085	MA085	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB049	MB049	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA026	MA026	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA063	MA063	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA046	MA046	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA020	MA020	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB044	MB044	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA024	MA024	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+CP.MA018	MA018	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB027	MB027	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA094	MA094	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB015	MB015	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MB068	MB068	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB013	MB013	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA026	MA026	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MA100	MA100	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA008	MA008	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA045	MA045	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA041	MA041	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB077	MB077	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+SH.MB031	MB031	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA042	MA042	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB085	MB085	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA037	MA037	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA059	MA059	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MA036	MA036	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+CP.MB085	MB085	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA006	MA006	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MA077	MA077	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB026	MB026	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MA088	MA088	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA084	MA084	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	phone
+SH.MA025	MA025	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MB098	MB098	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB025	MB025	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA073	MA073	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MB081	MB081	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA053	MA053	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA093	MA093	ScienceOnline	None	Adult	2/17/2014	Durham	NC	2	shoe
+CP.MB050	MB050	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+CP.MA097	MA097	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA067	MA067	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MA079	MA079	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB011	MB011	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+SH.MB023	MB023	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB094	MB094	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	phone
+SH.MB050	MB050	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	shoe
+CP.MB027	MB027	ScienceOnline	None	Adult	2/17/2014	Durham	NC	3	phone
+SH.MA015	MA015	ScienceOnline	None	Adult	2/17/2014	Durham	NC	4	shoe
+SH.MC076	MC076	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT064	LT064	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME030	ME030	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME019	ME019	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC023	MC023	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.ME014	ME014	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME014	ME014	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME046	ME046	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT072	LT072	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FY070	FY070	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC074	MC074	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC056	MC056	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME052	ME052	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.AM055	AM055	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT067	LT067	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.LT070	LT070	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC021	MC021	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME027	ME027	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT066	LT066	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME036	ME036	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.FY070	FY070	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.LT067	LT067	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.MC055	MC055	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC063	MC063	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.ME024	ME024	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC087	MC087	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT062	LT062	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME041	ME041	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC052	MC052	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.AK078	AK078	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC066	MC066	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT073	LT073	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.ME045	ME045	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC088	MC088	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME013	ME013	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC068	MC068	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC085	MC085	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC068	MC068	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME019	ME019	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.AG095	AG095	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME038	ME038	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC045	MC045	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME026	ME026	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC058	MC058	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC083	MC083	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME050	ME050	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.FZ037	FZ037	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.MC055	MC055	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC082	MC082	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME028	ME028	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FZ010	FZ010	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.MC044	MC044	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FZ006	FZ006	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME055	ME055	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FY029	FY029	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.LT058	LT058	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC091	MC091	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME035	ME035	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC066	MC066	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC044	MC044	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME024	ME024	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC017	MC017	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC051	MC051	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.LT061	LT061	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME027	ME027	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT077	LT077	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME039	ME039	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME054	ME054	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.FZ010	FZ010	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.MC069	MC069	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME018	ME018	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME039	ME039	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC053	MC053	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC001	MC001	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC049	MC049	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC064	MC064	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT077	LT077	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FZ038	FZ038	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.LT070	LT070	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC059	MC059	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.AK071	AK071	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.AK010	AK010	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC084	MC084	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.AK078	AK078	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME060	ME060	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.AG081	AG081	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.LT071	LT071	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME040	ME040	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.AG085	AG085	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC085	MC085	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC002	MC002	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC006	MC006	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.MC005	MC005	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME012	ME012	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME058	ME058	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC004	MC004	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME054	ME054	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.AM056	AM056	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC059	MC059	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.AG098	AG098	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT061	LT061	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC021	MC021	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME036	ME036	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC053	MC053	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT060	LT060	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT059	LT059	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME038	ME038	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC064	MC064	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC071	MC071	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC077	MC077	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME044	ME044	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.FZ037	FZ037	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.FY032	FY032	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.MC017	MC017	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME047	ME047	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.ME013	ME013	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC065	MC065	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME040	ME040	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT074	LT074	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME033	ME033	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME015	ME015	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT074	LT074	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC074	MC074	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC077	MC077	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME018	ME018	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.AG085	AG085	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME049	ME049	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.MC094	MC094	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC061	MC061	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC078	MC078	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC071	MC071	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME022	ME022	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME015	ME015	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FY027	FY027	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC050	MC050	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC065	MC065	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME047	ME047	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC051	MC051	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.ME031	ME031	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC006	MC006	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.LT060	LT060	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME053	ME053	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FZ021	FZ021	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.MC067	MC067	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC087	MC087	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT072	LT072	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME042	ME042	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC088	MC088	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT058	LT058	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME048	ME048	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.AK071	AK071	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.ME057	ME057	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC060	MC060	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC057	MC057	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME053	ME053	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC082	MC082	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC011	MC011	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.ME042	ME042	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC089	MC089	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME017	ME017	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT075	LT075	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME037	ME037	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.MC048	MC048	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME029	ME029	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME055	ME055	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC072	MC072	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC079	MC079	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT069	LT069	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.LT075	LT075	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.FY029	FY029	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.MC076	MC076	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME052	ME052	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC012	MC012	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.AM056	AM056	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC027	MC027	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME059	ME059	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME044	ME044	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME050	ME050	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME043	ME043	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC046	MC046	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME034	ME034	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME020	ME020	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC058	MC058	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC081	MC081	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC073	MC073	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME057	ME057	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC063	MC063	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.LT073	LT073	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.AM055	AM055	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FY032	FY032	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.MC046	MC046	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC056	MC056	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME051	ME051	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.FY027	FY027	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+SH.AG081	AG081	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME041	ME041	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME022	ME022	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT062	LT062	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME016	ME016	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC091	MC091	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC067	MC067	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.FZ038	FZ038	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.AG098	AG098	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT076	LT076	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME058	ME058	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC092	MC092	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME051	ME051	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC094	MC094	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.LT057	LT057	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME045	ME045	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT064	LT064	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.LT076	LT076	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC052	MC052	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.ME060	ME060	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.AK010	AK010	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC023	MC023	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC084	MC084	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC078	MC078	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC004	MC004	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME026	ME026	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME002	ME002	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT068	LT068	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC083	MC083	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT068	LT068	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT063	LT063	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME025	ME025	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME056	ME056	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME016	ME016	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC069	MC069	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME028	ME028	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT071	LT071	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT057	LT057	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC054	MC054	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME035	ME035	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME043	ME043	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC061	MC061	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME025	ME025	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT066	LT066	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME059	ME059	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME002	ME002	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME030	ME030	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC054	MC054	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME020	ME020	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC072	MC072	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC002	MC002	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC060	MC060	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.LT078	LT078	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME032	ME032	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT069	LT069	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT078	LT078	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME033	ME033	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME001	ME001	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME056	ME056	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC027	MC027	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC050	MC050	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.LT059	LT059	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC081	MC081	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.AG095	AG095	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC070	MC070	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC086	MC086	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.LT063	LT063	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC057	MC057	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.FY040	FY040	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC070	MC070	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC048	MC048	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME049	ME049	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC089	MC089	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME034	ME034	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.ME011	ME011	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC045	MC045	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.ME048	ME048	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME037	ME037	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+SH.MC086	MC086	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC012	MC012	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC090	MC090	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.ME046	ME046	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC005	MC005	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.LT065	LT065	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME001	ME001	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.FZ006	FZ006	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.FZ021	FZ021	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	shoe
+CP.ME012	ME012	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME017	ME017	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME011	ME011	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC073	MC073	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LT065	LT065	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+CP.MC011	MC011	SciEngFest	None	Mixed	4/25/2014	Washington	DC	4	phone
+CP.ME032	ME032	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC090	MC090	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME031	ME031	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.ME029	ME029	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+CP.MC079	MC079	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	phone
+SH.MC001	MC001	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.MC092	MC092	SciEngFest	None	Mixed	4/25/2014	Washington	DC	3	shoe
+SH.LR010	LR010	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR011	LR011	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LA083	LA083	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LR016	LR016	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LA090	LA090	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	4	phone
+CP.LA084	LA084	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LA089	LA089	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR003	LR003	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA087	LA087	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LR015	LR015	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LA086	LA086	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LA088	LA088	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR012	LR012	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR001	LR001	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR009	LR009	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR004	LR004	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR008	LR008	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR003	LR003	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LA081	LA081	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA082	LA082	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR016	LR016	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR013	LR013	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR002	LR002	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA089	LA089	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR007	LR007	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR006	LR006	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR006	LR006	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA090	LA090	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	4	shoe
+CP.LA081	LA081	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR008	LR008	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA084	LA084	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LA083	LA083	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR012	LR012	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR010	LR010	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LA087	LA087	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR014	LR014	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LA085	LA085	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR005	LR005	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA085	LA085	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR002	LR002	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LA082	LA082	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LA088	LA088	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LR013	LR013	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LR001	LR001	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR005	LR005	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.LR009	LR009	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR007	LR007	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR015	LR015	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+SH.LR011	LR011	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LR004	LR004	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+SH.LA086	LA086	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	shoe
+CP.LR014	LR014	SmithsonianAirSpace	None	Mixed	9/14/2013	Washington	DC	1	phone
+CP.AB018	AB018	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB056	AB056	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB045	AB045	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB042	AB042	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB012	AB012	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB043	AB043	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB055	AB055	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE024	AE024	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB017	AB017	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB048	AB048	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE022	AE022	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB046	AB046	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE074	AE074	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB043	AB043	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE025	AE025	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB011	AB011	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB051	AB051	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE027	AE027	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE023	AE023	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB005	AB005	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB010	AB010	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB046	AB046	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE038	AE038	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB057	AB057	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE076	AE076	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB050	AB050	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE023	AE023	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE063	AE063	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB006	AB006	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB042	AB042	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE071	AE071	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE030	AE030	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE067	AE067	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE036	AE036	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB018	AB018	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB057	AB057	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE076	AE076	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE065	AE065	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE079	AE079	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB060	AB060	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE063	AE063	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB050	AB050	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE031	AE031	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB058	AB058	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE080	AE080	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB058	AB058	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE066	AE066	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE071	AE071	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE070	AE070	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE024	AE024	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE062	AE062	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE067	AE067	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE030	AE030	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE040	AE040	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB017	AB017	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE026	AE026	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB010	AB010	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB015	AB015	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB060	AB060	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB011	AB011	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE079	AE079	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE027	AE027	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB048	AB048	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE032	AE032	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE062	AE062	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB049	AB049	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB004	AB004	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB051	AB051	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE039	AE039	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AE031	AE031	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB045	AB045	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE066	AE066	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AB004	AB004	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE025	AE025	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE038	AE038	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB005	AB005	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE022	AE022	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE039	AE039	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AB056	AB056	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.AE065	AE065	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE036	AE036	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB055	AB055	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE032	AE032	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB049	AB049	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE026	AE026	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+CP.AB015	AB015	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AB006	AB006	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+CP.AE080	AE080	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	phone
+SH.AE040	AE040	SPURS	Basketball	Mixed	4/12/2013	San Antonio	TX	2	shoe
+SH.FV032	FV032	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV033	FV033	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+CP.FV025	FV025	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV022	FV022	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+SH.FV026	FV026	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV042	FV042	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+CP.FV024	FV024	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+CP.FV026	FV026	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+CP.FV034	FV034	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV024	FV024	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+SH.FV025	FV025	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV032	FV032	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV033	FV033	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV023	FV023	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+CP.FV043	FV043	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+CP.FV022	FV022	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV044	FV044	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+SH.FV042	FV042	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV041	FV041	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV043	FV043	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV021	FV021	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV041	FV041	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.FV044	FV044	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	phone
+SH.FV034	FV034	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+SH.FV023	FV023	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+SH.FV021	FV021	TeachersInSpace	None	Adult	7/19/2013	Palmdale	CA	2	shoe
+CP.LR044	LR044	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	phone
+CP.LR045	LR045	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	phone
+CP.LR043	LR043	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	phone
+SH.LR044	LR044	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	shoe
+CP.LR042	LR042	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	phone
+SH.LR041	LR041	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	shoe
+SH.LR043	LR043	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	shoe
+SH.LR045	LR045	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	shoe
+CP.LR041	LR041	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	phone
+SH.LR042	LR042	Tufts	None	Adult	9/26/2013	Longmeadow	MA	1	shoe
+CP.AH040	AH040	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH022	AH022	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH003	AH003	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH037	AH037	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AD042	AD042	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AD053	AD053	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH031	AH031	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH035	AH035	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AD045	AD045	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH030	AH030	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH001	AH001	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH006	AH006	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AD048	AD048	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AD055	AD055	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH036	AH036	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH018	AH018	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH020	AH020	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH033	AH033	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH036	AH036	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH038	AH038	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH011	AH011	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH017	AH017	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH002	AH002	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH020	AH020	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AD046	AD046	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH013	AH013	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH003	AH003	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH038	AH038	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH008	AH008	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH040	AH040	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH016	AH016	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH008	AH008	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH023	AH023	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH024	AH024	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AD044	AD044	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AD052	AD052	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH005	AH005	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AD045	AD045	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AD053	AD053	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH013	AH013	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH021	AH021	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH007	AH007	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AD052	AD052	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH004	AH004	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH009	AH009	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH012	AH012	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH001	AH001	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH011	AH011	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH023	AH023	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH005	AH005	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH033	AH033	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH012	AH012	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AD055	AD055	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH026	AH026	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH024	AH024	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH004	AH004	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AD048	AD048	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH034	AH034	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AD046	AD046	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH010	AH010	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH019	AH019	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH026	AH026	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH022	AH022	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH018	AH018	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH006	AH006	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH010	AH010	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AH016	AH016	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AD042	AD042	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH017	AH017	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH030	AH030	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+CP.AD044	AD044	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH035	AH035	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH009	AH009	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH031	AH031	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH034	AH034	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH021	AH021	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH037	AH037	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH025	AH025	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH025	AH025	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AH007	AH007	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+SH.AH019	AH019	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	shoe
+CP.AH002	AH002	TulsaCCBio	None	Adult	9/11/2013	Tulsa	OK	3	phone
+SH.AD087	AD087	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD094	AD094	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD092	AD092	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD095	AD095	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.AE006	AE006	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.AE010	AE010	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD081	AD081	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AE008	AE008	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD096	AD096	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD091	AD091	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.AD098	AD098	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD093	AD093	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD085	AD085	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD098	AD098	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD085	AD085	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AE010	AE010	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD091	AD091	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD082	AD082	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AE005	AE005	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD090	AD090	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD082	AD082	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AE006	AE006	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD092	AD092	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AE005	AE005	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD083	AD083	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD084	AD084	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD083	AD083	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD088	AD088	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD095	AD095	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AE008	AE008	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FT024	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT028	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FT086	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT025	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.AK008	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FT027	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FR089	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AK005	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FR088	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD089	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FT087	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT033	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FT089	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.FZ014	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	shoe
+SH.AD047	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	shoe
+CP.FR089	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+cp.fv008	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.AD086	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FT028	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FT088	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FT033	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FY078	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	shoe
+CP.AQ049	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.FT085	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.AD089	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.AD039	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AE001	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+DavidCoil.Stadium.Seat	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	other
+SH.FT082	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.AE012	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.AD086	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.LV020	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	phone
+CP.FT023	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.AD041	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	shoe
+SH.FT024	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FT082	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.AK039	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FT029	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.FT081	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.FT031	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.AB097	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+DavidCoil.Goal.Post	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	other
+SH.FT030	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FT097	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FR097	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.FT025	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT031	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FX068	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FR090	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AD041	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	phone
+CP.AC048	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.AE001	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FT023	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.FT021	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+S.EXTRA	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	other
+CP.FT026	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FR088	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AK008	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.FT083	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.MH057	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	phone
+CP.FT030	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+BLANK1	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	other
+CP.AD047	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	phone
+AK.AG035	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	other
+SH.FT087	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+BLANK2	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	other
+SH.AD099	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AC048	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FT081	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FT035	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.FT088	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT027	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FT032	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FX068	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.FT090	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.AG040	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.AK057	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.FT091	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.FT086	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+SH.MC080	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	shoe
+SH.FR086	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AQ052	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.LV020	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	shoe
+CP.FR086	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.FR090	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AD097	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+C.EXTRA	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	other
+SH.FT026	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FT032	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FR087	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FT034	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FT091	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.MC080	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	phone
+SH.MH057	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	shoe
+CP.AH094	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.MB075	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	shoe
+SH.AD039	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+DavidCoil.Field	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	other
+CP.FT021	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.FT034	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.FT029	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.AG092	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT084	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FZ014	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	phone
+CP.FT089	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+noID	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	other
+CP.AG040	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.AD099	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.FT097	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.AB094	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AD100	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AB097	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+CP.FY078	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	phone
+CP.AB095	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+CP.S030	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	4	phone
+SH.FT083	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.AK039	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.FT035	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.AG092	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+CP.FT090	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.FT084	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.AD056	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	shoe
+CP.AK057	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+CP.AK005	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	phone
+SH.AH094	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	shoe
+SH.FT085	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	shoe
+BLANK3	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	2	other
+CP.AD056	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	3	phone
+CP.AQ052	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1	phone
+SH.AQ046	AQ046	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ056	AQ056	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ048	AQ048	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ055	AQ055	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ060	AQ060	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ044	AQ044	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ059	AQ059	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ054	AQ054	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ047	AQ047	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ042	AQ042	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ045	AQ045	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ056	AQ056	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ051	AQ051	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ053	AQ053	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ050	AQ050	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ050	AQ050	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ042	AQ042	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+SH.AQ055	AQ055	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ059	AQ059	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ057	AQ057	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ048	AQ048	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ058	AQ058	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ041	AQ041	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ045	AQ045	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ057	AQ057	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ053	AQ053	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ051	AQ051	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+SH.AQ060	AQ060	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	shoe
+CP.AQ044	AQ044	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ046	AQ046	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ047	AQ047	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ058	AQ058	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AQ054	AQ054	Wildrose	None	Kid	9/24/2013	Monrovia	CA	1	phone
+CP.AA041	AA041	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+CP.AA048	AA048	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+CP.AA052	AA052	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+SH.AA049	AA049	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+SH.AA052	AA052	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+CP.AA047	AA047	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+SH.AA048	AA048	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+CP.AA042	AA042	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+SH.AA038	AA038	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+SH.AA041	AA041	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+CP.AA049	AA049	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+CP.AA038	AA038	YNDC	None	Adult	4/12/2013	Washington	DC	2	phone
+SH.AA047	AA047	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+SH.AA042	AA042	YNDC	None	Adult	4/12/2013	Washington	DC	2	shoe
+CP.AA072	AA072	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA076	AA076	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA066	AA066	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA063	AA063	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA071	AA071	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA064	AA064	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA067	AA067	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA075	AA075	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA062	AA062	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA072	AA072	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA074	AA074	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA077	AA077	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA068	AA068	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA062	AA062	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA061	AA061	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA057	AA057	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA073	AA073	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA054	AA054	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA077	AA077	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA069	AA069	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA060	AA060	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA073	AA073	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA069	AA069	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA067	AA067	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA064	AA064	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA078	AA078	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA063	AA063	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA070	AA070	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA055	AA055	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA065	AA065	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA058	AA058	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA076	AA076	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA057	AA057	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA075	AA075	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA058	AA058	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA078	AA078	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA060	AA060	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA055	AA055	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA066	AA066	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA056	AA056	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA070	AA070	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA054	AA054	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+SH.AA065	AA065	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA071	AA071	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA056	AA056	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA053	AA053	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AA053	AA053	YNNC	None	Adult	4/12/2013	Durham	NC	2	shoe
+CP.AA061	AA061	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA074	AA074	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+CP.AA068	AA068	YNNC	None	Adult	4/12/2013	Durham	NC	2	phone
+SH.AC016	AC016	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC010	AC010	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC009	AC009	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC023	AC023	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC024	AC024	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC021	AC021	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC023	AC023	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC015	AC015	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC011	AC011	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC003	AC003	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC018	AC018	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC020	AC020	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC017	AC017	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC012	AC012	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC010	AC010	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC019	AC019	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC004	AC004	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC001	AC001	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC020	AC020	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC016	AC016	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC005	AC005	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC014	AC014	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC022	AC022	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC015	AC015	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC009	AC009	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC003	AC003	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC013	AC013	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC019	AC019	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC005	AC005	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC017	AC017	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC001	AC001	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC013	AC013	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC012	AC012	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC011	AC011	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC014	AC014	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC004	AC004	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+CP.AC021	AC021	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC006	AC006	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+CP.AC006	AC006	YNNY	None	Adult	4/16/2013	New York	NY	2	phone
+SH.AC024	AC024	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.AC018	AC018	YNNY	None	Adult	4/16/2013	New York	NY	2	shoe
+SH.FZ084	FZ084	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR098	LR098	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR090	LR090	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ072	FZ072	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR064	LR064	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ042	FZ042	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ060	FZ060	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ096	FZ096	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR078	LR078	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ050	FZ050	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ047	FZ047	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR068	LR068	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR081	LR081	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR092	LR092	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR076	LR076	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR061	LR061	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ056	FZ056	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR075	LR075	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR068	LR068	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ088	FZ088	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ046	FZ046	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR062	LR062	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR099	LR099	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR075	LR075	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR084	LR084	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ098	FZ098	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ088	FZ088	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR088	LR088	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR065	LR065	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ052	FZ052	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR095	LR095	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ055	FZ055	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ062	FZ062	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR077	LR077	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ079	FZ079	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR096	LR096	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR076	LR076	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ069	FZ069	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ065	FZ065	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR074	LR074	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ048	FZ048	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ093	FZ093	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ086	FZ086	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR071	LR071	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ085	FZ085	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ093	FZ093	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ089	FZ089	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ079	FZ079	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ061	FZ061	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR088	LR088	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ080	FZ080	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ063	FZ063	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ091	FZ091	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ084	FZ084	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ055	FZ055	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ041	FZ041	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR097	LR097	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ089	FZ089	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ077	FZ077	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR079	LR079	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ052	FZ052	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ070	FZ070	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ047	FZ047	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ059	FZ059	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ087	FZ087	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR083	LR083	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ067	FZ067	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ053	FZ053	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR062	LR062	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ059	FZ059	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ070	FZ070	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ080	FZ080	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR061	LR061	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ097	FZ097	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ097	FZ097	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR095	LR095	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR082	LR082	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ099	FZ099	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR079	LR079	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ044	FZ044	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ082	FZ082	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ081	FZ081	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ054	FZ054	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR097	LR097	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR064	LR064	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ058	FZ058	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ072	FZ072	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR073	LR073	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ083	FZ083	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR087	LR087	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR074	LR074	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR063	LR063	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ069	FZ069	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ042	FZ042	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ075	FZ075	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ049	FZ049	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ057	FZ057	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR094	LR094	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ096	FZ096	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ049	FZ049	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ099	FZ099	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR100	LR100	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ074	FZ074	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ087	FZ087	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR089	LR089	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR092	LR092	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR063	LR063	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR084	LR084	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ081	FZ081	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR090	LR090	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR073	LR073	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR078	LR078	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ060	FZ060	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR069	LR069	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR072	LR072	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ056	FZ056	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR085	LR085	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ098	FZ098	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR077	LR077	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ091	FZ091	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR091	LR091	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ057	FZ057	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ092	FZ092	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ075	FZ075	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR094	LR094	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR080	LR080	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR072	LR072	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ094	FZ094	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ086	FZ086	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ041	FZ041	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR086	LR086	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR100	LR100	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ078	FZ078	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ064	FZ064	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ074	FZ074	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ068	FZ068	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ076	FZ076	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ050	FZ050	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR067	LR067	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ062	FZ062	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR071	LR071	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ071	FZ071	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ092	FZ092	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ083	FZ083	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR093	LR093	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR081	LR081	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR086	LR086	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ095	FZ095	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ076	FZ076	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ046	FZ046	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR099	LR099	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR093	LR093	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ058	FZ058	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ065	FZ065	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR091	LR091	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ100	FZ100	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.LR066	LR066	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ090	FZ090	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR067	LR067	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR082	LR082	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ066	FZ066	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ054	FZ054	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ073	FZ073	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ068	FZ068	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ100	FZ100	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR066	LR066	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ051	FZ051	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ073	FZ073	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ053	FZ053	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR087	LR087	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR069	LR069	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ077	FZ077	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR080	LR080	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ071	FZ071	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ044	FZ044	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ085	FZ085	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.LR083	LR083	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ095	FZ095	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ061	FZ061	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ082	FZ082	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR098	LR098	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.FZ094	FZ094	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ064	FZ064	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+CP.FZ045	FZ045	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ066	FZ066	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ063	FZ063	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ045	FZ045	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ048	FZ048	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR085	LR085	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.FZ051	FZ051	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+CP.LR065	LR065	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	phone
+SH.LR089	LR089	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ078	FZ078	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ090	FZ090	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
+SH.FZ067	FZ067	YYCPA	None	Mixed	4/14/2014	Houston	TX	4	shoe
