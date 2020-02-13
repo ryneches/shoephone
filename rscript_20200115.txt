@@ -1,0 +1,485 @@
+library(vegan)
+library(dplyr)
+library(tibble)
+library(ggplot2)
+library(ade4)
+library(phyloseq)
+library(exactRankTests)
+library(ade4)
+
+
+##########################
+##########################
+##### This portion of the code was taken directly from
+##### https://github.com/zellerlab/crc_meta/blob/master/src/ANCOM_updated.R
+# January 31, 2019
+# (Removed the commented examples from the bottom)
+#
+###
+# Downloaded from https://sites.google.com/site/siddharthamandal1985/research
+# on 2019-01-28
+# I commented out the examples so that the code can be sourced from
+#   other scripts, otherwise the code is unchanged - Jakob Wirbel
+#
+# EDIT: Added progressbar for better estimation of remaining run-time
+###
+
+ancom.W = function(otu_data,var_data,
+                   adjusted,repeated,
+		                  main.var,adj.formula,
+				                         repeat.var,long,rand.formula,
+							                    multcorr,sig){
+
+  n_otu=dim(otu_data)[2]-1
+
+  otu_ids=colnames(otu_data)[-1]
+
+  if(repeated==F){
+      data_comp=data.frame(merge(otu_data,var_data,by="Sample.ID",all.y=T),row.names=NULL)
+          #data_comp=data.frame(merge(otu_data,var_data[,c("Sample.ID",main.var)],by="Sample.ID",all.y=T),row.names=NULL)
+	    }else if(repeated==T){
+	        data_comp=data.frame(merge(otu_data,var_data,by="Sample.ID"),row.names=NULL)
+		   # data_comp=data.frame(merge(otu_data,var_data[,c("Sample.ID",main.var,repeat.var)],by="Sample.ID"),row.names=NULL)
+		     }
+
+  base.formula = paste0("lr ~ ",main.var)
+    if(repeated==T){
+        repeat.formula = paste0(base.formula," | ", repeat.var)
+	  }
+	    if(adjusted==T){
+	        adjusted.formula = paste0(base.formula," + ", adj.formula)
+		  }
+
+  if( adjusted == F & repeated == F ){
+      fformula  <- formula(base.formula)
+        } else if( adjusted == F & repeated == T & long == T ){
+	    fformula  <- formula(base.formula)
+	      }else if( adjusted == F & repeated == T & long == F ){
+	          fformula  <- formula(repeat.formula)
+		    }else if( adjusted == T & repeated == F  ){
+		        fformula  <- formula(adjusted.formula)
+			  }else if( adjusted == T & repeated == T  ){
+			      fformula  <- formula(adjusted.formula)
+			        }else{
+				    stop("Problem with data. Dataset should contain OTU abundances, groups,
+				             and optionally an ID for repeated measures.")
+					       }
+
+
+
+    if( repeated==FALSE & adjusted == FALSE){
+           if( length(unique(data_comp[,which(colnames(data_comp)==main.var)]))==2 ){
+	             tfun <- exactRankTests::wilcox.exact
+		            } else{
+			              tfun <- stats::kruskal.test
+				          }
+					      }else if( repeated==FALSE & adjusted == TRUE){
+					            tfun <- stats::aov
+						        }else if( repeated== TRUE & adjusted == FALSE & long == FALSE){
+							      tfun <- stats::friedman.test
+							          }else if( repeated== TRUE & adjusted == FALSE & long == TRUE){
+								        tfun <- nlme::lme
+									    }else if( repeated== TRUE & adjusted == TRUE){
+									          tfun <- nlme::lme
+										      }
+
+  logratio.mat <- matrix(NA, nrow=n_otu, ncol=n_otu)
+    for(ii in 1:(n_otu-1)){
+        for(jj in (ii+1):n_otu){
+	      data.pair <- data_comp[,which(colnames(data_comp)%in%otu_ids[c(ii,jj)])]
+	            lr <- log((1+as.numeric(data.pair[,1]))/(1+as.numeric(data.pair[,2])))
+
+      lr_dat <- data.frame( lr=lr, data_comp,row.names=NULL )
+
+      if(adjusted==FALSE&repeated==FALSE){  ## Wilcox, Kruskal Wallis
+              logratio.mat[ii,jj] <- tfun( formula=fformula, data = lr_dat)$p.value
+	            }else if(adjusted==FALSE&repeated==TRUE&long==FALSE){ ## Friedman's
+		            logratio.mat[ii,jj] <- tfun( formula=fformula, data = lr_dat)$p.value
+			          }else if(adjusted==TRUE&repeated==FALSE){ ## ANOVA
+				          model=tfun(formula=fformula, data = lr_dat,na.action=na.omit)
+					          picker=which(gsub(" ","",row.names(summary(model)[[1]]))==main.var)
+						          logratio.mat[ii,jj] <- summary(model)[[1]][["Pr(>F)"]][picker]
+							        }else if(repeated==TRUE&long==TRUE){ ## GEE
+								        model=tfun(fixed=fformula,data = lr_dat,
+									                   random = formula(rand.formula),
+											                      correlation=corAR1(),
+													                         na.action=na.omit)
+																         picker=which(gsub(" ","",row.names(anova(model)))==main.var)
+																	         logratio.mat[ii,jj] <- anova(model)[["p-value"]][picker]
+																		       }
+
+    }
+      }
+
+  ind <- lower.tri(logratio.mat)
+    logratio.mat[ind] <- t(logratio.mat)[ind]
+
+
+  logratio.mat[which(is.finite(logratio.mat)==FALSE)] <- 1
+
+  mc.pval <- t(apply(logratio.mat,1,function(x){
+      s <- p.adjust(x, method = "BH")
+          return(s)
+	    }))
+
+  a <- logratio.mat[upper.tri(logratio.mat,diag=FALSE)==TRUE]
+
+  b <- matrix(0,ncol=n_otu,nrow=n_otu)
+    b[upper.tri(b)==T] <- p.adjust(a, method = "BH")
+      diag(b)  <- NA
+        ind.1    <- lower.tri(b)
+	  b[ind.1] <- t(b)[ind.1]
+
+  #########################################
+    ### Code to extract surrogate p-value
+      surr.pval <- apply(mc.pval,1,function(x){
+          s0=quantile(x[which(as.numeric(as.character(x))<sig)],0.95)
+	      # s0=max(x[which(as.numeric(as.character(x))<alpha)])
+	          return(s0)
+		    })
+		      #########################################
+		        ### Conservative
+			  if(multcorr==1){
+			      W <- apply(b,1,function(x){
+			            subp <- length(which(x<sig))
+				        })
+					    ### Moderate
+					      } else if(multcorr==2){
+					          W <- apply(mc.pval,1,function(x){
+						        subp <- length(which(x<sig))
+							    })
+							        ### No correction
+								  } else if(multcorr==3){
+								      W <- apply(logratio.mat,1,function(x){
+								            subp <- length(which(x<sig))
+									        })
+										  }
+
+  return(W)
+    }
+    ANCOM.main = function(OTUdat,Vardat,
+                          adjusted,repeated,
+			                        main.var,adj.formula,
+						                      repeat.var,longitudinal,
+								                            random.formula,
+											                          multcorr,sig,
+														                        prev.cut){
+
+  p.zeroes=apply(OTUdat[,-1],2,function(x){
+      s=length(which(x==0))/length(x)
+        })
+
+  zeroes.dist=data.frame(colnames(OTUdat)[-1],p.zeroes,row.names=NULL)
+    colnames(zeroes.dist)=c("Taxon","Proportion_zero")
+
+  zero.plot = ggplot(zeroes.dist, aes(x=Proportion_zero)) +
+                geom_histogram(binwidth=0.1,colour="black",fill="white") +
+		              xlab("Proportion of zeroes") + ylab("Number of taxa") +
+			                    theme_bw()
+
+  #print(zero.plot)
+
+  OTUdat.thinned=OTUdat
+    OTUdat.thinned=OTUdat.thinned[,c(1,1+which(p.zeroes<prev.cut))]
+
+  otu.names=colnames(OTUdat.thinned)[-1]
+
+  W.detected   <- ancom.W(OTUdat.thinned,Vardat,
+                            adjusted,repeated,
+			                              main.var,adj.formula,
+						                                repeat.var,longitudinal,random.formula,
+										                          multcorr,sig)
+
+  W_stat       <- W.detected
+
+
+  ### Bubble plot
+
+  W_frame = data.frame(otu.names,W_stat,row.names=NULL)
+    W_frame = W_frame[order(-W_frame$W_stat),]
+
+  W_frame$detected_0.9=rep(FALSE,dim(W_frame)[1])
+    W_frame$detected_0.8=rep(FALSE,dim(W_frame)[1])
+      W_frame$detected_0.7=rep(FALSE,dim(W_frame)[1])
+        W_frame$detected_0.6=rep(FALSE,dim(W_frame)[1])
+
+  W_frame$detected_0.9[which(W_frame$W_stat>0.9*(dim(OTUdat.thinned[,-1])[2]-1))]=TRUE
+    W_frame$detected_0.8[which(W_frame$W_stat>0.8*(dim(OTUdat.thinned[,-1])[2]-1))]=TRUE
+      W_frame$detected_0.7[which(W_frame$W_stat>0.7*(dim(OTUdat.thinned[,-1])[2]-1))]=TRUE
+        W_frame$detected_0.6[which(W_frame$W_stat>0.6*(dim(OTUdat.thinned[,-1])[2]-1))]=TRUE
+
+  final_results=list(W_frame,zero.plot)
+    names(final_results)=c("W.taxa","PLot.zeroes")
+      return(final_results)
+      }
+
+############################
+############################
+####
+#### End of copied code from
+#### https://github.com/zellerlab/crc_meta/blob/master/src/ANCOM_updated.R
+#### Jan 31, 2019
+####
+############################
+############################
+
+load("R_session_20190402.rdata")
+
+print("ps")
+ps
+sd(sample_sums(ps))
+mean(sample_sums(ps))
+
+
+ps0.redo<-subset_samples(ps, Study=="cpr")
+print("ps0.redo")
+ps0.redo
+sd(sample_sums(ps0.redo))
+mean(sample_sums(ps0.redo))
+
+ps0.redo.1<-subset_taxa(ps0.redo, sample_sums(ps0.redo) > 0)
+print("ps0.redo.1")
+ps0.redo.1
+sd(sample_sums(ps0.redo.1))
+mean(sample_sums(ps0.redo.1))
+
+
+
+
+
+ps0.redo.cpr<-subset_taxa(ps0.redo.1, Kingdom == "Bacteria" & Family  != "mitochondria" & Family  != "Mitochondria" & Class  != "chloroplast" & Class  != "Chloroplast")
+
+print("ps0.redo.cpr")
+
+ps0.redo.cpr
+sd(sample_sums(ps0.redo.cpr))
+mean(sample_sums(ps0.redo.cpr))
+
+
+ps0.redo.cpr.1<-subset_samples(ps0.redo.cpr, Sample!="Unknown")
+ps0.redo.cpr.2<-subset_samples(ps0.redo.cpr.1, sample_sums(ps0.redo.cpr.1)>=1)
+print("ps0.redo.cpr.1")
+ps0.redo.cpr.1
+sd(sample_sums(ps0.redo.cpr.1))
+mean(sample_sums(ps0.redo.cpr.1))
+print("ps0.redo.cpr.2")
+ps0.redo.cpr.2
+sd(sample_sums(ps0.redo.cpr.2))
+mean(sample_sums(ps0.redo.cpr.2))
+
+
+
+ps0.redo.cpr.rar <- rarefy_even_depth(ps0.redo.cpr.2, sample.size=10000, rngseed=8)
+print("ps0.redo.cpr.rar")
+ps0.redo.cpr.rar
+sd(sample_sums(ps0.redo.cpr.rar))
+mean(sample_sums(ps0.redo.cpr.rar))
+
+
+ps0.redo.cpr.rar.phone <- subset_samples(ps0.redo.cpr.rar, Type=='phone')
+print("ps0.redo.cpr.rar.phone")
+ps0.redo.cpr.rar.phone
+sd(sample_sums(ps0.redo.cpr.rar.phone))
+mean(sample_sums(ps0.redo.cpr.rar.phone))
+
+
+print("ps0.redo.cpr.rar.shoe")
+ps0.redo.cpr.rar.shoe <- subset_samples(ps0.redo.cpr.rar, Type=='shoe')
+ps0.redo.cpr.rar.shoe
+sd(sample_sums(ps0.redo.cpr.rar.shoe))
+mean(sample_sums(ps0.redo.cpr.rar.shoe))
+
+
+ps0.redo.cpr.rar.phone.meta <- sample_data(ps0.redo.cpr.rar.phone)
+ps0.redo.cpr.rar.shoe.meta <- sample_data(ps0.redo.cpr.rar.shoe)
+ps0.redo.cpr.rar.paired.shoe<-subset_samples(ps0.redo.cpr.rar.shoe, Sample %in% ps0.redo.cpr.rar.phone.meta$Sample)
+ps0.redo.cpr.rar.paired.phone<-subset_samples(ps0.redo.cpr.rar.phone, Sample %in% ps0.redo.cpr.rar.shoe.meta$Sample)
+
+ps0.redo.cpr.rar.paired.shoe
+sd(sample_sums(ps0.redo.cpr.rar.paired.shoe))
+mean(sample_sums(ps0.redo.cpr.rar.paired.shoe))
+ps0.redo.cpr.rar.paired.phone
+sd(sample_sums(ps0.redo.cpr.rar.paired.phone))
+mean(sample_sums(ps0.redo.cpr.rar.paired.phone))
+print("ps0.redo.cpr.rar.paired")
+ps0.redo.cpr.rar.paired <- merge_phyloseq(ps0.redo.cpr.rar.paired.phone, ps0.redo.cpr.rar.paired.shoe)
+ps0.redo.cpr.rar.paired
+sd(sample_sums(ps0.redo.cpr.rar.paired))
+mean(sample_sums(ps0.redo.cpr.rar.paired))
+
+
+ps0.redo.cpr.rar.paired.rich = plot_richness(ps0.redo.cpr.rar.paired, measures=c("Observed", "Shannon"), x="Type",color="Type")
+ps0.redo.cpr.rar.paired.rich = ps0.redo.cpr.rar.paired.rich + theme(text = element_text(size=48)) + geom_jitter() + geom_boxplot() +theme(axis.text.x = element_text(angle=0, hjust=.5, vjust=0))
+png("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.rar.paired.rich.png", 1600, 1600)
+#s0.redo.cpr.rar.paired.rich + facet_wrap(~v, labeller=labeller(variable = labels_letters), nrow=1, scales = "free")
+labels_letters <- c(Observed = "A) Observed Counts", Shannon = "B) Shannon")
+ps0.redo.cpr.rar.paired.rich + facet_wrap(~Type, labeller=labeller(variable = labels_letters), nrow=1, scales = "free")
+dev.off()
+
+
+
+#source("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/ANCOM.main.R");
+
+prevalenceThreshold = 0.05 * nsamples(ps0.redo.cpr.2)
+prevalenceThreshold
+ps0.redo.cpr.prev = prune_taxa((prev0 > prevalenceThreshold), ps0.redo.cpr.2)
+
+print("ps0.redo.cpr.prev")
+ps0.redo.cpr.prev
+sd(sample_sums(ps0.redo.cpr.prev))
+mean(sample_sums(ps0.redo.cpr.prev))
+ps0.redo.cpr.prev.rar <- rarefy_even_depth(ps0.redo.cpr.prev, sample.size=10000, rngseed=8)
+print("ps0.redo.cpr.prev.rar")
+ps0.redo.cpr.prev.rar
+sd(sample_sums(ps0.redo.cpr.prev.rar))
+mean(sample_sums(ps0.redo.cpr.prev.rar))
+
+ps0.redo.cpr.rar.asvtable <- as.data.frame(otu_table(ps0.redo.cpr.prev.rar))
+ps0.redo.cpr.rar.metadata <- as.data.frame(sample_data(ps0.redo.cpr.prev.rar))
+ps0.redo.cpr.rar.asvtable <- cbind("Sample.ID" = rownames(ps0.redo.cpr.rar.asvtable), ps0.redo.cpr.rar.asvtable)
+ps0.redo.cpr.rar.metadata <- cbind("Sample.ID" = rownames(ps0.redo.cpr.rar.metadata), ps0.redo.cpr.rar.metadata)
+
+
+ps0.redo.cpr.rar.asvtable <- as.data.frame(otu_table(ps0.redo.cpr.prev.rar))
+ps0.redo.cpr.rar.metadata <- as.data.frame(sample_data(ps0.redo.cpr.prev.rar))
+ps0.redo.cpr.rar.asvtable <- cbind("Sample.ID" = rownames(ps0.redo.cpr.rar.asvtable), ps0.redo.cpr.rar.asvtable)
+ps0.redo.cpr.rar.metadata <- cbind("Sample.ID" = rownames(ps0.redo.cpr.rar.metadata), ps0.redo.cpr.rar.metadata)
+ps0.redo.cpr.rar.ancom=ANCOM.main(OTUdat=ps0.redo.cpr.rar.asvtable ,Vardat=ps0.redo.cpr.rar.metadata,adjusted=FALSE,repeated=F,main.var="Type", repeat.var=NULL,sig=0.05,prev.cut=0.90,multcorr=2,)
+
+shape15.ancom <- subset(ps0.redo.cpr.rar.ancom$W.taxa,ps0.redo.cpr.rar.ancom$W.taxa$detected_0.9 == "TRUE")
+print("ancom done");
+
+ps0.redo.cpr.rar.tax <- tax_table(ps0.redo.cpr.prev.rar)
+ps0.redo.cpr.rar.tax <- as.data.frame(ps0.redo.cpr.rar.tax)
+ps0.redo.cpr.rar.tax.tmp <- ps0.redo.cpr.rar.tax %>% tibble::rownames_to_column('ASV')
+ps0.redo.cpr.rar.tax.tmp <- mutate(ps0.redo.cpr.rar.tax.tmp, Shape = ifelse( ps0.redo.cpr.rar.tax.tmp$ASV %in% shape15.ancom$otu.names , '15', '1'))
+ps0.redo.cpr.rar.tax.tmp <- mutate(ps0.redo.cpr.rar.tax.tmp, Alpha = ifelse( ps0.redo.cpr.rar.tax.tmp$ASV %in% shape15.ancom$otu.names , '1', '0'))
+ps0.redo.cpr.rar.tax.tmp <- mutate(ps0.redo.cpr.rar.tax.tmp, ANCOM = ifelse( ps0.redo.cpr.rar.tax.tmp$ASV %in% shape15.ancom$otu.names , 'TRUE', 'FALSE'))
+
+ps0.redo.cpr.rar.tax.tmp <- mutate(ps0.redo.cpr.rar.tax.tmp, ColorsChange = ifelse( ! ps0.redo.cpr.rar.tax.tmp$ASV %in% shape15.ancom$otu.names,'white', ifelse( Phylum == "Proteobacteria" , "orange" , ifelse( Phylum == "Firmicutes" , "purple" , ifelse( Phylum == "Actinobacteria" , "red" , ifelse( Phylum == "Cyanobacteria" , "cyan" , ifelse( Phylum == "Fusobacteria" , "blue" , ifelse( Phylum == "Bacteroidetes" , "green" , ifelse( Phylum == "Deinococcus-Thermus" , "pink" , "white")))))))))
+
+
+
+
+
+
+#write.table(ps2.redo.cpr.n0.tax.tmp, file="ps2.redo.cpr.n0.tax.tsv", sep="\t")
+ps0.redo.cpr.rar.ord <- ordinate(ps0.redo.cpr.prev.rar, "PCoA", "bray")
+print("ordinate done");
+ps0.redo.cpr.rar.ord.phones <- select( as.data.frame(ps0.redo.cpr.rar.ord$vectors),  Axis.1,Axis.2)
+ps0.redo.cpr.rar.ord.shoes <- select( as.data.frame(ps0.redo.cpr.rar.ord$vectors),  Axis.1,Axis.2)
+ps0.redo.cpr.rar.phone <- subset_samples(ps0.redo.cpr.prev.rar, Type=='phone')
+ps0.redo.cpr.rar.shoe <- subset_samples(ps0.redo.cpr.prev.rar, Type=='shoe')
+ps0.redo.cpr.rar.phones.samples <- rownames(sample_data(ps0.redo.cpr.rar.phone))
+ps0.redo.cpr.rar.shoes.samples <- rownames(sample_data(ps0.redo.cpr.rar.shoe))
+ps0.redo.cpr.rar.ord.phones <- subset(ps0.redo.cpr.rar.ord.phones, rownames(ps0.redo.cpr.rar.ord.phones) %in% ps0.redo.cpr.rar.phones.samples)
+ps0.redo.cpr.rar.ord.shoes <- subset(ps0.redo.cpr.rar.ord.shoes, rownames(ps0.redo.cpr.rar.ord.shoes) %in% ps0.redo.cpr.rar.shoes.samples)
+x1=mean(ps0.redo.cpr.rar.ord.phones$Axis.1)
+y1=mean(ps0.redo.cpr.rar.ord.phones$Axis.2)
+y2=mean(ps0.redo.cpr.rar.ord.shoes$Axis.2)
+x2=mean(ps0.redo.cpr.rar.ord.shoes$Axis.1)
+slope1 = (y2-y1)/(x2-x1)
+lineslope = -1/slope1
+mpx = (x1+x2)/2
+mpy = (y1+y2)/2
+yintercept= mpy - (lineslope * mpx)
+pc1 <- 100*ps0.redo.cpr.rar.ord$values$Relative_eig[1]
+pc2 <- 100*ps0.redo.cpr.rar.ord$values$Relative_eig[2]
+pc1 <- format(round(pc1, 2), nsmall = 2)
+pc2 <- format(round(pc2, 2), nsmall = 2)
+print("Line calculation done");
+
+#load("");
+ps0.redo.cpr.rar.Taxa.phy<-plot_ordination(ps0.redo.cpr.prev.rar, ps0.redo.cpr.rar.ord, type="Taxa", color=ps0.redo.cpr.rar.tax.tmp$ColorsChange, title="\nPCoA ordination of Bray-Curtis distances split by Phyla\n")+labs(x=paste("PC1 - ",pc1, "%"),y=paste("PC2 - ",pc2, "%"))+facet_wrap(~Phylum, 3)+geom_point( size=5 , shape=as.integer(ps0.redo.cpr.rar.tax.tmp$Shape), alpha=as.integer(ps0.redo.cpr.rar.tax.tmp$Alpha))+theme_bw()+theme(panel.border = element_rect(colour="black",size=5,fill=NA), legend.position="none",axis.text.x = element_blank(),axis.text.y=element_blank(),plot.title = element_text(hjust = 0.5, size=40) )+ geom_abline(intercept = yintercept, slope = lineslope, color="black", size=2, linetype = "dashed")+theme(strip.text.x = element_text(size = 24, colour = "black"))+theme(axis.title.y = element_text(size = 24, angle = 90))+theme(axis.title.x = element_text(size = 24, angle = 00))
+png("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.rar.10krar.PhylaAll.png", 1600, 1600)
+ps0.redo.cpr.rar.Taxa.phy
+dev.off()
+print("Taxa plot color by phylum1");
+
+ps0.redo.cpr.rar.Sample.phy<-plot_ordination(ps0.redo.cpr.prev.rar, ps0.redo.cpr.rar.ord, color="Type", title="" ) +theme( axis.text=element_text(size=20),axis.title=element_text(size=24,face="bold"),legend.title=element_text(size=38,face="bold"),legend.text=element_text(size=35),legend.background = element_rect(fill = 'white', colour = 'white'),panel.background = element_rect(fill = 'white', colour = 'white') ) +scale_color_manual(values = cbbPalette) + geom_point( size=5 )+labs(x=paste("PC1 - ",pc1,"%"),y=paste("PC2 - ",pc2,"%" ))+geom_abline(intercept = yintercept, slope = lineslope, color="black", linetype="dashed", size=2)
+
+#ps0.redo.cpr.rar.Sample.phy<-plot_ordination(ps0.redo.cpr.rar, ps0.redo.cpr.rar.ord, type="Sample", color="SampleType", title="\nPCoA ordination of Bray-Curtis distances\n")+labs(x=paste("PC1 - ",pc1, "%"),y=paste("PC2 - ",pc2, "%"))+geom_point( size=5 , shape=as.integer(ps2.redo.cpr.n0.tax.tmp$Shape))+theme_bw()+theme(panel.border = element_rect(colour="black",size=5,fill=NA), legend.position="none",axis.text.x = element_blank(),axis.text.y=element_blank(),plot.title = element_text(hjust = 0.5, size=40) )+ geom_abline(intercept = yintercept, slope = lineslope, color="black", size=2,linetype = "dashed")
+
+# theme(strip.text.x = element_text(size = 24, colour = "black"))+theme(axis.title.y = element_text(size = 24, angle = 90))+theme(axis.title.x = element_text(size = 24, angle = 00))
+png("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.rar.10krar.Sample.png", 1600, 1600)
+ps0.redo.cpr.rar.Sample.phy
+dev.off()
+print("Taxa plot color by Sample1");
+
+print("ANOSIM - Type");
+anosim(otu_table(ps0.redo.cpr.prev.rar), metadata$Type, "bray", permutations=999)
+
+#save.image("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/ps2.redo.cpr.n0.Sample.phy.rdata")
+
+print("Image saved");
+
+#q();
+ps0.redo.cpr.rar.Taxa.phyDF<-plot_ordination(ps0.redo.cpr.prev.rar, ps0.redo.cpr.rar.ord, justDF=TRUE, type="Taxa", color="Phylum", title="\nPCoA ordination of Bray-Curtis distances split by Phyla\n");
+metadata_forDF <- ps0.redo.cpr.rar.tax.tmp %>% rownames_to_column('ASVseq') %>% filter(ps0.redo.cpr.rar.tax.tmp$Shape == 15) %>% column_to_rownames('ASVseq')
+filtered_DF <- ps0.redo.cpr.rar.Taxa.phyDF %>% rownames_to_column('ASVseq') %>% filter(ps0.redo.cpr.rar.tax.tmp$Shape == 15) %>% column_to_rownames('ASVseq')
+png("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.rar.10krar.PhylaSig.png", 1600, 1600)
+
+
+ggplot(filtered_DF , aes(x=Axis.1, y=Axis.2),title="\nPCoA ordination of Bray-Curtis distances split by Phyla\n" ) + facet_wrap(~Phylum, 3)+geom_point( size=5 , shape=as.integer(metadata_forDF$Shape), alpha=as.integer(metadata_forDF$Alpha), color=metadata_forDF$ColorsChange ) +theme_bw()+theme(panel.border = element_rect(colour="black",size=5,fill=NA), legend.position="none",axis.text.x = element_blank(),axis.text.y=element_blank(),plot.title = element_text(hjust = 0.5, size=40) )+ geom_abline(intercept = yintercept, slope = lineslope, color="black", size=2, linetype = "dashed")+theme(strip.text.x = element_text(size = 24, colour = "black"))+theme(axis.title.y = element_text(size = 24, angle = 90))+theme(axis.title.x = element_text(size = 24, angle = 00))
+
+dev.off()
+
+
+# BIOGEOGRAPHY
+
+ps0.redo.cpr.rar.phone.event <- subset_samples(ps0.redo.cpr.prev.rar , Type == 'phone')
+ps0.redo.cpr.rar.phone.event <- subset_samples(ps0.redo.cpr.rar.phone.event, Event != 'KidScoop')
+ps0.redo.cpr.rar.phone.event <- subset_samples(ps0.redo.cpr.rar.phone.event, Event != 'Unknown')
+
+print("ps0.redo.cpr.prev.rar.phone.event")
+ps0.redo.cpr.rar.phone.event
+sd(sample_sums(ps0.redo.cpr.rar.phone.event))
+mean(sample_sums(ps0.redo.cpr.rar.phone.event))
+
+ps0.redo.cpr.rar.shoe.event <- subset_samples(ps0.redo.cpr.prev.rar , Type == 'shoe')
+ps0.redo.cpr.rar.shoe.event <- subset_samples(ps0.redo.cpr.rar.shoe.event, Event != 'KidScoop')
+ps0.redo.cpr.rar.shoe.event <- subset_samples(ps0.redo.cpr.rar.shoe.event, Event != 'Unknown')
+
+print("ps0.redo.cpr.prev.rar.shoe.event")
+ps0.redo.cpr.rar.shoe.event
+sd(sample_sums(ps0.redo.cpr.rar.shoe.event))
+mean(sample_sums(ps0.redo.cpr.rar.shoe.event))
+
+ps0.redo.cpr.rar.phone.event.2 <- subset_samples(ps0.redo.cpr.rar.phone.event, Sample %in% sample_data(ps0.redo.cpr.rar.shoe.event)$Sample)
+print("ps0.redo.cpr.prev.rar.phone.event.2")
+ps0.redo.cpr.rar.phone.event.2
+sd(sample_sums(ps0.redo.cpr.rar.phone.event.2))
+mean(sample_sums(ps0.redo.cpr.rar.phone.event.2))
+
+
+ps0.redo.cpr.rar.shoe.event.2 <- subset_samples(ps0.redo.cpr.rar.shoe.event, Sample %in% sample_data(ps0.redo.cpr.rar.phone.event)$Sample)
+print("ps0.redo.cpr.prev.rar.shoe.event.2")
+ps0.redo.cpr.rar.shoe.event.2
+sd(sample_sums(ps0.redo.cpr.rar.shoe.event.2))
+mean(sample_sums(ps0.redo.cpr.rar.shoe.event.2))
+
+
+ps0.redo.cpr.rar.shoe.event.2 <- merge_samples(ps0.redo.cpr.rar.shoe.event.2, "Event")
+print("ps0.redo.cpr.prev.rar.shoe.event.2")
+ps0.redo.cpr.rar.shoe.event.2
+sd(sample_sums(ps0.redo.cpr.rar.shoe.event.2))
+mean(sample_sums(ps0.redo.cpr.rar.shoe.event.2))
+ps0.redo.cpr.rar.phone.event.2 <- merge_samples(ps0.redo.cpr.rar.phone.event.2, "Event")
+print("ps0.redo.cpr.prev.rar.phone.event.2")
+ps0.redo.cpr.rar.phone.event.2
+sd(sample_sums(ps0.redo.cpr.rar.phone.event.2))
+mean(sample_sums(ps0.redo.cpr.rar.phone.event.2))
+
+
+#ps0.redo.cpr.rar.phone.event.2
+#ps0.redo.cpr.rar.shoe.event.2
+ps0.redo.cpr.rar.shoe.event.dist<-vegdist(otu_table(ps0.redo.cpr.rar.shoe.event.2), method="bray")
+ps0.redo.cpr.rar.phone.event.dist<-vegdist(otu_table(ps0.redo.cpr.rar.phone.event.2), method="bray")
+
+write.table(as.matrix(ps0.redo.cpr.rar.shoe.event.dist), file= "/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.prev.rar.shoe.event.dist.txt", sep="\t")
+write.table(as.matrix(ps0.redo.cpr.rar.phone.event.dist), file= "/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.prev.rar.phone.event.dist.txt", sep="\t")
+
+save.image("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/tmp1.rds");
+#save.image("tmp1.rds");
+
+

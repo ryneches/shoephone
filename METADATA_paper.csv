@@ -1,0 +1,2235 @@
+Sample,Age,City,Date,Event,Sample,Sport,State
+CPR_CP.LV043,Adult,Philadelphia,2/18/2014,76ers,LV043,Basketball,PA
+CPR_CP.MC007,Adult,Philadelphia,2/18/2014,76ers,MC007,Basketball,PA
+CPR_CP.MC014,Adult,Philadelphia,2/18/2014,76ers,MC014,Basketball,PA
+CPR_CP.MC016,Adult,Philadelphia,2/18/2014,76ers,MC016,Basketball,PA
+CPR_CP.MC019,Adult,Philadelphia,2/18/2014,76ers,MC019,Basketball,PA
+CPR_CP.MC024,Adult,Philadelphia,2/18/2014,76ers,MC024,Basketball,PA
+CPR_CP.MC025,Adult,Philadelphia,2/18/2014,76ers,MC025,Basketball,PA
+CPR_CP.MC026,Adult,Philadelphia,2/18/2014,76ers,MC026,Basketball,PA
+CPR_CP.MC028,Adult,Philadelphia,2/18/2014,76ers,MC028,Basketball,PA
+CPR_CP.MC029,Adult,Philadelphia,2/18/2014,76ers,MC029,Basketball,PA
+CPR_CP.MC030,Adult,Philadelphia,2/18/2014,76ers,MC030,Basketball,PA
+CPR_CP.MC032,Adult,Philadelphia,2/18/2014,76ers,MC032,Basketball,PA
+CPR_CP.MC033,Adult,Philadelphia,2/18/2014,76ers,MC033,Basketball,PA
+CPR_CP.MC034,Adult,Philadelphia,2/18/2014,76ers,MC034,Basketball,PA
+CPR_CP.MC035,Adult,Philadelphia,2/18/2014,76ers,MC035,Basketball,PA
+CPR_CP.MC036,Adult,Philadelphia,2/18/2014,76ers,MC036,Basketball,PA
+CPR_CP.MC039,Adult,Philadelphia,2/18/2014,76ers,MC039,Basketball,PA
+CPR_CP.MC043,Adult,Philadelphia,2/18/2014,76ers,MC043,Basketball,PA
+CPR_CP.MC047,Adult,Philadelphia,2/18/2014,76ers,MC047,Basketball,PA
+CPR_CP.MC062,Adult,Philadelphia,2/18/2014,76ers,MC062,Basketball,PA
+CPR_CP.MC093,Adult,Philadelphia,2/18/2014,76ers,MC093,Basketball,PA
+CPR_CP.MC095,Adult,Philadelphia,2/18/2014,76ers,MC095,Basketball,PA
+CPR_CP.MC096,Adult,Philadelphia,2/18/2014,76ers,MC096,Basketball,PA
+CPR_CP.MC097,Adult,Philadelphia,2/18/2014,76ers,MC097,Basketball,PA
+CPR_CP.MC098,Adult,Philadelphia,2/18/2014,76ers,MC098,Basketball,PA
+CPR_CP.MC099,Adult,Philadelphia,2/18/2014,76ers,MC099,Basketball,PA
+CPR_CP.MC100,Adult,Philadelphia,2/18/2014,76ers,MC100,Basketball,PA
+CPR_CP.ME003,Adult,Philadelphia,2/18/2014,76ers,ME003,Basketball,PA
+CPR_CP.ME004,Adult,Philadelphia,2/18/2014,76ers,ME004,Basketball,PA
+CPR_CP.ME005,Adult,Philadelphia,2/18/2014,76ers,ME005,Basketball,PA
+CPR_CP.ME006,Adult,Philadelphia,2/18/2014,76ers,ME006,Basketball,PA
+CPR_CP.ME007,Adult,Philadelphia,2/18/2014,76ers,ME007,Basketball,PA
+CPR_CP.ME008,Adult,Philadelphia,2/18/2014,76ers,ME008,Basketball,PA
+CPR_CP.ME009,Adult,Philadelphia,2/18/2014,76ers,ME009,Basketball,PA
+CPR_SH.LV043,Adult,Philadelphia,2/18/2014,76ers,LV043,Basketball,PA
+CPR_SH.MC007,Adult,Philadelphia,2/18/2014,76ers,MC007,Basketball,PA
+CPR_SH.MC009,Adult,Philadelphia,2/18/2014,76ers,MC009,Basketball,PA
+CPR_SH.MC013,Adult,Philadelphia,2/18/2014,76ers,MC013,Basketball,PA
+CPR_SH.MC014,Adult,Philadelphia,2/18/2014,76ers,MC014,Basketball,PA
+CPR_SH.MC016,Adult,Philadelphia,2/18/2014,76ers,MC016,Basketball,PA
+CPR_SH.MC018,Adult,Philadelphia,2/18/2014,76ers,MC018,Basketball,PA
+CPR_SH.MC019,Adult,Philadelphia,2/18/2014,76ers,MC019,Basketball,PA
+CPR_SH.MC022,Adult,Philadelphia,2/18/2014,76ers,MC022,Basketball,PA
+CPR_SH.MC024,Adult,Philadelphia,2/18/2014,76ers,MC024,Basketball,PA
+CPR_SH.MC025,Adult,Philadelphia,2/18/2014,76ers,MC025,Basketball,PA
+CPR_SH.MC026,Adult,Philadelphia,2/18/2014,76ers,MC026,Basketball,PA
+CPR_SH.MC028,Adult,Philadelphia,2/18/2014,76ers,MC028,Basketball,PA
+CPR_SH.MC029,Adult,Philadelphia,2/18/2014,76ers,MC029,Basketball,PA
+CPR_SH.MC030,Adult,Philadelphia,2/18/2014,76ers,MC030,Basketball,PA
+CPR_SH.MC031,Adult,Philadelphia,2/18/2014,76ers,MC031,Basketball,PA
+CPR_SH.MC032,Adult,Philadelphia,2/18/2014,76ers,MC032,Basketball,PA
+CPR_SH.MC033,Adult,Philadelphia,2/18/2014,76ers,MC033,Basketball,PA
+CPR_SH.MC034,Adult,Philadelphia,2/18/2014,76ers,MC034,Basketball,PA
+CPR_SH.MC035,Adult,Philadelphia,2/18/2014,76ers,MC035,Basketball,PA
+CPR_SH.MC036,Adult,Philadelphia,2/18/2014,76ers,MC036,Basketball,PA
+CPR_SH.MC037,Adult,Philadelphia,2/18/2014,76ers,MC037,Basketball,PA
+CPR_SH.MC039,Adult,Philadelphia,2/18/2014,76ers,MC039,Basketball,PA
+CPR_SH.MC041,Adult,Philadelphia,2/18/2014,76ers,MC041,Basketball,PA
+CPR_SH.MC042,Adult,Philadelphia,2/18/2014,76ers,MC042,Basketball,PA
+CPR_SH.MC043,Adult,Philadelphia,2/18/2014,76ers,MC043,Basketball,PA
+CPR_SH.MC047,Adult,Philadelphia,2/18/2014,76ers,MC047,Basketball,PA
+CPR_SH.MC093,Adult,Philadelphia,2/18/2014,76ers,MC093,Basketball,PA
+CPR_SH.MC095,Adult,Philadelphia,2/18/2014,76ers,MC095,Basketball,PA
+CPR_SH.MC097,Adult,Philadelphia,2/18/2014,76ers,MC097,Basketball,PA
+CPR_SH.MC098,Adult,Philadelphia,2/18/2014,76ers,MC098,Basketball,PA
+CPR_SH.MC099,Adult,Philadelphia,2/18/2014,76ers,MC099,Basketball,PA
+CPR_SH.MC100,Adult,Philadelphia,2/18/2014,76ers,MC100,Basketball,PA
+CPR_SH.ME003,Adult,Philadelphia,2/18/2014,76ers,ME003,Basketball,PA
+CPR_SH.ME004,Adult,Philadelphia,2/18/2014,76ers,ME004,Basketball,PA
+CPR_SH.ME006,Adult,Philadelphia,2/18/2014,76ers,ME006,Basketball,PA
+CPR_SH.ME008,Adult,Philadelphia,2/18/2014,76ers,ME008,Basketball,PA
+CPR_SH.ME009,Adult,Philadelphia,2/18/2014,76ers,ME009,Basketball,PA
+CPR_CP.AB069,Mixed,San Francisco,11/2/2013,BASF,AB069,,CA
+CPR_CP.AB081,Mixed,San Francisco,11/2/2013,BASF,AB081,,CA
+CPR_CP.AB082,Mixed,San Francisco,11/2/2013,BASF,AB082,,CA
+CPR_CP.AB083,Mixed,San Francisco,11/2/2013,BASF,AB083,,CA
+CPR_CP.AB084,Mixed,San Francisco,11/2/2013,BASF,AB084,,CA
+CPR_CP.AB085,Mixed,San Francisco,11/2/2013,BASF,AB085,,CA
+CPR_CP.AB086,Mixed,San Francisco,11/2/2013,BASF,AB086,,CA
+CPR_CP.AE041,Mixed,San Francisco,11/2/2013,BASF,AE041,,CA
+CPR_CP.AE042,Mixed,San Francisco,11/2/2013,BASF,AE042,,CA
+CPR_CP.AE044,Mixed,San Francisco,11/2/2013,BASF,AE044,,CA
+CPR_CP.AE047,Mixed,San Francisco,11/2/2013,BASF,AE047,,CA
+CPR_CP.AE048,Mixed,San Francisco,11/2/2013,BASF,AE048,,CA
+CPR_CP.AE050,Mixed,San Francisco,11/2/2013,BASF,AE050,,CA
+CPR_CP.AE051,Mixed,San Francisco,11/2/2013,BASF,AE051,,CA
+CPR_CP.AE053,Mixed,San Francisco,11/2/2013,BASF,AE053,,CA
+CPR_CP.AE054,Mixed,San Francisco,11/2/2013,BASF,AE054,,CA
+CPR_CP.AE055,Mixed,San Francisco,11/2/2013,BASF,AE055,,CA
+CPR_CP.AE056,Mixed,San Francisco,11/2/2013,BASF,AE056,,CA
+CPR_CP.AE057,Mixed,San Francisco,11/2/2013,BASF,AE057,,CA
+CPR_CP.AE058,Mixed,San Francisco,11/2/2013,BASF,AE058,,CA
+CPR_CP.AE059,Mixed,San Francisco,11/2/2013,BASF,AE059,,CA
+CPR_CP.AQ031,Mixed,San Francisco,11/2/2013,BASF,AQ031,,CA
+CPR_CP.AQ032,Mixed,San Francisco,11/2/2013,BASF,AQ032,,CA
+CPR_CP.AQ033,Mixed,San Francisco,11/2/2013,BASF,AQ033,,CA
+CPR_CP.AQ034,Mixed,San Francisco,11/2/2013,BASF,AQ034,,CA
+CPR_CP.AQ035,Mixed,San Francisco,11/2/2013,BASF,AQ035,,CA
+CPR_CP.AQ036,Mixed,San Francisco,11/2/2013,BASF,AQ036,,CA
+CPR_CP.AQ037,Mixed,San Francisco,11/2/2013,BASF,AQ037,,CA
+CPR_CP.AQ038,Mixed,San Francisco,11/2/2013,BASF,AQ038,,CA
+CPR_CP.AQ039,Mixed,San Francisco,11/2/2013,BASF,AQ039,,CA
+CPR_CP.AQ040,Mixed,San Francisco,11/2/2013,BASF,AQ040,,CA
+CPR_CP.FY011,Mixed,San Francisco,11/2/2013,BASF,FY011,,CA
+CPR_CP.FY012,Mixed,San Francisco,11/2/2013,BASF,FY012,,CA
+CPR_CP.FY014,Mixed,San Francisco,11/2/2013,BASF,FY014,,CA
+CPR_CP.FY016,Mixed,San Francisco,11/2/2013,BASF,FY016,,CA
+CPR_CP.FY017,Mixed,San Francisco,11/2/2013,BASF,FY017,,CA
+CPR_CP.FY020,Mixed,San Francisco,11/2/2013,BASF,FY020,,CA
+CPR_CP.LS081,Mixed,San Francisco,11/2/2013,BASF,LS081,,CA
+CPR_CP.LS082,Mixed,San Francisco,11/2/2013,BASF,LS082,,CA
+CPR_CP.LS083,Mixed,San Francisco,11/2/2013,BASF,LS083,,CA
+CPR_CP.LS084,Mixed,San Francisco,11/2/2013,BASF,LS084,,CA
+CPR_CP.LS085,Mixed,San Francisco,11/2/2013,BASF,LS085,,CA
+CPR_CP.LS086,Mixed,San Francisco,11/2/2013,BASF,LS086,,CA
+CPR_CP.LS087,Mixed,San Francisco,11/2/2013,BASF,LS087,,CA
+CPR_CP.LS088,Mixed,San Francisco,11/2/2013,BASF,LS088,,CA
+CPR_CP.LS089,Mixed,San Francisco,11/2/2013,BASF,LS089,,CA
+CPR_CP.LS090,Mixed,San Francisco,11/2/2013,BASF,LS090,,CA
+CPR_CP.LS091,Mixed,San Francisco,11/2/2013,BASF,LS091,,CA
+CPR_CP.LS092,Mixed,San Francisco,11/2/2013,BASF,LS092,,CA
+CPR_CP.LS093,Mixed,San Francisco,11/2/2013,BASF,LS093,,CA
+CPR_CP.LS094,Mixed,San Francisco,11/2/2013,BASF,LS094,,CA
+CPR_CP.LS095,Mixed,San Francisco,11/2/2013,BASF,LS095,,CA
+CPR_CP.LS096,Mixed,San Francisco,11/2/2013,BASF,LS096,,CA
+CPR_CP.LS097,Mixed,San Francisco,11/2/2013,BASF,LS097,,CA
+CPR_CP.LS098,Mixed,San Francisco,11/2/2013,BASF,LS098,,CA
+CPR_CP.LS099,Mixed,San Francisco,11/2/2013,BASF,LS099,,CA
+CPR_CP.LS100,Mixed,San Francisco,11/2/2013,BASF,LS100,,CA
+CPR_CP.LT001,Mixed,San Francisco,11/2/2013,BASF,LT001,,CA
+CPR_CP.LT002,Mixed,San Francisco,11/2/2013,BASF,LT002,,CA
+CPR_CP.LT003,Mixed,San Francisco,11/2/2013,BASF,LT003,,CA
+CPR_CP.LT004,Mixed,San Francisco,11/2/2013,BASF,LT004,,CA
+CPR_CP.LT005,Mixed,San Francisco,11/2/2013,BASF,LT005,,CA
+CPR_CP.LT006,Mixed,San Francisco,11/2/2013,BASF,LT006,,CA
+CPR_CP.LT007,Mixed,San Francisco,11/2/2013,BASF,LT007,,CA
+CPR_CP.LT008,Mixed,San Francisco,11/2/2013,BASF,LT008,,CA
+CPR_CP.LT010,Mixed,San Francisco,11/2/2013,BASF,LT010,,CA
+CPR_CP.LT011,Mixed,San Francisco,11/2/2013,BASF,LT011,,CA
+CPR_CP.LT012,Mixed,San Francisco,11/2/2013,BASF,LT012,,CA
+CPR_CP.LT013,Mixed,San Francisco,11/2/2013,BASF,LT013,,CA
+CPR_CP.LT015,Mixed,San Francisco,11/2/2013,BASF,LT015,,CA
+CPR_CP.LT016,Mixed,San Francisco,11/2/2013,BASF,LT016,,CA
+CPR_CP.LT017,Mixed,San Francisco,11/2/2013,BASF,LT017,,CA
+CPR_CP.LT018,Mixed,San Francisco,11/2/2013,BASF,LT018,,CA
+CPR_CP.LT019,Mixed,San Francisco,11/2/2013,BASF,LT019,,CA
+CPR_SH.AB069,Mixed,San Francisco,11/2/2013,BASF,AB069,,CA
+CPR_SH.AB081,Mixed,San Francisco,11/2/2013,BASF,AB081,,CA
+CPR_SH.AB082,Mixed,San Francisco,11/2/2013,BASF,AB082,,CA
+CPR_SH.AB083,Mixed,San Francisco,11/2/2013,BASF,AB083,,CA
+CPR_SH.AB084,Mixed,San Francisco,11/2/2013,BASF,AB084,,CA
+CPR_SH.AB085,Mixed,San Francisco,11/2/2013,BASF,AB085,,CA
+CPR_SH.AB086,Mixed,San Francisco,11/2/2013,BASF,AB086,,CA
+CPR_SH.AE041,Mixed,San Francisco,11/2/2013,BASF,AE041,,CA
+CPR_SH.AE042,Mixed,San Francisco,11/2/2013,BASF,AE042,,CA
+CPR_SH.AE043,Mixed,San Francisco,11/2/2013,BASF,AE043,,CA
+CPR_SH.AE044,Mixed,San Francisco,11/2/2013,BASF,AE044,,CA
+CPR_SH.AE047,Mixed,San Francisco,11/2/2013,BASF,AE047,,CA
+CPR_SH.AE048,Mixed,San Francisco,11/2/2013,BASF,AE048,,CA
+CPR_SH.AE050,Mixed,San Francisco,11/2/2013,BASF,AE050,,CA
+CPR_SH.AE051,Mixed,San Francisco,11/2/2013,BASF,AE051,,CA
+CPR_SH.AE053,Mixed,San Francisco,11/2/2013,BASF,AE053,,CA
+CPR_SH.AE054,Mixed,San Francisco,11/2/2013,BASF,AE054,,CA
+CPR_SH.AE055,Mixed,San Francisco,11/2/2013,BASF,AE055,,CA
+CPR_SH.AE056,Mixed,San Francisco,11/2/2013,BASF,AE056,,CA
+CPR_SH.AE057,Mixed,San Francisco,11/2/2013,BASF,AE057,,CA
+CPR_SH.AE058,Mixed,San Francisco,11/2/2013,BASF,AE058,,CA
+CPR_SH.AE059,Mixed,San Francisco,11/2/2013,BASF,AE059,,CA
+CPR_SH.AQ031,Mixed,San Francisco,11/2/2013,BASF,AQ031,,CA
+CPR_SH.AQ032,Mixed,San Francisco,11/2/2013,BASF,AQ032,,CA
+CPR_SH.AQ034,Mixed,San Francisco,11/2/2013,BASF,AQ034,,CA
+CPR_SH.AQ035,Mixed,San Francisco,11/2/2013,BASF,AQ035,,CA
+CPR_SH.AQ036,Mixed,San Francisco,11/2/2013,BASF,AQ036,,CA
+CPR_SH.AQ037,Mixed,San Francisco,11/2/2013,BASF,AQ037,,CA
+CPR_SH.AQ038,Mixed,San Francisco,11/2/2013,BASF,AQ038,,CA
+CPR_SH.AQ040,Mixed,San Francisco,11/2/2013,BASF,AQ040,,CA
+CPR_SH.FY011,Mixed,San Francisco,11/2/2013,BASF,FY011,,CA
+CPR_SH.FY012,Mixed,San Francisco,11/2/2013,BASF,FY012,,CA
+CPR_SH.FY013,Mixed,San Francisco,11/2/2013,BASF,FY013,,CA
+CPR_SH.FY014,Mixed,San Francisco,11/2/2013,BASF,FY014,,CA
+CPR_SH.FY015,Mixed,San Francisco,11/2/2013,BASF,FY015,,CA
+CPR_SH.FY016,Mixed,San Francisco,11/2/2013,BASF,FY016,,CA
+CPR_SH.FY017,Mixed,San Francisco,11/2/2013,BASF,FY017,,CA
+CPR_SH.FY020,Mixed,San Francisco,11/2/2013,BASF,FY020,,CA
+CPR_SH.LS081,Mixed,San Francisco,11/2/2013,BASF,LS081,,CA
+CPR_SH.LS082,Mixed,San Francisco,11/2/2013,BASF,LS082,,CA
+CPR_SH.LS083,Mixed,San Francisco,11/2/2013,BASF,LS083,,CA
+CPR_SH.LS084,Mixed,San Francisco,11/2/2013,BASF,LS084,,CA
+CPR_SH.LS085,Mixed,San Francisco,11/2/2013,BASF,LS085,,CA
+CPR_SH.LS086,Mixed,San Francisco,11/2/2013,BASF,LS086,,CA
+CPR_SH.LS087,Mixed,San Francisco,11/2/2013,BASF,LS087,,CA
+CPR_SH.LS089,Mixed,San Francisco,11/2/2013,BASF,LS089,,CA
+CPR_SH.LS091,Mixed,San Francisco,11/2/2013,BASF,LS091,,CA
+CPR_SH.LS092,Mixed,San Francisco,11/2/2013,BASF,LS092,,CA
+CPR_SH.LS093,Mixed,San Francisco,11/2/2013,BASF,LS093,,CA
+CPR_SH.LS094,Mixed,San Francisco,11/2/2013,BASF,LS094,,CA
+CPR_SH.LS095,Mixed,San Francisco,11/2/2013,BASF,LS095,,CA
+CPR_SH.LS096,Mixed,San Francisco,11/2/2013,BASF,LS096,,CA
+CPR_SH.LS097,Mixed,San Francisco,11/2/2013,BASF,LS097,,CA
+CPR_SH.LS098,Mixed,San Francisco,11/2/2013,BASF,LS098,,CA
+CPR_SH.LS099,Mixed,San Francisco,11/2/2013,BASF,LS099,,CA
+CPR_SH.LS100,Mixed,San Francisco,11/2/2013,BASF,LS100,,CA
+CPR_SH.LT001,Mixed,San Francisco,11/2/2013,BASF,LT001,,CA
+CPR_SH.LT002,Mixed,San Francisco,11/2/2013,BASF,LT002,,CA
+CPR_SH.LT003,Mixed,San Francisco,11/2/2013,BASF,LT003,,CA
+CPR_SH.LT004,Mixed,San Francisco,11/2/2013,BASF,LT004,,CA
+CPR_SH.LT005,Mixed,San Francisco,11/2/2013,BASF,LT005,,CA
+CPR_SH.LT006,Mixed,San Francisco,11/2/2013,BASF,LT006,,CA
+CPR_SH.LT007,Mixed,San Francisco,11/2/2013,BASF,LT007,,CA
+CPR_SH.LT008,Mixed,San Francisco,11/2/2013,BASF,LT008,,CA
+CPR_SH.LT009,Mixed,San Francisco,11/2/2013,BASF,LT009,,CA
+CPR_SH.LT010,Mixed,San Francisco,11/2/2013,BASF,LT010,,CA
+CPR_SH.LT011,Mixed,San Francisco,11/2/2013,BASF,LT011,,CA
+CPR_SH.LT012,Mixed,San Francisco,11/2/2013,BASF,LT012,,CA
+CPR_SH.LT013,Mixed,San Francisco,11/2/2013,BASF,LT013,,CA
+CPR_SH.LT015,Mixed,San Francisco,11/2/2013,BASF,LT015,,CA
+CPR_SH.LT016,Mixed,San Francisco,11/2/2013,BASF,LT016,,CA
+CPR_SH.LT017,Mixed,San Francisco,11/2/2013,BASF,LT017,,CA
+CPR_SH.LT018,Mixed,San Francisco,11/2/2013,BASF,LT018,,CA
+CPR_CP.FV090,Adult,Fort Lauderdale,8/14/2013,Broward,FV090,,FL
+CPR_CP.FV091,Adult,Fort Lauderdale,8/14/2013,Broward,FV091,,FL
+CPR_CP.FV093,Adult,Fort Lauderdale,8/14/2013,Broward,FV093,,FL
+CPR_CP.FV094,Adult,Fort Lauderdale,8/14/2013,Broward,FV094,,FL
+CPR_CP.FV095,Adult,Fort Lauderdale,8/14/2013,Broward,FV095,,FL
+CPR_CP.FV096,Adult,Fort Lauderdale,8/14/2013,Broward,FV096,,FL
+CPR_CP.FV098,Adult,Fort Lauderdale,8/14/2013,Broward,FV098,,FL
+CPR_CP.FV099,Adult,Fort Lauderdale,8/14/2013,Broward,FV099,,FL
+CPR_SH.FV090,Adult,Fort Lauderdale,8/14/2013,Broward,FV090,,FL
+CPR_SH.FV091,Adult,Fort Lauderdale,8/14/2013,Broward,FV091,,FL
+CPR_SH.FV093,Adult,Fort Lauderdale,8/14/2013,Broward,FV093,,FL
+CPR_SH.FV094,Adult,Fort Lauderdale,8/14/2013,Broward,FV094,,FL
+CPR_SH.FV095,Adult,Fort Lauderdale,8/14/2013,Broward,FV095,,FL
+CPR_SH.FV096,Adult,Fort Lauderdale,8/14/2013,Broward,FV096,,FL
+CPR_SH.FV098,Adult,Fort Lauderdale,8/14/2013,Broward,FV098,,FL
+CPR_SH.FV099,Adult,Fort Lauderdale,8/14/2013,Broward,FV099,,FL
+CPR_CP.LA091,Kid,Salem,10/4/2013,ChapmanHill,LA091,,OR
+CPR_CP.LA092,Kid,Salem,10/4/2013,ChapmanHill,LA092,,OR
+CPR_CP.LA093,Kid,Salem,10/4/2013,ChapmanHill,LA093,,OR
+CPR_CP.LA094,Kid,Salem,10/4/2013,ChapmanHill,LA094,,OR
+CPR_CP.LA095,Kid,Salem,10/4/2013,ChapmanHill,LA095,,OR
+CPR_CP.LA096,Kid,Salem,10/4/2013,ChapmanHill,LA096,,OR
+CPR_CP.LA097,Kid,Salem,10/4/2013,ChapmanHill,LA097,,OR
+CPR_CP.LA098,Kid,Salem,10/4/2013,ChapmanHill,LA098,,OR
+CPR_CP.LA099,Kid,Salem,10/4/2013,ChapmanHill,LA099,,OR
+CPR_CP.LA100,Kid,Salem,10/4/2013,ChapmanHill,LA100,,OR
+CPR_SH.LA091,Kid,Salem,10/4/2013,ChapmanHill,LA091,,OR
+CPR_SH.LA092,Kid,Salem,10/4/2013,ChapmanHill,LA092,,OR
+CPR_SH.LA093,Kid,Salem,10/4/2013,ChapmanHill,LA093,,OR
+CPR_SH.LA094,Kid,Salem,10/4/2013,ChapmanHill,LA094,,OR
+CPR_SH.LA095,Kid,Salem,10/4/2013,ChapmanHill,LA095,,OR
+CPR_SH.LA096,Kid,Salem,10/4/2013,ChapmanHill,LA096,,OR
+CPR_SH.LA097,Kid,Salem,10/4/2013,ChapmanHill,LA097,,OR
+CPR_SH.LA098,Kid,Salem,10/4/2013,ChapmanHill,LA098,,OR
+CPR_SH.LA099,Kid,Salem,10/4/2013,ChapmanHill,LA099,,OR
+CPR_SH.LA100,Kid,Salem,10/4/2013,ChapmanHill,LA100,,OR
+CPR_CP.AG082,Adult,Philadelphia,5/23/2013,CHF,AG082,,PA
+CPR_CP.AG083,Adult,Philadelphia,5/23/2013,CHF,AG083,,PA
+CPR_CP.AG084,Adult,Philadelphia,5/23/2013,CHF,AG084,,PA
+CPR_CP.AG088,Adult,Philadelphia,5/23/2013,CHF,AG088,,PA
+CPR_CP.AG097,Adult,Philadelphia,5/23/2013,CHF,AG097,,PA
+CPR_SH.AG082,Adult,Philadelphia,5/23/2013,CHF,AG082,,PA
+CPR_SH.AG083,Adult,Philadelphia,5/23/2013,CHF,AG083,,PA
+CPR_SH.AG084,Adult,Philadelphia,5/23/2013,CHF,AG084,,PA
+CPR_SH.AG088,Adult,Philadelphia,5/23/2013,CHF,AG088,,PA
+CPR_SH.AG097,Adult,Philadelphia,5/23/2013,CHF,AG097,,PA
+CPR_CP.AQ061,Kid,Fountain,10/10/2013,ColeMiddle,AQ061,,CO
+CPR_CP.AQ062,Kid,Fountain,10/10/2013,ColeMiddle,AQ062,,CO
+CPR_CP.AQ063,Kid,Fountain,10/10/2013,ColeMiddle,AQ063,,CO
+CPR_CP.AQ064,Kid,Fountain,10/10/2013,ColeMiddle,AQ064,,CO
+CPR_CP.AQ065,Kid,Fountain,10/10/2013,ColeMiddle,AQ065,,CO
+CPR_CP.AQ066,Kid,Fountain,10/10/2013,ColeMiddle,AQ066,,CO
+CPR_CP.AQ067,Kid,Fountain,10/10/2013,ColeMiddle,AQ067,,CO
+CPR_CP.AQ068,Kid,Fountain,10/10/2013,ColeMiddle,AQ068,,CO
+CPR_CP.AQ069,Kid,Fountain,10/10/2013,ColeMiddle,AQ069,,CO
+CPR_CP.AQ070,Kid,Fountain,10/10/2013,ColeMiddle,AQ070,,CO
+CPR_CP.AQ071,Kid,Fountain,10/10/2013,ColeMiddle,AQ071,,CO
+CPR_CP.AQ072,Kid,Fountain,10/10/2013,ColeMiddle,AQ072,,CO
+CPR_CP.AQ073,Kid,Fountain,10/10/2013,ColeMiddle,AQ073,,CO
+CPR_CP.AQ074,Kid,Fountain,10/10/2013,ColeMiddle,AQ074,,CO
+CPR_CP.AQ075,Kid,Fountain,10/10/2013,ColeMiddle,AQ075,,CO
+CPR_CP.AQ077,Kid,Fountain,10/10/2013,ColeMiddle,AQ077,,CO
+CPR_CP.AQ078,Kid,Fountain,10/10/2013,ColeMiddle,AQ078,,CO
+CPR_CP.AQ079,Kid,Fountain,10/10/2013,ColeMiddle,AQ079,,CO
+CPR_CP.AQ080,Kid,Fountain,10/10/2013,ColeMiddle,AQ080,,CO
+CPR_SH.AQ061,Kid,Fountain,10/10/2013,ColeMiddle,AQ061,,CO
+CPR_SH.AQ062,Kid,Fountain,10/10/2013,ColeMiddle,AQ062,,CO
+CPR_SH.AQ063,Kid,Fountain,10/10/2013,ColeMiddle,AQ063,,CO
+CPR_SH.AQ064,Kid,Fountain,10/10/2013,ColeMiddle,AQ064,,CO
+CPR_SH.AQ065,Kid,Fountain,10/10/2013,ColeMiddle,AQ065,,CO
+CPR_SH.AQ066,Kid,Fountain,10/10/2013,ColeMiddle,AQ066,,CO
+CPR_SH.AQ067,Kid,Fountain,10/10/2013,ColeMiddle,AQ067,,CO
+CPR_SH.AQ069,Kid,Fountain,10/10/2013,ColeMiddle,AQ069,,CO
+CPR_SH.AQ070,Kid,Fountain,10/10/2013,ColeMiddle,AQ070,,CO
+CPR_SH.AQ071,Kid,Fountain,10/10/2013,ColeMiddle,AQ071,,CO
+CPR_SH.AQ072,Kid,Fountain,10/10/2013,ColeMiddle,AQ072,,CO
+CPR_SH.AQ073,Kid,Fountain,10/10/2013,ColeMiddle,AQ073,,CO
+CPR_SH.AQ074,Kid,Fountain,10/10/2013,ColeMiddle,AQ074,,CO
+CPR_SH.AQ075,Kid,Fountain,10/10/2013,ColeMiddle,AQ075,,CO
+CPR_SH.AQ077,Kid,Fountain,10/10/2013,ColeMiddle,AQ077,,CO
+CPR_SH.AQ078,Kid,Fountain,10/10/2013,ColeMiddle,AQ078,,CO
+CPR_SH.AQ079,Kid,Fountain,10/10/2013,ColeMiddle,AQ079,,CO
+CPR_SH.AQ080,Kid,Fountain,10/10/2013,ColeMiddle,AQ080,,CO
+CPR_CP.FX001,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX001,,PA
+CPR_CP.FX002,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX002,,PA
+CPR_CP.FX003,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX003,,PA
+CPR_CP.FX004,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX004,,PA
+CPR_CP.FX005,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX005,,PA
+CPR_CP.FX006,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX006,,PA
+CPR_CP.FX007,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX007,,PA
+CPR_CP.FX008,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX008,,PA
+CPR_CP.FX009,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX009,,PA
+CPR_CP.FX010,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX010,,PA
+CPR_CP.FX011,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX011,,PA
+CPR_CP.FX012,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX012,,PA
+CPR_CP.FX013,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX013,,PA
+CPR_CP.FX014,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX014,,PA
+CPR_CP.FX015,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX015,,PA
+CPR_CP.FX016,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX016,,PA
+CPR_CP.FX017,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX017,,PA
+CPR_CP.FX018,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX018,,PA
+CPR_CP.FX019,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX019,,PA
+CPR_CP.FX020,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX020,,PA
+CPR_SH.FX002,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX002,,PA
+CPR_SH.FX003,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX003,,PA
+CPR_SH.FX004,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX004,,PA
+CPR_SH.FX005,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX005,,PA
+CPR_SH.FX007,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX007,,PA
+CPR_SH.FX008,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX008,,PA
+CPR_SH.FX009,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX009,,PA
+CPR_SH.FX011,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX011,,PA
+CPR_SH.FX014,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX014,,PA
+CPR_SH.FX015,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX015,,PA
+CPR_SH.FX017,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX017,,PA
+CPR_SH.FX018,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX018,,PA
+CPR_SH.FX020,Mixed,Philadelphia,4/26/2014,DiscoveryDays,FX020,,PA
+CPR_CP.AH081,Adult,Denver,5/8/2013,DMNS,AH081,,CO
+CPR_CP.AH082,Adult,Denver,5/8/2013,DMNS,AH082,,CO
+CPR_CP.AH083,Adult,Denver,5/8/2013,DMNS,AH083,,CO
+CPR_CP.AH084,Adult,Denver,5/8/2013,DMNS,AH084,,CO
+CPR_CP.AH086,Adult,Denver,5/8/2013,DMNS,AH086,,CO
+CPR_CP.AH087,Adult,Denver,5/8/2013,DMNS,AH087,,CO
+CPR_CP.AH088,Adult,Denver,5/8/2013,DMNS,AH088,,CO
+CPR_CP.AH089,Adult,Denver,5/8/2013,DMNS,AH089,,CO
+CPR_CP.AH090,Adult,Denver,5/8/2013,DMNS,AH090,,CO
+CPR_CP.AH091,Adult,Denver,5/8/2013,DMNS,AH091,,CO
+CPR_CP.AH092,Adult,Denver,5/8/2013,DMNS,AH092,,CO
+CPR_CP.AH093,Adult,Denver,5/8/2013,DMNS,AH093,,CO
+CPR_CP.AH095,Adult,Denver,5/8/2013,DMNS,AH095,,CO
+CPR_CP.AH096,Adult,Denver,5/8/2013,DMNS,AH096,,CO
+CPR_CP.AH097,Adult,Denver,5/8/2013,DMNS,AH097,,CO
+CPR_CP.AH099,Adult,Denver,5/8/2013,DMNS,AH099,,CO
+CPR_CP.AH100,Adult,Denver,5/8/2013,DMNS,AH100,,CO
+CPR_SH.AH081,Adult,Denver,5/8/2013,DMNS,AH081,,CO
+CPR_SH.AH082,Adult,Denver,5/8/2013,DMNS,AH082,,CO
+CPR_SH.AH083,Adult,Denver,5/8/2013,DMNS,AH083,,CO
+CPR_SH.AH086,Adult,Denver,5/8/2013,DMNS,AH086,,CO
+CPR_SH.AH087,Adult,Denver,5/8/2013,DMNS,AH087,,CO
+CPR_SH.AH088,Adult,Denver,5/8/2013,DMNS,AH088,,CO
+CPR_SH.AH089,Adult,Denver,5/8/2013,DMNS,AH089,,CO
+CPR_SH.AH090,Adult,Denver,5/8/2013,DMNS,AH090,,CO
+CPR_SH.AH091,Adult,Denver,5/8/2013,DMNS,AH091,,CO
+CPR_SH.AH092,Adult,Denver,5/8/2013,DMNS,AH092,,CO
+CPR_SH.AH093,Adult,Denver,5/8/2013,DMNS,AH093,,CO
+CPR_SH.AH095,Adult,Denver,5/8/2013,DMNS,AH095,,CO
+CPR_SH.AH096,Adult,Denver,5/8/2013,DMNS,AH096,,CO
+CPR_SH.AH097,Adult,Denver,5/8/2013,DMNS,AH097,,CO
+CPR_SH.AH099,Adult,Denver,5/8/2013,DMNS,AH099,,CO
+CPR_SH.AH100,Adult,Denver,5/8/2013,DMNS,AH100,,CO
+CPR_CP.FX025,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX025,,PA
+CPR_CP.FX026,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX026,,PA
+CPR_CP.FX032,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX032,,PA
+CPR_CP.FX033,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX033,,PA
+CPR_CP.FX081,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX081,,PA
+CPR_CP.FX085,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX085,,PA
+CPR_CP.FX086,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX086,,PA
+CPR_CP.FZ005,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ005,,PA
+CPR_CP.FZ013,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ013,,PA
+CPR_CP.FZ020,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ020,,PA
+CPR_CP.FZ030,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ030,,PA
+CPR_SH.FX025,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX025,,PA
+CPR_SH.FX032,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX032,,PA
+CPR_SH.FX084,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX084,,PA
+CPR_SH.FX085,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX085,,PA
+CPR_SH.FX086,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX086,,PA
+CPR_SH.FX089,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FX089,,PA
+CPR_SH.FY099,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FY099,,PA
+CPR_SH.FZ005,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ005,,PA
+CPR_SH.FZ011,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ011,,PA
+CPR_SH.FZ013,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ013,,PA
+CPR_SH.FZ020,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ020,,PA
+CPR_SH.FZ030,Mixed,Philadelphia,4/30/2014,DrexelLibrary,FZ030,,PA
+CPR_CP.FX069,Adult,Philadelphia,5/30/2013,FranklinInstitute,FX069,,PA
+CPR_SH.FX069,Adult,Philadelphia,5/30/2013,FranklinInstitute,FX069,,PA
+CPR_SH.FX076,Adult,Philadelphia,5/30/2013,FranklinInstitute,FX076,,PA
+CPR_CP.AG001,Kid,Atlanta,4/27/2013,Girl Scouts,AG001,,GA
+CPR_CP.AG002,Kid,Atlanta,4/27/2013,Girl Scouts,AG002,,GA
+CPR_CP.AG003,Kid,Atlanta,4/27/2013,Girl Scouts,AG003,,GA
+CPR_CP.AG004,Kid,Atlanta,4/27/2013,Girl Scouts,AG004,,GA
+CPR_CP.AG006,Kid,Atlanta,4/27/2013,Girl Scouts,AG006,,GA
+CPR_CP.AG007,Kid,Atlanta,4/27/2013,Girl Scouts,AG007,,GA
+CPR_CP.AG008,Kid,Atlanta,4/27/2013,Girl Scouts,AG008,,GA
+CPR_CP.AG009,Kid,Atlanta,4/27/2013,Girl Scouts,AG009,,GA
+CPR_CP.AG010,Kid,Atlanta,4/27/2013,Girl Scouts,AG010,,GA
+CPR_CP.AG011,Kid,Atlanta,4/27/2013,Girl Scouts,AG011,,GA
+CPR_CP.AG012,Kid,Atlanta,4/27/2013,Girl Scouts,AG012,,GA
+CPR_CP.AG013,Kid,Atlanta,4/27/2013,Girl Scouts,AG013,,GA
+CPR_CP.AG015,Kid,Atlanta,4/27/2013,Girl Scouts,AG015,,GA
+CPR_CP.AG016,Kid,Atlanta,4/27/2013,Girl Scouts,AG016,,GA
+CPR_CP.AG017,Kid,Atlanta,4/27/2013,Girl Scouts,AG017,,GA
+CPR_CP.AG018,Kid,Atlanta,4/27/2013,Girl Scouts,AG018,,GA
+CPR_CP.AG019,Kid,Atlanta,4/27/2013,Girl Scouts,AG019,,GA
+CPR_SH.AG001,Kid,Atlanta,4/27/2013,Girl Scouts,AG001,,GA
+CPR_SH.AG002,Kid,Atlanta,4/27/2013,Girl Scouts,AG002,,GA
+CPR_SH.AG003,Kid,Atlanta,4/27/2013,Girl Scouts,AG003,,GA
+CPR_SH.AG006,Kid,Atlanta,4/27/2013,Girl Scouts,AG006,,GA
+CPR_SH.AG007,Kid,Atlanta,4/27/2013,Girl Scouts,AG007,,GA
+CPR_SH.AG008,Kid,Atlanta,4/27/2013,Girl Scouts,AG008,,GA
+CPR_SH.AG009,Kid,Atlanta,4/27/2013,Girl Scouts,AG009,,GA
+CPR_SH.AG010,Kid,Atlanta,4/27/2013,Girl Scouts,AG010,,GA
+CPR_SH.AG011,Kid,Atlanta,4/27/2013,Girl Scouts,AG011,,GA
+CPR_SH.AG012,Kid,Atlanta,4/27/2013,Girl Scouts,AG012,,GA
+CPR_SH.AG013,Kid,Atlanta,4/27/2013,Girl Scouts,AG013,,GA
+CPR_SH.AG015,Kid,Atlanta,4/27/2013,Girl Scouts,AG015,,GA
+CPR_SH.AG016,Kid,Atlanta,4/27/2013,Girl Scouts,AG016,,GA
+CPR_SH.AG017,Kid,Atlanta,4/27/2013,Girl Scouts,AG017,,GA
+CPR_SH.AG019,Kid,Atlanta,4/27/2013,Girl Scouts,AG019,,GA
+CPR_SH.AG020,Kid,Atlanta,4/27/2013,Girl Scouts,AG020,,GA
+CPR_CP.FV002,Adult,Columbia,6/9/2013,HowardCCC,FV002,,MD
+CPR_CP.FV003,Adult,Columbia,6/9/2013,HowardCCC,FV003,,MD
+CPR_CP.FV004,Adult,Columbia,6/9/2013,HowardCCC,FV004,,MD
+CPR_CP.FV005,Adult,Columbia,6/9/2013,HowardCCC,FV005,,MD
+CPR_CP.FV006,Adult,Columbia,6/9/2013,HowardCCC,FV006,,MD
+CPR_CP.FV007,Adult,Columbia,6/9/2013,HowardCCC,FV007,,MD
+CPR_CP.FV009,Adult,Columbia,6/9/2013,HowardCCC,FV009,,MD
+CPR_CP.FV010,Adult,Columbia,6/9/2013,HowardCCC,FV010,,MD
+CPR_CP.FV011,Adult,Columbia,6/9/2013,HowardCCC,FV011,,MD
+CPR_CP.FV012,Adult,Columbia,6/9/2013,HowardCCC,FV012,,MD
+CPR_CP.FV013,Adult,Columbia,6/9/2013,HowardCCC,FV013,,MD
+CPR_CP.FV014,Adult,Columbia,6/9/2013,HowardCCC,FV014,,MD
+CPR_CP.FV016,Adult,Columbia,6/9/2013,HowardCCC,FV016,,MD
+CPR_CP.FV017,Adult,Columbia,6/9/2013,HowardCCC,FV017,,MD
+CPR_CP.FV018,Adult,Columbia,6/9/2013,HowardCCC,FV018,,MD
+CPR_CP.FV020,Adult,Columbia,6/9/2013,HowardCCC,FV020,,MD
+CPR_CP.FW081,Adult,Columbia,6/9/2013,HowardCCC,FW081,,MD
+CPR_CP.FW082,Adult,Columbia,6/9/2013,HowardCCC,FW082,,MD
+CPR_CP.FW083,Adult,Columbia,6/9/2013,HowardCCC,FW083,,MD
+CPR_CP.FW084,Adult,Columbia,6/9/2013,HowardCCC,FW084,,MD
+CPR_CP.FW085,Adult,Columbia,6/9/2013,HowardCCC,FW085,,MD
+CPR_CP.FW087,Adult,Columbia,6/9/2013,HowardCCC,FW087,,MD
+CPR_CP.FW088,Adult,Columbia,6/9/2013,HowardCCC,FW088,,MD
+CPR_CP.FW090,Adult,Columbia,6/9/2013,HowardCCC,FW090,,MD
+CPR_CP.FW091,Adult,Columbia,6/9/2013,HowardCCC,FW091,,MD
+CPR_CP.FW092,Adult,Columbia,6/9/2013,HowardCCC,FW092,,MD
+CPR_CP.FW093,Adult,Columbia,6/9/2013,HowardCCC,FW093,,MD
+CPR_CP.FW094,Adult,Columbia,6/9/2013,HowardCCC,FW094,,MD
+CPR_CP.FW095,Adult,Columbia,6/9/2013,HowardCCC,FW095,,MD
+CPR_CP.FW096,Adult,Columbia,6/9/2013,HowardCCC,FW096,,MD
+CPR_CP.FW097,Adult,Columbia,6/9/2013,HowardCCC,FW097,,MD
+CPR_CP.FW098,Adult,Columbia,6/9/2013,HowardCCC,FW098,,MD
+CPR_CP.FW100,Adult,Columbia,6/9/2013,HowardCCC,FW100,,MD
+CPR_SH.FV002,Adult,Columbia,6/9/2013,HowardCCC,FV002,,MD
+CPR_SH.FV003,Adult,Columbia,6/9/2013,HowardCCC,FV003,,MD
+CPR_SH.FV004,Adult,Columbia,6/9/2013,HowardCCC,FV004,,MD
+CPR_SH.FV005,Adult,Columbia,6/9/2013,HowardCCC,FV005,,MD
+CPR_SH.FV006,Adult,Columbia,6/9/2013,HowardCCC,FV006,,MD
+CPR_SH.FV007,Adult,Columbia,6/9/2013,HowardCCC,FV007,,MD
+CPR_SH.FV008,Adult,Columbia,6/9/2013,HowardCCC,FV008,,MD
+CPR_SH.FV009,Adult,Columbia,6/9/2013,HowardCCC,FV009,,MD
+CPR_SH.FV010,Adult,Columbia,6/9/2013,HowardCCC,FV010,,MD
+CPR_SH.FV011,Adult,Columbia,6/9/2013,HowardCCC,FV011,,MD
+CPR_SH.FV012,Adult,Columbia,6/9/2013,HowardCCC,FV012,,MD
+CPR_SH.FV013,Adult,Columbia,6/9/2013,HowardCCC,FV013,,MD
+CPR_SH.FV014,Adult,Columbia,6/9/2013,HowardCCC,FV014,,MD
+CPR_SH.FV015,Adult,Columbia,6/9/2013,HowardCCC,FV015,,MD
+CPR_SH.FV016,Adult,Columbia,6/9/2013,HowardCCC,FV016,,MD
+CPR_SH.FV017,Adult,Columbia,6/9/2013,HowardCCC,FV017,,MD
+CPR_SH.FV018,Adult,Columbia,6/9/2013,HowardCCC,FV018,,MD
+CPR_SH.FV020,Adult,Columbia,6/9/2013,HowardCCC,FV020,,MD
+CPR_SH.FW081,Adult,Columbia,6/9/2013,HowardCCC,FW081,,MD
+CPR_SH.FW082,Adult,Columbia,6/9/2013,HowardCCC,FW082,,MD
+CPR_SH.FW083,Adult,Columbia,6/9/2013,HowardCCC,FW083,,MD
+CPR_SH.FW085,Adult,Columbia,6/9/2013,HowardCCC,FW085,,MD
+CPR_SH.FW086,Adult,Columbia,6/9/2013,HowardCCC,FW086,,MD
+CPR_SH.FW087,Adult,Columbia,6/9/2013,HowardCCC,FW087,,MD
+CPR_SH.FW088,Adult,Columbia,6/9/2013,HowardCCC,FW088,,MD
+CPR_SH.FW090,Adult,Columbia,6/9/2013,HowardCCC,FW090,,MD
+CPR_SH.FW091,Adult,Columbia,6/9/2013,HowardCCC,FW091,,MD
+CPR_SH.FW092,Adult,Columbia,6/9/2013,HowardCCC,FW092,,MD
+CPR_SH.FW093,Adult,Columbia,6/9/2013,HowardCCC,FW093,,MD
+CPR_SH.FW094,Adult,Columbia,6/9/2013,HowardCCC,FW094,,MD
+CPR_SH.FW095,Adult,Columbia,6/9/2013,HowardCCC,FW095,,MD
+CPR_SH.FW096,Adult,Columbia,6/9/2013,HowardCCC,FW096,,MD
+CPR_SH.FW097,Adult,Columbia,6/9/2013,HowardCCC,FW097,,MD
+CPR_SH.FW098,Adult,Columbia,6/9/2013,HowardCCC,FW098,,MD
+CPR_SH.FW099,Adult,Columbia,6/9/2013,HowardCCC,FW099,,MD
+CPR_SH.FW100,Adult,Columbia,6/9/2013,HowardCCC,FW100,,MD
+CPR_CP.FX034,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX034,,MA
+CPR_CP.FX036,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX036,,MA
+CPR_CP.FX038,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX038,,MA
+CPR_CP.FX039,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX039,,MA
+CPR_CP.FX078,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX078,,MA
+CPR_CP.FY062,Mixed,Baltimore,5/4/2014,KidneyFoundation,FY062,,MA
+CPR_CP.FZ002,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ002,,MA
+CPR_CP.FZ019,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ019,,MA
+CPR_CP.FZ033,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ033,,MA
+CPR_CP.FZ036,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ036,,MA
+CPR_CP.FZ039,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ039,,MA
+CPR_CP.ME023,Mixed,Baltimore,5/4/2014,KidneyFoundation,ME023,,MA
+CPR_SH.FX034,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX034,,MA
+CPR_SH.FX036,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX036,,MA
+CPR_SH.FX038,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX038,,MA
+CPR_SH.FX039,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX039,,MA
+CPR_SH.FX078,Mixed,Baltimore,5/4/2014,KidneyFoundation,FX078,,MA
+CPR_SH.FY062,Mixed,Baltimore,5/4/2014,KidneyFoundation,FY062,,MA
+CPR_SH.FZ002,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ002,,MA
+CPR_SH.FZ019,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ019,,MA
+CPR_SH.FZ033,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ033,,MA
+CPR_SH.FZ036,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ036,,MA
+CPR_SH.FZ039,Mixed,Baltimore,5/4/2014,KidneyFoundation,FZ039,,MA
+CPR_SH.ME023,Mixed,Baltimore,5/4/2014,KidneyFoundation,ME023,,MA
+CPR_CP.ME061,Kid,Unknown,4/23/2014,KidScoop,ME061,,Unknown
+CPR_CP.ME062,Kid,Unknown,4/23/2014,KidScoop,ME062,,Unknown
+CPR_CP.ME063,Kid,Unknown,4/23/2014,KidScoop,ME063,,Unknown
+CPR_CP.ME064,Kid,Unknown,4/23/2014,KidScoop,ME064,,Unknown
+CPR_CP.ME065,Kid,Unknown,4/23/2014,KidScoop,ME065,,Unknown
+CPR_CP.ME071,Kid,Unknown,4/23/2014,KidScoop,ME071,,Unknown
+CPR_CP.ME072,Kid,Unknown,4/23/2014,KidScoop,ME072,,Unknown
+CPR_SH.ME061,Kid,Unknown,4/23/2014,KidScoop,ME061,,Unknown
+CPR_SH.ME062,Kid,Unknown,4/23/2014,KidScoop,ME062,,Unknown
+CPR_SH.ME063,Kid,Unknown,4/23/2014,KidScoop,ME063,,Unknown
+CPR_SH.ME064,Kid,Unknown,4/23/2014,KidScoop,ME064,,Unknown
+CPR_SH.ME065,Kid,Unknown,4/23/2014,KidScoop,ME065,,Unknown
+CPR_SH.ME072,Kid,Unknown,4/23/2014,KidScoop,ME072,,Unknown
+CPR_CP.AC042,Adult,Miami,9/25/2013,MiamiDolphins,AC042,Football,FL
+CPR_CP.AC046,Adult,Miami,9/25/2013,MiamiDolphins,AC046,Football,FL
+CPR_CP.AC047,Adult,Miami,9/25/2013,MiamiDolphins,AC047,Football,FL
+CPR_CP.AC049,Adult,Miami,9/25/2013,MiamiDolphins,AC049,Football,FL
+CPR_CP.AC050,Adult,Miami,9/25/2013,MiamiDolphins,AC050,Football,FL
+CPR_CP.AC051,Adult,Miami,9/25/2013,MiamiDolphins,AC051,Football,FL
+CPR_CP.AC054,Adult,Miami,9/25/2013,MiamiDolphins,AC054,Football,FL
+CPR_CP.AC055,Adult,Miami,9/25/2013,MiamiDolphins,AC055,Football,FL
+CPR_CP.AC057,Adult,Miami,9/25/2013,MiamiDolphins,AC057,Football,FL
+CPR_CP.AC058,Adult,Miami,9/25/2013,MiamiDolphins,AC058,Football,FL
+CPR_CP.AC059,Adult,Miami,9/25/2013,MiamiDolphins,AC059,Football,FL
+CPR_CP.AC060,Adult,Miami,9/25/2013,MiamiDolphins,AC060,Football,FL
+CPR_SH.AC041,Adult,Miami,9/25/2013,MiamiDolphins,AC041,Football,FL
+CPR_SH.AC042,Adult,Miami,9/25/2013,MiamiDolphins,AC042,Football,FL
+CPR_SH.AC043,Adult,Miami,9/25/2013,MiamiDolphins,AC043,Football,FL
+CPR_SH.AC044,Adult,Miami,9/25/2013,MiamiDolphins,AC044,Football,FL
+CPR_SH.AC045,Adult,Miami,9/25/2013,MiamiDolphins,AC045,Football,FL
+CPR_SH.AC046,Adult,Miami,9/25/2013,MiamiDolphins,AC046,Football,FL
+CPR_SH.AC047,Adult,Miami,9/25/2013,MiamiDolphins,AC047,Football,FL
+CPR_SH.AC049,Adult,Miami,9/25/2013,MiamiDolphins,AC049,Football,FL
+CPR_SH.AC050,Adult,Miami,9/25/2013,MiamiDolphins,AC050,Football,FL
+CPR_SH.AC051,Adult,Miami,9/25/2013,MiamiDolphins,AC051,Football,FL
+CPR_SH.AC053,Adult,Miami,9/25/2013,MiamiDolphins,AC053,Football,FL
+CPR_SH.AC054,Adult,Miami,9/25/2013,MiamiDolphins,AC054,Football,FL
+CPR_SH.AC055,Adult,Miami,9/25/2013,MiamiDolphins,AC055,Football,FL
+CPR_SH.AC057,Adult,Miami,9/25/2013,MiamiDolphins,AC057,Football,FL
+CPR_SH.AC058,Adult,Miami,9/25/2013,MiamiDolphins,AC058,Football,FL
+CPR_SH.AC060,Adult,Miami,9/25/2013,MiamiDolphins,AC060,Football,FL
+CPR_CP.FR001,Mixed,Dulles,9/28/2013,NSFSTEM,FR001,,VA
+CPR_CP.FR002,Mixed,Dulles,9/28/2013,NSFSTEM,FR002,,VA
+CPR_CP.FR003,Mixed,Dulles,9/28/2013,NSFSTEM,FR003,,VA
+CPR_CP.FR004,Mixed,Dulles,9/28/2013,NSFSTEM,FR004,,VA
+CPR_CP.FR005,Mixed,Dulles,9/28/2013,NSFSTEM,FR005,,VA
+CPR_CP.FR006,Mixed,Dulles,9/28/2013,NSFSTEM,FR006,,VA
+CPR_CP.FR007,Mixed,Dulles,9/28/2013,NSFSTEM,FR007,,VA
+CPR_CP.FR008,Mixed,Dulles,9/28/2013,NSFSTEM,FR008,,VA
+CPR_CP.FR009,Mixed,Dulles,9/28/2013,NSFSTEM,FR009,,VA
+CPR_CP.FR010,Mixed,Dulles,9/28/2013,NSFSTEM,FR010,,VA
+CPR_CP.FR011,Mixed,Dulles,9/28/2013,NSFSTEM,FR011,,VA
+CPR_CP.FR012,Mixed,Dulles,9/28/2013,NSFSTEM,FR012,,VA
+CPR_CP.FR013,Mixed,Dulles,9/28/2013,NSFSTEM,FR013,,VA
+CPR_CP.FR014,Mixed,Dulles,9/28/2013,NSFSTEM,FR014,,VA
+CPR_CP.FR015,Mixed,Dulles,9/28/2013,NSFSTEM,FR015,,VA
+CPR_CP.FR016,Mixed,Dulles,9/28/2013,NSFSTEM,FR016,,VA
+CPR_CP.FR017,Mixed,Dulles,9/28/2013,NSFSTEM,FR017,,VA
+CPR_CP.FR018,Mixed,Dulles,9/28/2013,NSFSTEM,FR018,,VA
+CPR_CP.FR019,Mixed,Dulles,9/28/2013,NSFSTEM,FR019,,VA
+CPR_CP.FR020,Mixed,Dulles,9/28/2013,NSFSTEM,FR020,,VA
+CPR_CP.FR021,Mixed,Dulles,9/28/2013,NSFSTEM,FR021,,VA
+CPR_CP.FR022,Mixed,Dulles,9/28/2013,NSFSTEM,FR022,,VA
+CPR_CP.FR023,Mixed,Dulles,9/28/2013,NSFSTEM,FR023,,VA
+CPR_CP.FR024,Mixed,Dulles,9/28/2013,NSFSTEM,FR024,,VA
+CPR_CP.FR025,Mixed,Dulles,9/28/2013,NSFSTEM,FR025,,VA
+CPR_CP.FR026,Mixed,Dulles,9/28/2013,NSFSTEM,FR026,,VA
+CPR_CP.FR027,Mixed,Dulles,9/28/2013,NSFSTEM,FR027,,VA
+CPR_CP.FR028,Mixed,Dulles,9/28/2013,NSFSTEM,FR028,,VA
+CPR_CP.FR029,Mixed,Dulles,9/28/2013,NSFSTEM,FR029,,VA
+CPR_CP.FR030,Mixed,Dulles,9/28/2013,NSFSTEM,FR030,,VA
+CPR_CP.FR031,Mixed,Dulles,9/28/2013,NSFSTEM,FR031,,VA
+CPR_CP.FR032,Mixed,Dulles,9/28/2013,NSFSTEM,FR032,,VA
+CPR_CP.FR033,Mixed,Dulles,9/28/2013,NSFSTEM,FR033,,VA
+CPR_CP.FR034,Mixed,Dulles,9/28/2013,NSFSTEM,FR034,,VA
+CPR_CP.FR035,Mixed,Dulles,9/28/2013,NSFSTEM,FR035,,VA
+CPR_SH.FR001,Mixed,Dulles,9/28/2013,NSFSTEM,FR001,,VA
+CPR_SH.FR002,Mixed,Dulles,9/28/2013,NSFSTEM,FR002,,VA
+CPR_SH.FR003,Mixed,Dulles,9/28/2013,NSFSTEM,FR003,,VA
+CPR_SH.FR004,Mixed,Dulles,9/28/2013,NSFSTEM,FR004,,VA
+CPR_SH.FR005,Mixed,Dulles,9/28/2013,NSFSTEM,FR005,,VA
+CPR_SH.FR006,Mixed,Dulles,9/28/2013,NSFSTEM,FR006,,VA
+CPR_SH.FR007,Mixed,Dulles,9/28/2013,NSFSTEM,FR007,,VA
+CPR_SH.FR008,Mixed,Dulles,9/28/2013,NSFSTEM,FR008,,VA
+CPR_SH.FR009,Mixed,Dulles,9/28/2013,NSFSTEM,FR009,,VA
+CPR_SH.FR010,Mixed,Dulles,9/28/2013,NSFSTEM,FR010,,VA
+CPR_SH.FR011,Mixed,Dulles,9/28/2013,NSFSTEM,FR011,,VA
+CPR_SH.FR012,Mixed,Dulles,9/28/2013,NSFSTEM,FR012,,VA
+CPR_SH.FR013,Mixed,Dulles,9/28/2013,NSFSTEM,FR013,,VA
+CPR_SH.FR014,Mixed,Dulles,9/28/2013,NSFSTEM,FR014,,VA
+CPR_SH.FR015,Mixed,Dulles,9/28/2013,NSFSTEM,FR015,,VA
+CPR_SH.FR016,Mixed,Dulles,9/28/2013,NSFSTEM,FR016,,VA
+CPR_SH.FR017,Mixed,Dulles,9/28/2013,NSFSTEM,FR017,,VA
+CPR_SH.FR018,Mixed,Dulles,9/28/2013,NSFSTEM,FR018,,VA
+CPR_SH.FR019,Mixed,Dulles,9/28/2013,NSFSTEM,FR019,,VA
+CPR_SH.FR020,Mixed,Dulles,9/28/2013,NSFSTEM,FR020,,VA
+CPR_SH.FR021,Mixed,Dulles,9/28/2013,NSFSTEM,FR021,,VA
+CPR_SH.FR022,Mixed,Dulles,9/28/2013,NSFSTEM,FR022,,VA
+CPR_SH.FR023,Mixed,Dulles,9/28/2013,NSFSTEM,FR023,,VA
+CPR_SH.FR024,Mixed,Dulles,9/28/2013,NSFSTEM,FR024,,VA
+CPR_SH.FR025,Mixed,Dulles,9/28/2013,NSFSTEM,FR025,,VA
+CPR_SH.FR026,Mixed,Dulles,9/28/2013,NSFSTEM,FR026,,VA
+CPR_SH.FR027,Mixed,Dulles,9/28/2013,NSFSTEM,FR027,,VA
+CPR_SH.FR028,Mixed,Dulles,9/28/2013,NSFSTEM,FR028,,VA
+CPR_SH.FR029,Mixed,Dulles,9/28/2013,NSFSTEM,FR029,,VA
+CPR_SH.FR030,Mixed,Dulles,9/28/2013,NSFSTEM,FR030,,VA
+CPR_SH.FR031,Mixed,Dulles,9/28/2013,NSFSTEM,FR031,,VA
+CPR_SH.FR032,Mixed,Dulles,9/28/2013,NSFSTEM,FR032,,VA
+CPR_SH.FR033,Mixed,Dulles,9/28/2013,NSFSTEM,FR033,,VA
+CPR_SH.FR034,Mixed,Dulles,9/28/2013,NSFSTEM,FR034,,VA
+CPR_SH.FR035,Mixed,Dulles,9/28/2013,NSFSTEM,FR035,,VA
+CPR_CP.AG025,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG025,Baseball,PA
+CPR_CP.AG027,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG027,Baseball,PA
+CPR_CP.AG031,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG031,Baseball,PA
+CPR_CP.AG034,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG034,Baseball,PA
+CPR_CP.AG035,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG035,Baseball,PA
+CPR_CP.AG037,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG037,Baseball,PA
+CPR_CP.AG041,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG041,Baseball,PA
+CPR_CP.AG042,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG042,Baseball,PA
+CPR_CP.AG044,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG044,Baseball,PA
+CPR_CP.AG049,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG049,Baseball,PA
+CPR_CP.AG051,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG051,Baseball,PA
+CPR_CP.AG052,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG052,Baseball,PA
+CPR_CP.AG053,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG053,Baseball,PA
+CPR_CP.AG055,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG055,Baseball,PA
+CPR_CP.AG057,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG057,Baseball,PA
+CPR_CP.AG058,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG058,Baseball,PA
+CPR_CP.AG099,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG099,Baseball,PA
+CPR_CP.AK027,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK027,Baseball,PA
+CPR_CP.AK028,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK028,Baseball,PA
+CPR_CP.AK033,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK033,Baseball,PA
+CPR_CP.AK036,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK036,Baseball,PA
+CPR_CP.AK038,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK038,Baseball,PA
+CPR_CP.AK044,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK044,Baseball,PA
+CPR_CP.AK046,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK046,Baseball,PA
+CPR_CP.AK048,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK048,Baseball,PA
+CPR_CP.AK056,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK056,Baseball,PA
+CPR_CP.AK060,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK060,Baseball,PA
+CPR_CP.AK061,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK061,Baseball,PA
+CPR_CP.AK068,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK068,Baseball,PA
+CPR_CP.AK072,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK072,Baseball,PA
+CPR_CP.AK073,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK073,Baseball,PA
+CPR_CP.AK074,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK074,Baseball,PA
+CPR_CP.AK080,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK080,Baseball,PA
+CPR_SH.AG023,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG023,Baseball,PA
+CPR_SH.AG025,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG025,Baseball,PA
+CPR_SH.AG027,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG027,Baseball,PA
+CPR_SH.AG030,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG030,Baseball,PA
+CPR_SH.AG031,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG031,Baseball,PA
+CPR_SH.AG034,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG034,Baseball,PA
+CPR_SH.AG037,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG037,Baseball,PA
+CPR_SH.AG039,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG039,Baseball,PA
+CPR_SH.AG041,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG041,Baseball,PA
+CPR_SH.AG042,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG042,Baseball,PA
+CPR_SH.AG044,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG044,Baseball,PA
+CPR_SH.AG048,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG048,Baseball,PA
+CPR_SH.AG049,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG049,Baseball,PA
+CPR_SH.AG051,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG051,Baseball,PA
+CPR_SH.AG052,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG052,Baseball,PA
+CPR_SH.AG053,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG053,Baseball,PA
+CPR_SH.AG055,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG055,Baseball,PA
+CPR_SH.AG057,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG057,Baseball,PA
+CPR_SH.AG058,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG058,Baseball,PA
+CPR_SH.AG090,Mixed,Philadelphia,4/25/2013,PhilliesGame,AG090,Baseball,PA
+CPR_SH.AK027,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK027,Baseball,PA
+CPR_SH.AK028,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK028,Baseball,PA
+CPR_SH.AK033,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK033,Baseball,PA
+CPR_SH.AK036,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK036,Baseball,PA
+CPR_SH.AK038,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK038,Baseball,PA
+CPR_SH.AK042,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK042,Baseball,PA
+CPR_SH.AK043,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK043,Baseball,PA
+CPR_SH.AK044,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK044,Baseball,PA
+CPR_SH.AK056,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK056,Baseball,PA
+CPR_SH.AK060,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK060,Baseball,PA
+CPR_SH.AK061,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK061,Baseball,PA
+CPR_SH.AK066,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK066,Baseball,PA
+CPR_SH.AK068,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK068,Baseball,PA
+CPR_SH.AK072,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK072,Baseball,PA
+CPR_SH.AK073,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK073,Baseball,PA
+CPR_SH.AK074,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK074,Baseball,PA
+CPR_SH.AK076,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK076,Baseball,PA
+CPR_SH.AK079,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK079,Baseball,PA
+CPR_SH.AK080,Mixed,Philadelphia,4/25/2013,PhilliesGame,AK080,Baseball,PA
+CPR_CP.FW002,Adult,Philadelphia,6/4/2013,PhillyANS,FW002,,PA
+CPR_CP.FW003,Adult,Philadelphia,6/4/2013,PhillyANS,FW003,,PA
+CPR_CP.FW005,Adult,Philadelphia,6/4/2013,PhillyANS,FW005,,PA
+CPR_CP.FW006,Adult,Philadelphia,6/4/2013,PhillyANS,FW006,,PA
+CPR_CP.FW007,Adult,Philadelphia,6/4/2013,PhillyANS,FW007,,PA
+CPR_CP.FW008,Adult,Philadelphia,6/4/2013,PhillyANS,FW008,,PA
+CPR_CP.FW009,Adult,Philadelphia,6/4/2013,PhillyANS,FW009,,PA
+CPR_CP.FW010,Adult,Philadelphia,6/4/2013,PhillyANS,FW010,,PA
+CPR_CP.FW014,Adult,Philadelphia,6/4/2013,PhillyANS,FW014,,PA
+CPR_SH.FW002,Adult,Philadelphia,6/4/2013,PhillyANS,FW002,,PA
+CPR_SH.FW003,Adult,Philadelphia,6/4/2013,PhillyANS,FW003,,PA
+CPR_SH.FW005,Adult,Philadelphia,6/4/2013,PhillyANS,FW005,,PA
+CPR_SH.FW006,Adult,Philadelphia,6/4/2013,PhillyANS,FW006,,PA
+CPR_SH.FW007,Adult,Philadelphia,6/4/2013,PhillyANS,FW007,,PA
+CPR_SH.FW008,Adult,Philadelphia,6/4/2013,PhillyANS,FW008,,PA
+CPR_SH.FW010,Adult,Philadelphia,6/4/2013,PhillyANS,FW010,,PA
+CPR_SH.FW014,Adult,Philadelphia,6/4/2013,PhillyANS,FW014,,PA
+CPR_CP.AM013,Mixed,Philadelphia,4/20/2013,PhillyScienceFest,AM013,,PA
+CPR_CP.AM061,Mixed,Philadelphia,4/20/2013,PhillyScienceFest,AM061,,PA
+CPR_CP.AM068,Mixed,Philadelphia,4/20/2013,PhillyScienceFest,AM068,,PA
+CPR_CP.AM069,Mixed,Philadelphia,4/20/2013,PhillyScienceFest,AM069,,PA
+CPR_SH.AM013,Mixed,Philadelphia,4/20/2013,PhillyScienceFest,AM013,,PA
+CPR_CP.FS061,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS061,,PA
+CPR_CP.FS062,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS062,,PA
+CPR_CP.FS063,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS063,,PA
+CPR_CP.FS064,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS064,,PA
+CPR_CP.FS065,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS065,,PA
+CPR_CP.FX043,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX043,,PA
+CPR_CP.FX044,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX044,,PA
+CPR_CP.FX046,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX046,,PA
+CPR_CP.FX048,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX048,,PA
+CPR_CP.FX051,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX051,,PA
+CPR_CP.FX055,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX055,,PA
+CPR_CP.FX056,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX056,,PA
+CPR_CP.FX057,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX057,,PA
+CPR_CP.FX082,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX082,,PA
+CPR_CP.FY081,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY081,,PA
+CPR_CP.FY082,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY082,,PA
+CPR_CP.FY083,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY083,,PA
+CPR_CP.FY084,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY084,,PA
+CPR_CP.FY086,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY086,,PA
+CPR_CP.FY088,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY088,,PA
+CPR_CP.FY089,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY089,,PA
+CPR_CP.FY090,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY090,,PA
+CPR_CP.FY091,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY091,,PA
+CPR_CP.FY092,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY092,,PA
+CPR_CP.FY094,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY094,,PA
+CPR_CP.FY095,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY095,,PA
+CPR_CP.FY096,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY096,,PA
+CPR_CP.FY097,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY097,,PA
+CPR_CP.FY098,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY098,,PA
+CPR_CP.FY100,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY100,,PA
+CPR_CP.FZ001,Mixed,Philadelphia,5/3/2014,PhillySciFest,FZ001,,PA
+CPR_CP.FZ015,Mixed,Philadelphia,5/3/2014,PhillySciFest,FZ015,,PA
+CPR_CP.MH001,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH001,,PA
+CPR_CP.MH002,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH002,,PA
+CPR_CP.MH003,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH003,,PA
+CPR_CP.MH004,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH004,,PA
+CPR_CP.MH005,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH005,,PA
+CPR_CP.MH006,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH006,,PA
+CPR_CP.MH007,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH007,,PA
+CPR_CP.MH008,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH008,,PA
+CPR_CP.MH009,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH009,,PA
+CPR_CP.MH010,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH010,,PA
+CPR_CP.MH011,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH011,,PA
+CPR_CP.MH012,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH012,,PA
+CPR_CP.MH013,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH013,,PA
+CPR_CP.MH014,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH014,,PA
+CPR_CP.MH015,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH015,,PA
+CPR_CP.MH016,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH016,,PA
+CPR_CP.MH017,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH017,,PA
+CPR_CP.MH019,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH019,,PA
+CPR_CP.MH020,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH020,,PA
+CPR_CP.MH021,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH021,,PA
+CPR_CP.MH022,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH022,,PA
+CPR_CP.MH023,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH023,,PA
+CPR_CP.MH024,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH024,,PA
+CPR_CP.MH025,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH025,,PA
+CPR_CP.MH026,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH026,,PA
+CPR_CP.MH027,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH027,,PA
+CPR_CP.MH028,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH028,,PA
+CPR_CP.MH029,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH029,,PA
+CPR_CP.MH030,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH030,,PA
+CPR_CP.MH031,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH031,,PA
+CPR_CP.MH032,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH032,,PA
+CPR_CP.MH033,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH033,,PA
+CPR_CP.MH034,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH034,,PA
+CPR_CP.MH035,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH035,,PA
+CPR_CP.MH036,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH036,,PA
+CPR_CP.MH037,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH037,,PA
+CPR_CP.MH038,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH038,,PA
+CPR_CP.MH039,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH039,,PA
+CPR_CP.MH040,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH040,,PA
+CPR_CP.MH042,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH042,,PA
+CPR_CP.MH043,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH043,,PA
+CPR_CP.MH044,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH044,,PA
+CPR_CP.MH045,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH045,,PA
+CPR_CP.MH046,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH046,,PA
+CPR_CP.MH047,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH047,,PA
+CPR_CP.MH048,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH048,,PA
+CPR_CP.MH049,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH049,,PA
+CPR_CP.MH050,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH050,,PA
+CPR_CP.MH051,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH051,,PA
+CPR_CP.MH052,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH052,,PA
+CPR_CP.MH053,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH053,,PA
+CPR_CP.MH054,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH054,,PA
+CPR_CP.MH055,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH055,,PA
+CPR_CP.MH056,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH056,,PA
+CPR_CP.MH058,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH058,,PA
+CPR_CP.MH059,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH059,,PA
+CPR_CP.MH060,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH060,,PA
+CPR_CP.MH061,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH061,,PA
+CPR_CP.MH062,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH062,,PA
+CPR_CP.MH063,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH063,,PA
+CPR_CP.MH064,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH064,,PA
+CPR_CP.MH066,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH066,,PA
+CPR_CP.MH067,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH067,,PA
+CPR_CP.MH068,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH068,,PA
+CPR_CP.MH069,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH069,,PA
+CPR_CP.MH081,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH081,,PA
+CPR_CP.MH082,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH082,,PA
+CPR_CP.MH083,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH083,,PA
+CPR_CP.MH084,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH084,,PA
+CPR_CP.MH085,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH085,,PA
+CPR_CP.MH098,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH098,,PA
+CPR_CP.MH099,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH099,,PA
+CPR_CP.MH100,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH100,,PA
+CPR_SH.FS061,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS061,,PA
+CPR_SH.FS062,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS062,,PA
+CPR_SH.FS063,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS063,,PA
+CPR_SH.FS064,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS064,,PA
+CPR_SH.FS065,Mixed,Philadelphia,5/3/2014,PhillySciFest,FS065,,PA
+CPR_SH.FX043,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX043,,PA
+CPR_SH.FX044,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX044,,PA
+CPR_SH.FX046,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX046,,PA
+CPR_SH.FX048,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX048,,PA
+CPR_SH.FX049,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX049,,PA
+CPR_SH.FX051,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX051,,PA
+CPR_SH.FX055,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX055,,PA
+CPR_SH.FX056,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX056,,PA
+CPR_SH.FX082,Mixed,Philadelphia,5/3/2014,PhillySciFest,FX082,,PA
+CPR_SH.FY081,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY081,,PA
+CPR_SH.FY083,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY083,,PA
+CPR_SH.FY084,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY084,,PA
+CPR_SH.FY086,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY086,,PA
+CPR_SH.FY087,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY087,,PA
+CPR_SH.FY088,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY088,,PA
+CPR_SH.FY090,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY090,,PA
+CPR_SH.FY091,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY091,,PA
+CPR_SH.FY092,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY092,,PA
+CPR_SH.FY094,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY094,,PA
+CPR_SH.FY098,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY098,,PA
+CPR_SH.FY100,Mixed,Philadelphia,5/3/2014,PhillySciFest,FY100,,PA
+CPR_SH.FZ001,Mixed,Philadelphia,5/3/2014,PhillySciFest,FZ001,,PA
+CPR_SH.FZ015,Mixed,Philadelphia,5/3/2014,PhillySciFest,FZ015,,PA
+CPR_SH.MH001,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH001,,PA
+CPR_SH.MH002,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH002,,PA
+CPR_SH.MH003,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH003,,PA
+CPR_SH.MH004,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH004,,PA
+CPR_SH.MH005,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH005,,PA
+CPR_SH.MH006,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH006,,PA
+CPR_SH.MH007,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH007,,PA
+CPR_SH.MH008,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH008,,PA
+CPR_SH.MH009,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH009,,PA
+CPR_SH.MH011,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH011,,PA
+CPR_SH.MH012,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH012,,PA
+CPR_SH.MH013,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH013,,PA
+CPR_SH.MH014,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH014,,PA
+CPR_SH.MH015,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH015,,PA
+CPR_SH.MH016,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH016,,PA
+CPR_SH.MH018,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH018,,PA
+CPR_SH.MH021,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH021,,PA
+CPR_SH.MH022,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH022,,PA
+CPR_SH.MH023,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH023,,PA
+CPR_SH.MH024,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH024,,PA
+CPR_SH.MH025,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH025,,PA
+CPR_SH.MH026,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH026,,PA
+CPR_SH.MH027,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH027,,PA
+CPR_SH.MH029,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH029,,PA
+CPR_SH.MH031,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH031,,PA
+CPR_SH.MH032,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH032,,PA
+CPR_SH.MH033,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH033,,PA
+CPR_SH.MH034,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH034,,PA
+CPR_SH.MH036,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH036,,PA
+CPR_SH.MH050,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH050,,PA
+CPR_SH.MH059,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH059,,PA
+CPR_SH.MH064,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH064,,PA
+CPR_SH.MH066,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH066,,PA
+CPR_SH.MH067,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH067,,PA
+CPR_SH.MH069,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH069,,PA
+CPR_SH.MH082,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH082,,PA
+CPR_SH.MH084,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH084,,PA
+CPR_SH.MH099,Mixed,Philadelphia,5/3/2014,PhillySciFest,MH099,,PA
+CPR_CP.AC081,Kid,Potlatch,10/10/2013,Potluch,AC081,,ID
+CPR_CP.AC082,Kid,Potlatch,10/10/2013,Potluch,AC082,,ID
+CPR_CP.AC083,Kid,Potlatch,10/10/2013,Potluch,AC083,,ID
+CPR_CP.AC084,Kid,Potlatch,10/10/2013,Potluch,AC084,,ID
+CPR_CP.AC085,Kid,Potlatch,10/10/2013,Potluch,AC085,,ID
+CPR_CP.AC086,Kid,Potlatch,10/10/2013,Potluch,AC086,,ID
+CPR_CP.AC088,Kid,Potlatch,10/10/2013,Potluch,AC088,,ID
+CPR_CP.AC089,Kid,Potlatch,10/10/2013,Potluch,AC089,,ID
+CPR_CP.AC090,Kid,Potlatch,10/10/2013,Potluch,AC090,,ID
+CPR_CP.AC091,Kid,Potlatch,10/10/2013,Potluch,AC091,,ID
+CPR_CP.AC092,Kid,Potlatch,10/10/2013,Potluch,AC092,,ID
+CPR_CP.AC094,Kid,Potlatch,10/10/2013,Potluch,AC094,,ID
+CPR_CP.AC095,Kid,Potlatch,10/10/2013,Potluch,AC095,,ID
+CPR_CP.AC096,Kid,Potlatch,10/10/2013,Potluch,AC096,,ID
+CPR_CP.AC097,Kid,Potlatch,10/10/2013,Potluch,AC097,,ID
+CPR_CP.AC098,Kid,Potlatch,10/10/2013,Potluch,AC098,,ID
+CPR_CP.AC099,Kid,Potlatch,10/10/2013,Potluch,AC099,,ID
+CPR_CP.AC100,Kid,Potlatch,10/10/2013,Potluch,AC100,,ID
+CPR_SH.AC083,Kid,Potlatch,10/10/2013,Potluch,AC083,,ID
+CPR_SH.AC084,Kid,Potlatch,10/10/2013,Potluch,AC084,,ID
+CPR_SH.AC085,Kid,Potlatch,10/10/2013,Potluch,AC085,,ID
+CPR_SH.AC088,Kid,Potlatch,10/10/2013,Potluch,AC088,,ID
+CPR_SH.AC092,Kid,Potlatch,10/10/2013,Potluch,AC092,,ID
+CPR_SH.AC096,Kid,Potlatch,10/10/2013,Potluch,AC096,,ID
+CPR_SH.AC097,Kid,Potlatch,10/10/2013,Potluch,AC097,,ID
+CPR_CP.FS021,Kid,Chittenango,9/4/2013,PWBears,FS021,Cheer,NY
+CPR_CP.FS022,Kid,Chittenango,9/4/2013,PWBears,FS022,Cheer,NY
+CPR_CP.FS023,Kid,Chittenango,9/4/2013,PWBears,FS023,Cheer,NY
+CPR_CP.FS024,Kid,Chittenango,9/4/2013,PWBears,FS024,Cheer,NY
+CPR_CP.FS025,Kid,Chittenango,9/4/2013,PWBears,FS025,Cheer,NY
+CPR_CP.FS026,Kid,Chittenango,9/4/2013,PWBears,FS026,Cheer,NY
+CPR_CP.FS027,Kid,Chittenango,9/4/2013,PWBears,FS027,Cheer,NY
+CPR_CP.FS028,Kid,Chittenango,9/4/2013,PWBears,FS028,Cheer,NY
+CPR_CP.FS029,Kid,Chittenango,9/4/2013,PWBears,FS029,Cheer,NY
+CPR_CP.FS031,Kid,Chittenango,9/4/2013,PWBears,FS031,Cheer,NY
+CPR_CP.FS032,Kid,Chittenango,9/4/2013,PWBears,FS032,Cheer,NY
+CPR_CP.FS033,Kid,Chittenango,9/4/2013,PWBears,FS033,Cheer,NY
+CPR_CP.FS034,Kid,Chittenango,9/4/2013,PWBears,FS034,Cheer,NY
+CPR_CP.FS036,Kid,Chittenango,9/4/2013,PWBears,FS036,Cheer,NY
+CPR_CP.FS038,Kid,Chittenango,9/4/2013,PWBears,FS038,Cheer,NY
+CPR_CP.FS039,Kid,Chittenango,9/4/2013,PWBears,FS039,Cheer,NY
+CPR_CP.FS040,Kid,Chittenango,9/4/2013,PWBears,FS040,Cheer,NY
+CPR_SH.FS021,Kid,Chittenango,9/4/2013,PWBears,FS021,Cheer,NY
+CPR_SH.FS022,Kid,Chittenango,9/4/2013,PWBears,FS022,Cheer,NY
+CPR_SH.FS023,Kid,Chittenango,9/4/2013,PWBears,FS023,Cheer,NY
+CPR_SH.FS024,Kid,Chittenango,9/4/2013,PWBears,FS024,Cheer,NY
+CPR_SH.FS026,Kid,Chittenango,9/4/2013,PWBears,FS026,Cheer,NY
+CPR_SH.FS027,Kid,Chittenango,9/4/2013,PWBears,FS027,Cheer,NY
+CPR_SH.FS028,Kid,Chittenango,9/4/2013,PWBears,FS028,Cheer,NY
+CPR_SH.FS029,Kid,Chittenango,9/4/2013,PWBears,FS029,Cheer,NY
+CPR_SH.FS030,Kid,Chittenango,9/4/2013,PWBears,FS030,Cheer,NY
+CPR_SH.FS031,Kid,Chittenango,9/4/2013,PWBears,FS031,Cheer,NY
+CPR_SH.FS032,Kid,Chittenango,9/4/2013,PWBears,FS032,Cheer,NY
+CPR_SH.FS033,Kid,Chittenango,9/4/2013,PWBears,FS033,Cheer,NY
+CPR_SH.FS034,Kid,Chittenango,9/4/2013,PWBears,FS034,Cheer,NY
+CPR_SH.FS035,Kid,Chittenango,9/4/2013,PWBears,FS035,Cheer,NY
+CPR_SH.FS036,Kid,Chittenango,9/4/2013,PWBears,FS036,Cheer,NY
+CPR_SH.FS038,Kid,Chittenango,9/4/2013,PWBears,FS038,Cheer,NY
+CPR_SH.FS039,Kid,Chittenango,9/4/2013,PWBears,FS039,Cheer,NY
+CPR_SH.FS040,Kid,Chittenango,9/4/2013,PWBears,FS040,Cheer,NY
+CPR_CP.AB025,Kid,Orlando,9/7/2013,PWBrantley,AB025,Cheer,FL
+CPR_CP.AD021,Kid,Orlando,9/7/2013,PWBrantley,AD021,Cheer,FL
+CPR_CP.AD022,Kid,Orlando,9/7/2013,PWBrantley,AD022,Cheer,FL
+CPR_CP.AD023,Kid,Orlando,9/7/2013,PWBrantley,AD023,Cheer,FL
+CPR_CP.AD024,Kid,Orlando,9/7/2013,PWBrantley,AD024,Cheer,FL
+CPR_CP.AD025,Kid,Orlando,9/7/2013,PWBrantley,AD025,Cheer,FL
+CPR_CP.AD026,Kid,Orlando,9/7/2013,PWBrantley,AD026,Cheer,FL
+CPR_CP.AD027,Kid,Orlando,9/7/2013,PWBrantley,AD027,Cheer,FL
+CPR_CP.AD028,Kid,Orlando,9/7/2013,PWBrantley,AD028,Cheer,FL
+CPR_CP.AD029,Kid,Orlando,9/7/2013,PWBrantley,AD029,Cheer,FL
+CPR_CP.AD030,Kid,Orlando,9/7/2013,PWBrantley,AD030,Cheer,FL
+CPR_CP.AD031,Kid,Orlando,9/7/2013,PWBrantley,AD031,Cheer,FL
+CPR_CP.AD032,Kid,Orlando,9/7/2013,PWBrantley,AD032,Cheer,FL
+CPR_CP.AD033,Kid,Orlando,9/7/2013,PWBrantley,AD033,Cheer,FL
+CPR_CP.AD034,Kid,Orlando,9/7/2013,PWBrantley,AD034,Cheer,FL
+CPR_CP.AD035,Kid,Orlando,9/7/2013,PWBrantley,AD035,Cheer,FL
+CPR_CP.AD036,Kid,Orlando,9/7/2013,PWBrantley,AD036,Cheer,FL
+CPR_CP.AD037,Kid,Orlando,9/7/2013,PWBrantley,AD037,Cheer,FL
+CPR_CP.AD038,Kid,Orlando,9/7/2013,PWBrantley,AD038,Cheer,FL
+CPR_CP.AD040,Kid,Orlando,9/7/2013,PWBrantley,AD040,Cheer,FL
+CPR_SH.AB025,Kid,Orlando,9/7/2013,PWBrantley,AB025,Cheer,FL
+CPR_SH.AD021,Kid,Orlando,9/7/2013,PWBrantley,AD021,Cheer,FL
+CPR_SH.AD022,Kid,Orlando,9/7/2013,PWBrantley,AD022,Cheer,FL
+CPR_SH.AD023,Kid,Orlando,9/7/2013,PWBrantley,AD023,Cheer,FL
+CPR_SH.AD024,Kid,Orlando,9/7/2013,PWBrantley,AD024,Cheer,FL
+CPR_SH.AD025,Kid,Orlando,9/7/2013,PWBrantley,AD025,Cheer,FL
+CPR_SH.AD026,Kid,Orlando,9/7/2013,PWBrantley,AD026,Cheer,FL
+CPR_SH.AD027,Kid,Orlando,9/7/2013,PWBrantley,AD027,Cheer,FL
+CPR_SH.AD028,Kid,Orlando,9/7/2013,PWBrantley,AD028,Cheer,FL
+CPR_SH.AD029,Kid,Orlando,9/7/2013,PWBrantley,AD029,Cheer,FL
+CPR_SH.AD030,Kid,Orlando,9/7/2013,PWBrantley,AD030,Cheer,FL
+CPR_SH.AD031,Kid,Orlando,9/7/2013,PWBrantley,AD031,Cheer,FL
+CPR_SH.AD032,Kid,Orlando,9/7/2013,PWBrantley,AD032,Cheer,FL
+CPR_SH.AD033,Kid,Orlando,9/7/2013,PWBrantley,AD033,Cheer,FL
+CPR_SH.AD034,Kid,Orlando,9/7/2013,PWBrantley,AD034,Cheer,FL
+CPR_SH.AD035,Kid,Orlando,9/7/2013,PWBrantley,AD035,Cheer,FL
+CPR_SH.AD036,Kid,Orlando,9/7/2013,PWBrantley,AD036,Cheer,FL
+CPR_SH.AD037,Kid,Orlando,9/7/2013,PWBrantley,AD037,Cheer,FL
+CPR_SH.AD038,Kid,Orlando,9/7/2013,PWBrantley,AD038,Cheer,FL
+CPR_SH.AD040,Kid,Orlando,9/7/2013,PWBrantley,AD040,Cheer,FL
+CPR_CP.FS001,Kid,San Diego,8/24/2013,PWCoronado,FS001,Cheer,CA
+CPR_CP.FS002,Kid,San Diego,8/24/2013,PWCoronado,FS002,Cheer,CA
+CPR_CP.FS003,Kid,San Diego,8/24/2013,PWCoronado,FS003,Cheer,CA
+CPR_CP.FS004,Kid,San Diego,8/24/2013,PWCoronado,FS004,Cheer,CA
+CPR_CP.FS005,Kid,San Diego,8/24/2013,PWCoronado,FS005,Cheer,CA
+CPR_CP.FS006,Kid,San Diego,8/24/2013,PWCoronado,FS006,Cheer,CA
+CPR_CP.FS007,Kid,San Diego,8/24/2013,PWCoronado,FS007,Cheer,CA
+CPR_SH.FS001,Kid,San Diego,8/24/2013,PWCoronado,FS001,Cheer,CA
+CPR_SH.FS002,Kid,San Diego,8/24/2013,PWCoronado,FS002,Cheer,CA
+CPR_SH.FS003,Kid,San Diego,8/24/2013,PWCoronado,FS003,Cheer,CA
+CPR_SH.FS004,Kid,San Diego,8/24/2013,PWCoronado,FS004,Cheer,CA
+CPR_SH.FS005,Kid,San Diego,8/24/2013,PWCoronado,FS005,Cheer,CA
+CPR_SH.FS006,Kid,San Diego,8/24/2013,PWCoronado,FS006,Cheer,CA
+CPR_SH.FS007,Kid,San Diego,8/24/2013,PWCoronado,FS007,Cheer,CA
+CPR_CP.AB087,Kid,Castro Valley,9/29/2013,PWGladiators,AB087,Cheer,CA
+CPR_CP.AB088,Kid,Castro Valley,9/29/2013,PWGladiators,AB088,Cheer,CA
+CPR_CP.AB089,Kid,Castro Valley,9/29/2013,PWGladiators,AB089,Cheer,CA
+CPR_CP.AB091,Kid,Castro Valley,9/29/2013,PWGladiators,AB091,Cheer,CA
+CPR_CP.AB092,Kid,Castro Valley,9/29/2013,PWGladiators,AB092,Cheer,CA
+CPR_CP.AB096,Kid,Castro Valley,9/29/2013,PWGladiators,AB096,Cheer,CA
+CPR_CP.AB098,Kid,Castro Valley,9/29/2013,PWGladiators,AB098,Cheer,CA
+CPR_SH.AB087,Kid,Castro Valley,9/29/2013,PWGladiators,AB087,Cheer,CA
+CPR_SH.AB090,Kid,Castro Valley,9/29/2013,PWGladiators,AB090,Cheer,CA
+CPR_SH.AB092,Kid,Castro Valley,9/29/2013,PWGladiators,AB092,Cheer,CA
+CPR_SH.AB096,Kid,Castro Valley,9/29/2013,PWGladiators,AB096,Cheer,CA
+CPR_SH.AB098,Kid,Castro Valley,9/29/2013,PWGladiators,AB098,Cheer,CA
+CPR_CP.FY021,Adult,Landover,10/29/2013,Redskins,FY021,Football,MA
+CPR_CP.FY026,Adult,Landover,10/29/2013,Redskins,FY026,Football,MA
+CPR_CP.FY033,Adult,Landover,10/29/2013,Redskins,FY033,Football,MA
+CPR_SH.FY021,Adult,Landover,10/29/2013,Redskins,FY021,Football,MA
+CPR_SH.FY026,Adult,Landover,10/29/2013,Redskins,FY026,Football,MA
+CPR_SH.FY033,Adult,Landover,10/29/2013,Redskins,FY033,Football,MA
+CPR_CP.MA002,Adult,Durham,2/17/2014,ScienceOnline,MA002,,NC
+CPR_CP.MA003,Adult,Durham,2/17/2014,ScienceOnline,MA003,,NC
+CPR_CP.MA006,Adult,Durham,2/17/2014,ScienceOnline,MA006,,NC
+CPR_CP.MA007,Adult,Durham,2/17/2014,ScienceOnline,MA007,,NC
+CPR_CP.MA010,Adult,Durham,2/17/2014,ScienceOnline,MA010,,NC
+CPR_CP.MA014,Adult,Durham,2/17/2014,ScienceOnline,MA014,,NC
+CPR_CP.MA015,Adult,Durham,2/17/2014,ScienceOnline,MA015,,NC
+CPR_CP.MA016,Adult,Durham,2/17/2014,ScienceOnline,MA016,,NC
+CPR_CP.MA018,Adult,Durham,2/17/2014,ScienceOnline,MA018,,NC
+CPR_CP.MA020,Adult,Durham,2/17/2014,ScienceOnline,MA020,,NC
+CPR_CP.MA021,Adult,Durham,2/17/2014,ScienceOnline,MA021,,NC
+CPR_CP.MA024,Adult,Durham,2/17/2014,ScienceOnline,MA024,,NC
+CPR_CP.MA025,Adult,Durham,2/17/2014,ScienceOnline,MA025,,NC
+CPR_CP.MA029,Adult,Durham,2/17/2014,ScienceOnline,MA029,,NC
+CPR_CP.MA030,Adult,Durham,2/17/2014,ScienceOnline,MA030,,NC
+CPR_CP.MA031,Adult,Durham,2/17/2014,ScienceOnline,MA031,,NC
+CPR_CP.MA033,Adult,Durham,2/17/2014,ScienceOnline,MA033,,NC
+CPR_CP.MA036,Adult,Durham,2/17/2014,ScienceOnline,MA036,,NC
+CPR_CP.MA037,Adult,Durham,2/17/2014,ScienceOnline,MA037,,NC
+CPR_CP.MA040,Adult,Durham,2/17/2014,ScienceOnline,MA040,,NC
+CPR_CP.MA041,Adult,Durham,2/17/2014,ScienceOnline,MA041,,NC
+CPR_CP.MA042,Adult,Durham,2/17/2014,ScienceOnline,MA042,,NC
+CPR_CP.MA043,Adult,Durham,2/17/2014,ScienceOnline,MA043,,NC
+CPR_CP.MA044,Adult,Durham,2/17/2014,ScienceOnline,MA044,,NC
+CPR_CP.MA045,Adult,Durham,2/17/2014,ScienceOnline,MA045,,NC
+CPR_CP.MA046,Adult,Durham,2/17/2014,ScienceOnline,MA046,,NC
+CPR_CP.MA047,Adult,Durham,2/17/2014,ScienceOnline,MA047,,NC
+CPR_CP.MA048,Adult,Durham,2/17/2014,ScienceOnline,MA048,,NC
+CPR_CP.MA049,Adult,Durham,2/17/2014,ScienceOnline,MA049,,NC
+CPR_CP.MA053,Adult,Durham,2/17/2014,ScienceOnline,MA053,,NC
+CPR_CP.MA054,Adult,Durham,2/17/2014,ScienceOnline,MA054,,NC
+CPR_CP.MA059,Adult,Durham,2/17/2014,ScienceOnline,MA059,,NC
+CPR_CP.MA060,Adult,Durham,2/17/2014,ScienceOnline,MA060,,NC
+CPR_CP.MA061,Adult,Durham,2/17/2014,ScienceOnline,MA061,,NC
+CPR_CP.MA062,Adult,Durham,2/17/2014,ScienceOnline,MA062,,NC
+CPR_CP.MA063,Adult,Durham,2/17/2014,ScienceOnline,MA063,,NC
+CPR_CP.MA064,Adult,Durham,2/17/2014,ScienceOnline,MA064,,NC
+CPR_CP.MA065,Adult,Durham,2/17/2014,ScienceOnline,MA065,,NC
+CPR_CP.MA069,Adult,Durham,2/17/2014,ScienceOnline,MA069,,NC
+CPR_CP.MA071,Adult,Durham,2/17/2014,ScienceOnline,MA071,,NC
+CPR_CP.MA072,Adult,Durham,2/17/2014,ScienceOnline,MA072,,NC
+CPR_CP.MA073,Adult,Durham,2/17/2014,ScienceOnline,MA073,,NC
+CPR_CP.MA075,Adult,Durham,2/17/2014,ScienceOnline,MA075,,NC
+CPR_CP.MA079,Adult,Durham,2/17/2014,ScienceOnline,MA079,,NC
+CPR_CP.MA081,Adult,Durham,2/17/2014,ScienceOnline,MA081,,NC
+CPR_CP.MA083,Adult,Durham,2/17/2014,ScienceOnline,MA083,,NC
+CPR_CP.MA084,Adult,Durham,2/17/2014,ScienceOnline,MA084,,NC
+CPR_CP.MA085,Adult,Durham,2/17/2014,ScienceOnline,MA085,,NC
+CPR_CP.MA087,Adult,Durham,2/17/2014,ScienceOnline,MA087,,NC
+CPR_CP.MA093,Adult,Durham,2/17/2014,ScienceOnline,MA093,,NC
+CPR_CP.MA094,Adult,Durham,2/17/2014,ScienceOnline,MA094,,NC
+CPR_CP.MA095,Adult,Durham,2/17/2014,ScienceOnline,MA095,,NC
+CPR_CP.MA097,Adult,Durham,2/17/2014,ScienceOnline,MA097,,NC
+CPR_CP.MA098,Adult,Durham,2/17/2014,ScienceOnline,MA098,,NC
+CPR_CP.MA099,Adult,Durham,2/17/2014,ScienceOnline,MA099,,NC
+CPR_CP.MA100,Adult,Durham,2/17/2014,ScienceOnline,MA100,,NC
+CPR_CP.MB001,Adult,Durham,2/17/2014,ScienceOnline,MB001,,NC
+CPR_CP.MB002,Adult,Durham,2/17/2014,ScienceOnline,MB002,,NC
+CPR_CP.MB006,Adult,Durham,2/17/2014,ScienceOnline,MB006,,NC
+CPR_CP.MB008,Adult,Durham,2/17/2014,ScienceOnline,MB008,,NC
+CPR_CP.MB009,Adult,Durham,2/17/2014,ScienceOnline,MB009,,NC
+CPR_CP.MB011,Adult,Durham,2/17/2014,ScienceOnline,MB011,,NC
+CPR_CP.MB013,Adult,Durham,2/17/2014,ScienceOnline,MB013,,NC
+CPR_CP.MB014,Adult,Durham,2/17/2014,ScienceOnline,MB014,,NC
+CPR_CP.MB015,Adult,Durham,2/17/2014,ScienceOnline,MB015,,NC
+CPR_CP.MB017,Adult,Durham,2/17/2014,ScienceOnline,MB017,,NC
+CPR_CP.MB018,Adult,Durham,2/17/2014,ScienceOnline,MB018,,NC
+CPR_CP.MB019,Adult,Durham,2/17/2014,ScienceOnline,MB019,,NC
+CPR_CP.MB020,Adult,Durham,2/17/2014,ScienceOnline,MB020,,NC
+CPR_CP.MB023,Adult,Durham,2/17/2014,ScienceOnline,MB023,,NC
+CPR_CP.MB024,Adult,Durham,2/17/2014,ScienceOnline,MB024,,NC
+CPR_CP.MB025,Adult,Durham,2/17/2014,ScienceOnline,MB025,,NC
+CPR_CP.MB026,Adult,Durham,2/17/2014,ScienceOnline,MB026,,NC
+CPR_CP.MB027,Adult,Durham,2/17/2014,ScienceOnline,MB027,,NC
+CPR_CP.MB029,Adult,Durham,2/17/2014,ScienceOnline,MB029,,NC
+CPR_CP.MB031,Adult,Durham,2/17/2014,ScienceOnline,MB031,,NC
+CPR_CP.MB032,Adult,Durham,2/17/2014,ScienceOnline,MB032,,NC
+CPR_CP.MB033,Adult,Durham,2/17/2014,ScienceOnline,MB033,,NC
+CPR_CP.MB034,Adult,Durham,2/17/2014,ScienceOnline,MB034,,NC
+CPR_CP.MB035,Adult,Durham,2/17/2014,ScienceOnline,MB035,,NC
+CPR_CP.MB038,Adult,Durham,2/17/2014,ScienceOnline,MB038,,NC
+CPR_CP.MB039,Adult,Durham,2/17/2014,ScienceOnline,MB039,,NC
+CPR_CP.MB040,Adult,Durham,2/17/2014,ScienceOnline,MB040,,NC
+CPR_CP.MB041,Adult,Durham,2/17/2014,ScienceOnline,MB041,,NC
+CPR_CP.MB042,Adult,Durham,2/17/2014,ScienceOnline,MB042,,NC
+CPR_CP.MB045,Adult,Durham,2/17/2014,ScienceOnline,MB045,,NC
+CPR_CP.MB046,Adult,Durham,2/17/2014,ScienceOnline,MB046,,NC
+CPR_CP.MB048,Adult,Durham,2/17/2014,ScienceOnline,MB048,,NC
+CPR_CP.MB049,Adult,Durham,2/17/2014,ScienceOnline,MB049,,NC
+CPR_CP.MB050,Adult,Durham,2/17/2014,ScienceOnline,MB050,,NC
+CPR_CP.MB051,Adult,Durham,2/17/2014,ScienceOnline,MB051,,NC
+CPR_CP.MB052,Adult,Durham,2/17/2014,ScienceOnline,MB052,,NC
+CPR_CP.MB055,Adult,Durham,2/17/2014,ScienceOnline,MB055,,NC
+CPR_CP.MB056,Adult,Durham,2/17/2014,ScienceOnline,MB056,,NC
+CPR_CP.MB058,Adult,Durham,2/17/2014,ScienceOnline,MB058,,NC
+CPR_CP.MB062,Adult,Durham,2/17/2014,ScienceOnline,MB062,,NC
+CPR_CP.MB063,Adult,Durham,2/17/2014,ScienceOnline,MB063,,NC
+CPR_CP.MB066,Adult,Durham,2/17/2014,ScienceOnline,MB066,,NC
+CPR_CP.MB067,Adult,Durham,2/17/2014,ScienceOnline,MB067,,NC
+CPR_CP.MB068,Adult,Durham,2/17/2014,ScienceOnline,MB068,,NC
+CPR_CP.MB069,Adult,Durham,2/17/2014,ScienceOnline,MB069,,NC
+CPR_CP.MB070,Adult,Durham,2/17/2014,ScienceOnline,MB070,,NC
+CPR_CP.MB071,Adult,Durham,2/17/2014,ScienceOnline,MB071,,NC
+CPR_CP.MB072,Adult,Durham,2/17/2014,ScienceOnline,MB072,,NC
+CPR_CP.MB076,Adult,Durham,2/17/2014,ScienceOnline,MB076,,NC
+CPR_CP.MB077,Adult,Durham,2/17/2014,ScienceOnline,MB077,,NC
+CPR_CP.MB081,Adult,Durham,2/17/2014,ScienceOnline,MB081,,NC
+CPR_CP.MB083,Adult,Durham,2/17/2014,ScienceOnline,MB083,,NC
+CPR_CP.MB084,Adult,Durham,2/17/2014,ScienceOnline,MB084,,NC
+CPR_CP.MB085,Adult,Durham,2/17/2014,ScienceOnline,MB085,,NC
+CPR_CP.MB086,Adult,Durham,2/17/2014,ScienceOnline,MB086,,NC
+CPR_CP.MB089,Adult,Durham,2/17/2014,ScienceOnline,MB089,,NC
+CPR_CP.MB090,Adult,Durham,2/17/2014,ScienceOnline,MB090,,NC
+CPR_CP.MB092,Adult,Durham,2/17/2014,ScienceOnline,MB092,,NC
+CPR_CP.MB093,Adult,Durham,2/17/2014,ScienceOnline,MB093,,NC
+CPR_CP.MB095,Adult,Durham,2/17/2014,ScienceOnline,MB095,,NC
+CPR_CP.MB096,Adult,Durham,2/17/2014,ScienceOnline,MB096,,NC
+CPR_CP.MB097,Adult,Durham,2/17/2014,ScienceOnline,MB097,,NC
+CPR_CP.MB098,Adult,Durham,2/17/2014,ScienceOnline,MB098,,NC
+CPR_CP.MB099,Adult,Durham,2/17/2014,ScienceOnline,MB099,,NC
+CPR_CP.MB100,Adult,Durham,2/17/2014,ScienceOnline,MB100,,NC
+CPR_SH.MA002,Adult,Durham,2/17/2014,ScienceOnline,MA002,,NC
+CPR_SH.MA006,Adult,Durham,2/17/2014,ScienceOnline,MA006,,NC
+CPR_SH.MA007,Adult,Durham,2/17/2014,ScienceOnline,MA007,,NC
+CPR_SH.MA012,Adult,Durham,2/17/2014,ScienceOnline,MA012,,NC
+CPR_SH.MA013,Adult,Durham,2/17/2014,ScienceOnline,MA013,,NC
+CPR_SH.MA014,Adult,Durham,2/17/2014,ScienceOnline,MA014,,NC
+CPR_SH.MA015,Adult,Durham,2/17/2014,ScienceOnline,MA015,,NC
+CPR_SH.MA016,Adult,Durham,2/17/2014,ScienceOnline,MA016,,NC
+CPR_SH.MA018,Adult,Durham,2/17/2014,ScienceOnline,MA018,,NC
+CPR_SH.MA020,Adult,Durham,2/17/2014,ScienceOnline,MA020,,NC
+CPR_SH.MA021,Adult,Durham,2/17/2014,ScienceOnline,MA021,,NC
+CPR_SH.MA025,Adult,Durham,2/17/2014,ScienceOnline,MA025,,NC
+CPR_SH.MA026,Adult,Durham,2/17/2014,ScienceOnline,MA026,,NC
+CPR_SH.MA029,Adult,Durham,2/17/2014,ScienceOnline,MA029,,NC
+CPR_SH.MA031,Adult,Durham,2/17/2014,ScienceOnline,MA031,,NC
+CPR_SH.MA033,Adult,Durham,2/17/2014,ScienceOnline,MA033,,NC
+CPR_SH.MA034,Adult,Durham,2/17/2014,ScienceOnline,MA034,,NC
+CPR_SH.MA035,Adult,Durham,2/17/2014,ScienceOnline,MA035,,NC
+CPR_SH.MA036,Adult,Durham,2/17/2014,ScienceOnline,MA036,,NC
+CPR_SH.MA037,Adult,Durham,2/17/2014,ScienceOnline,MA037,,NC
+CPR_SH.MA040,Adult,Durham,2/17/2014,ScienceOnline,MA040,,NC
+CPR_SH.MA041,Adult,Durham,2/17/2014,ScienceOnline,MA041,,NC
+CPR_SH.MA042,Adult,Durham,2/17/2014,ScienceOnline,MA042,,NC
+CPR_SH.MA043,Adult,Durham,2/17/2014,ScienceOnline,MA043,,NC
+CPR_SH.MA044,Adult,Durham,2/17/2014,ScienceOnline,MA044,,NC
+CPR_SH.MA045,Adult,Durham,2/17/2014,ScienceOnline,MA045,,NC
+CPR_SH.MA046,Adult,Durham,2/17/2014,ScienceOnline,MA046,,NC
+CPR_SH.MA047,Adult,Durham,2/17/2014,ScienceOnline,MA047,,NC
+CPR_SH.MA048,Adult,Durham,2/17/2014,ScienceOnline,MA048,,NC
+CPR_SH.MA049,Adult,Durham,2/17/2014,ScienceOnline,MA049,,NC
+CPR_SH.MA053,Adult,Durham,2/17/2014,ScienceOnline,MA053,,NC
+CPR_SH.MA054,Adult,Durham,2/17/2014,ScienceOnline,MA054,,NC
+CPR_SH.MA059,Adult,Durham,2/17/2014,ScienceOnline,MA059,,NC
+CPR_SH.MA060,Adult,Durham,2/17/2014,ScienceOnline,MA060,,NC
+CPR_SH.MA061,Adult,Durham,2/17/2014,ScienceOnline,MA061,,NC
+CPR_SH.MA062,Adult,Durham,2/17/2014,ScienceOnline,MA062,,NC
+CPR_SH.MA063,Adult,Durham,2/17/2014,ScienceOnline,MA063,,NC
+CPR_SH.MA064,Adult,Durham,2/17/2014,ScienceOnline,MA064,,NC
+CPR_SH.MA067,Adult,Durham,2/17/2014,ScienceOnline,MA067,,NC
+CPR_SH.MA069,Adult,Durham,2/17/2014,ScienceOnline,MA069,,NC
+CPR_SH.MA071,Adult,Durham,2/17/2014,ScienceOnline,MA071,,NC
+CPR_SH.MA072,Adult,Durham,2/17/2014,ScienceOnline,MA072,,NC
+CPR_SH.MA075,Adult,Durham,2/17/2014,ScienceOnline,MA075,,NC
+CPR_SH.MA077,Adult,Durham,2/17/2014,ScienceOnline,MA077,,NC
+CPR_SH.MA079,Adult,Durham,2/17/2014,ScienceOnline,MA079,,NC
+CPR_SH.MA081,Adult,Durham,2/17/2014,ScienceOnline,MA081,,NC
+CPR_SH.MA083,Adult,Durham,2/17/2014,ScienceOnline,MA083,,NC
+CPR_SH.MA084,Adult,Durham,2/17/2014,ScienceOnline,MA084,,NC
+CPR_SH.MA085,Adult,Durham,2/17/2014,ScienceOnline,MA085,,NC
+CPR_SH.MA087,Adult,Durham,2/17/2014,ScienceOnline,MA087,,NC
+CPR_SH.MA088,Adult,Durham,2/17/2014,ScienceOnline,MA088,,NC
+CPR_SH.MA089,Adult,Durham,2/17/2014,ScienceOnline,MA089,,NC
+CPR_SH.MA090,Adult,Durham,2/17/2014,ScienceOnline,MA090,,NC
+CPR_SH.MA094,Adult,Durham,2/17/2014,ScienceOnline,MA094,,NC
+CPR_SH.MA095,Adult,Durham,2/17/2014,ScienceOnline,MA095,,NC
+CPR_SH.MA097,Adult,Durham,2/17/2014,ScienceOnline,MA097,,NC
+CPR_SH.MA098,Adult,Durham,2/17/2014,ScienceOnline,MA098,,NC
+CPR_SH.MA099,Adult,Durham,2/17/2014,ScienceOnline,MA099,,NC
+CPR_SH.MA100,Adult,Durham,2/17/2014,ScienceOnline,MA100,,NC
+CPR_SH.MB001,Adult,Durham,2/17/2014,ScienceOnline,MB001,,NC
+CPR_SH.MB002,Adult,Durham,2/17/2014,ScienceOnline,MB002,,NC
+CPR_SH.MB004,Adult,Durham,2/17/2014,ScienceOnline,MB004,,NC
+CPR_SH.MB006,Adult,Durham,2/17/2014,ScienceOnline,MB006,,NC
+CPR_SH.MB008,Adult,Durham,2/17/2014,ScienceOnline,MB008,,NC
+CPR_SH.MB009,Adult,Durham,2/17/2014,ScienceOnline,MB009,,NC
+CPR_SH.MB011,Adult,Durham,2/17/2014,ScienceOnline,MB011,,NC
+CPR_SH.MB012,Adult,Durham,2/17/2014,ScienceOnline,MB012,,NC
+CPR_SH.MB013,Adult,Durham,2/17/2014,ScienceOnline,MB013,,NC
+CPR_SH.MB014,Adult,Durham,2/17/2014,ScienceOnline,MB014,,NC
+CPR_SH.MB015,Adult,Durham,2/17/2014,ScienceOnline,MB015,,NC
+CPR_SH.MB017,Adult,Durham,2/17/2014,ScienceOnline,MB017,,NC
+CPR_SH.MB018,Adult,Durham,2/17/2014,ScienceOnline,MB018,,NC
+CPR_SH.MB019,Adult,Durham,2/17/2014,ScienceOnline,MB019,,NC
+CPR_SH.MB020,Adult,Durham,2/17/2014,ScienceOnline,MB020,,NC
+CPR_SH.MB022,Adult,Durham,2/17/2014,ScienceOnline,MB022,,NC
+CPR_SH.MB023,Adult,Durham,2/17/2014,ScienceOnline,MB023,,NC
+CPR_SH.MB025,Adult,Durham,2/17/2014,ScienceOnline,MB025,,NC
+CPR_SH.MB026,Adult,Durham,2/17/2014,ScienceOnline,MB026,,NC
+CPR_SH.MB027,Adult,Durham,2/17/2014,ScienceOnline,MB027,,NC
+CPR_SH.MB029,Adult,Durham,2/17/2014,ScienceOnline,MB029,,NC
+CPR_SH.MB031,Adult,Durham,2/17/2014,ScienceOnline,MB031,,NC
+CPR_SH.MB032,Adult,Durham,2/17/2014,ScienceOnline,MB032,,NC
+CPR_SH.MB037,Adult,Durham,2/17/2014,ScienceOnline,MB037,,NC
+CPR_SH.MB038,Adult,Durham,2/17/2014,ScienceOnline,MB038,,NC
+CPR_SH.MB039,Adult,Durham,2/17/2014,ScienceOnline,MB039,,NC
+CPR_SH.MB040,Adult,Durham,2/17/2014,ScienceOnline,MB040,,NC
+CPR_SH.MB041,Adult,Durham,2/17/2014,ScienceOnline,MB041,,NC
+CPR_SH.MB042,Adult,Durham,2/17/2014,ScienceOnline,MB042,,NC
+CPR_SH.MB044,Adult,Durham,2/17/2014,ScienceOnline,MB044,,NC
+CPR_SH.MB045,Adult,Durham,2/17/2014,ScienceOnline,MB045,,NC
+CPR_SH.MB046,Adult,Durham,2/17/2014,ScienceOnline,MB046,,NC
+CPR_SH.MB048,Adult,Durham,2/17/2014,ScienceOnline,MB048,,NC
+CPR_SH.MB049,Adult,Durham,2/17/2014,ScienceOnline,MB049,,NC
+CPR_SH.MB050,Adult,Durham,2/17/2014,ScienceOnline,MB050,,NC
+CPR_SH.MB051,Adult,Durham,2/17/2014,ScienceOnline,MB051,,NC
+CPR_SH.MB052,Adult,Durham,2/17/2014,ScienceOnline,MB052,,NC
+CPR_SH.MB055,Adult,Durham,2/17/2014,ScienceOnline,MB055,,NC
+CPR_SH.MB056,Adult,Durham,2/17/2014,ScienceOnline,MB056,,NC
+CPR_SH.MB057,Adult,Durham,2/17/2014,ScienceOnline,MB057,,NC
+CPR_SH.MB058,Adult,Durham,2/17/2014,ScienceOnline,MB058,,NC
+CPR_SH.MB062,Adult,Durham,2/17/2014,ScienceOnline,MB062,,NC
+CPR_SH.MB063,Adult,Durham,2/17/2014,ScienceOnline,MB063,,NC
+CPR_SH.MB064,Adult,Durham,2/17/2014,ScienceOnline,MB064,,NC
+CPR_SH.MB066,Adult,Durham,2/17/2014,ScienceOnline,MB066,,NC
+CPR_SH.MB067,Adult,Durham,2/17/2014,ScienceOnline,MB067,,NC
+CPR_SH.MB068,Adult,Durham,2/17/2014,ScienceOnline,MB068,,NC
+CPR_SH.MB069,Adult,Durham,2/17/2014,ScienceOnline,MB069,,NC
+CPR_SH.MB070,Adult,Durham,2/17/2014,ScienceOnline,MB070,,NC
+CPR_SH.MB071,Adult,Durham,2/17/2014,ScienceOnline,MB071,,NC
+CPR_SH.MB072,Adult,Durham,2/17/2014,ScienceOnline,MB072,,NC
+CPR_SH.MB074,Adult,Durham,2/17/2014,ScienceOnline,MB074,,NC
+CPR_SH.MB077,Adult,Durham,2/17/2014,ScienceOnline,MB077,,NC
+CPR_SH.MB081,Adult,Durham,2/17/2014,ScienceOnline,MB081,,NC
+CPR_SH.MB083,Adult,Durham,2/17/2014,ScienceOnline,MB083,,NC
+CPR_SH.MB085,Adult,Durham,2/17/2014,ScienceOnline,MB085,,NC
+CPR_SH.MB086,Adult,Durham,2/17/2014,ScienceOnline,MB086,,NC
+CPR_SH.MB090,Adult,Durham,2/17/2014,ScienceOnline,MB090,,NC
+CPR_SH.MB093,Adult,Durham,2/17/2014,ScienceOnline,MB093,,NC
+CPR_SH.MB094,Adult,Durham,2/17/2014,ScienceOnline,MB094,,NC
+CPR_SH.MB095,Adult,Durham,2/17/2014,ScienceOnline,MB095,,NC
+CPR_SH.MB096,Adult,Durham,2/17/2014,ScienceOnline,MB096,,NC
+CPR_SH.MB097,Adult,Durham,2/17/2014,ScienceOnline,MB097,,NC
+CPR_SH.MB098,Adult,Durham,2/17/2014,ScienceOnline,MB098,,NC
+CPR_SH.MB099,Adult,Durham,2/17/2014,ScienceOnline,MB099,,NC
+CPR_SH.MB100,Adult,Durham,2/17/2014,ScienceOnline,MB100,,NC
+CPR_CP.AG081,Mixed,Washington,4/25/2014,SciEngFest,AG081,,DC
+CPR_CP.AG085,Mixed,Washington,4/25/2014,SciEngFest,AG085,,DC
+CPR_CP.AG095,Mixed,Washington,4/25/2014,SciEngFest,AG095,,DC
+CPR_CP.AG098,Mixed,Washington,4/25/2014,SciEngFest,AG098,,DC
+CPR_CP.AK010,Mixed,Washington,4/25/2014,SciEngFest,AK010,,DC
+CPR_CP.AK071,Mixed,Washington,4/25/2014,SciEngFest,AK071,,DC
+CPR_CP.AK078,Mixed,Washington,4/25/2014,SciEngFest,AK078,,DC
+CPR_CP.AM056,Mixed,Washington,4/25/2014,SciEngFest,AM056,,DC
+CPR_CP.FY027,Mixed,Washington,4/25/2014,SciEngFest,FY027,,DC
+CPR_CP.FY029,Mixed,Washington,4/25/2014,SciEngFest,FY029,,DC
+CPR_CP.FY032,Mixed,Washington,4/25/2014,SciEngFest,FY032,,DC
+CPR_CP.FY040,Mixed,Washington,4/25/2014,SciEngFest,FY040,,DC
+CPR_CP.FY070,Mixed,Washington,4/25/2014,SciEngFest,FY070,,DC
+CPR_CP.FZ006,Mixed,Washington,4/25/2014,SciEngFest,FZ006,,DC
+CPR_CP.FZ010,Mixed,Washington,4/25/2014,SciEngFest,FZ010,,DC
+CPR_CP.FZ021,Mixed,Washington,4/25/2014,SciEngFest,FZ021,,DC
+CPR_CP.FZ037,Mixed,Washington,4/25/2014,SciEngFest,FZ037,,DC
+CPR_CP.FZ038,Mixed,Washington,4/25/2014,SciEngFest,FZ038,,DC
+CPR_CP.LT058,Mixed,Washington,4/25/2014,SciEngFest,LT058,,DC
+CPR_CP.LT059,Mixed,Washington,4/25/2014,SciEngFest,LT059,,DC
+CPR_CP.LT060,Mixed,Washington,4/25/2014,SciEngFest,LT060,,DC
+CPR_CP.LT061,Mixed,Washington,4/25/2014,SciEngFest,LT061,,DC
+CPR_CP.LT062,Mixed,Washington,4/25/2014,SciEngFest,LT062,,DC
+CPR_CP.LT063,Mixed,Washington,4/25/2014,SciEngFest,LT063,,DC
+CPR_CP.LT064,Mixed,Washington,4/25/2014,SciEngFest,LT064,,DC
+CPR_CP.LT065,Mixed,Washington,4/25/2014,SciEngFest,LT065,,DC
+CPR_CP.LT066,Mixed,Washington,4/25/2014,SciEngFest,LT066,,DC
+CPR_CP.LT067,Mixed,Washington,4/25/2014,SciEngFest,LT067,,DC
+CPR_CP.LT068,Mixed,Washington,4/25/2014,SciEngFest,LT068,,DC
+CPR_CP.LT069,Mixed,Washington,4/25/2014,SciEngFest,LT069,,DC
+CPR_CP.LT070,Mixed,Washington,4/25/2014,SciEngFest,LT070,,DC
+CPR_CP.LT071,Mixed,Washington,4/25/2014,SciEngFest,LT071,,DC
+CPR_CP.LT072,Mixed,Washington,4/25/2014,SciEngFest,LT072,,DC
+CPR_CP.LT073,Mixed,Washington,4/25/2014,SciEngFest,LT073,,DC
+CPR_CP.LT074,Mixed,Washington,4/25/2014,SciEngFest,LT074,,DC
+CPR_CP.LT075,Mixed,Washington,4/25/2014,SciEngFest,LT075,,DC
+CPR_CP.LT076,Mixed,Washington,4/25/2014,SciEngFest,LT076,,DC
+CPR_CP.LT077,Mixed,Washington,4/25/2014,SciEngFest,LT077,,DC
+CPR_CP.LT078,Mixed,Washington,4/25/2014,SciEngFest,LT078,,DC
+CPR_CP.MC001,Mixed,Washington,4/25/2014,SciEngFest,MC001,,DC
+CPR_CP.MC002,Mixed,Washington,4/25/2014,SciEngFest,MC002,,DC
+CPR_CP.MC004,Mixed,Washington,4/25/2014,SciEngFest,MC004,,DC
+CPR_CP.MC005,Mixed,Washington,4/25/2014,SciEngFest,MC005,,DC
+CPR_CP.MC006,Mixed,Washington,4/25/2014,SciEngFest,MC006,,DC
+CPR_CP.MC011,Mixed,Washington,4/25/2014,SciEngFest,MC011,,DC
+CPR_CP.MC012,Mixed,Washington,4/25/2014,SciEngFest,MC012,,DC
+CPR_CP.MC021,Mixed,Washington,4/25/2014,SciEngFest,MC021,,DC
+CPR_CP.MC023,Mixed,Washington,4/25/2014,SciEngFest,MC023,,DC
+CPR_CP.MC027,Mixed,Washington,4/25/2014,SciEngFest,MC027,,DC
+CPR_CP.MC044,Mixed,Washington,4/25/2014,SciEngFest,MC044,,DC
+CPR_CP.MC045,Mixed,Washington,4/25/2014,SciEngFest,MC045,,DC
+CPR_CP.MC046,Mixed,Washington,4/25/2014,SciEngFest,MC046,,DC
+CPR_CP.MC048,Mixed,Washington,4/25/2014,SciEngFest,MC048,,DC
+CPR_CP.MC049,Mixed,Washington,4/25/2014,SciEngFest,MC049,,DC
+CPR_CP.MC050,Mixed,Washington,4/25/2014,SciEngFest,MC050,,DC
+CPR_CP.MC051,Mixed,Washington,4/25/2014,SciEngFest,MC051,,DC
+CPR_CP.MC052,Mixed,Washington,4/25/2014,SciEngFest,MC052,,DC
+CPR_CP.MC053,Mixed,Washington,4/25/2014,SciEngFest,MC053,,DC
+CPR_CP.MC054,Mixed,Washington,4/25/2014,SciEngFest,MC054,,DC
+CPR_CP.MC056,Mixed,Washington,4/25/2014,SciEngFest,MC056,,DC
+CPR_CP.MC057,Mixed,Washington,4/25/2014,SciEngFest,MC057,,DC
+CPR_CP.MC058,Mixed,Washington,4/25/2014,SciEngFest,MC058,,DC
+CPR_CP.MC059,Mixed,Washington,4/25/2014,SciEngFest,MC059,,DC
+CPR_CP.MC060,Mixed,Washington,4/25/2014,SciEngFest,MC060,,DC
+CPR_CP.MC061,Mixed,Washington,4/25/2014,SciEngFest,MC061,,DC
+CPR_CP.MC063,Mixed,Washington,4/25/2014,SciEngFest,MC063,,DC
+CPR_CP.MC064,Mixed,Washington,4/25/2014,SciEngFest,MC064,,DC
+CPR_CP.MC065,Mixed,Washington,4/25/2014,SciEngFest,MC065,,DC
+CPR_CP.MC066,Mixed,Washington,4/25/2014,SciEngFest,MC066,,DC
+CPR_CP.MC067,Mixed,Washington,4/25/2014,SciEngFest,MC067,,DC
+CPR_CP.MC068,Mixed,Washington,4/25/2014,SciEngFest,MC068,,DC
+CPR_CP.MC069,Mixed,Washington,4/25/2014,SciEngFest,MC069,,DC
+CPR_CP.MC070,Mixed,Washington,4/25/2014,SciEngFest,MC070,,DC
+CPR_CP.MC071,Mixed,Washington,4/25/2014,SciEngFest,MC071,,DC
+CPR_CP.MC072,Mixed,Washington,4/25/2014,SciEngFest,MC072,,DC
+CPR_CP.MC073,Mixed,Washington,4/25/2014,SciEngFest,MC073,,DC
+CPR_CP.MC074,Mixed,Washington,4/25/2014,SciEngFest,MC074,,DC
+CPR_CP.MC076,Mixed,Washington,4/25/2014,SciEngFest,MC076,,DC
+CPR_CP.MC077,Mixed,Washington,4/25/2014,SciEngFest,MC077,,DC
+CPR_CP.MC078,Mixed,Washington,4/25/2014,SciEngFest,MC078,,DC
+CPR_CP.MC079,Mixed,Washington,4/25/2014,SciEngFest,MC079,,DC
+CPR_CP.MC081,Mixed,Washington,4/25/2014,SciEngFest,MC081,,DC
+CPR_CP.MC083,Mixed,Washington,4/25/2014,SciEngFest,MC083,,DC
+CPR_CP.MC084,Mixed,Washington,4/25/2014,SciEngFest,MC084,,DC
+CPR_CP.MC086,Mixed,Washington,4/25/2014,SciEngFest,MC086,,DC
+CPR_CP.MC087,Mixed,Washington,4/25/2014,SciEngFest,MC087,,DC
+CPR_CP.MC088,Mixed,Washington,4/25/2014,SciEngFest,MC088,,DC
+CPR_CP.MC089,Mixed,Washington,4/25/2014,SciEngFest,MC089,,DC
+CPR_CP.MC090,Mixed,Washington,4/25/2014,SciEngFest,MC090,,DC
+CPR_CP.MC091,Mixed,Washington,4/25/2014,SciEngFest,MC091,,DC
+CPR_CP.MC092,Mixed,Washington,4/25/2014,SciEngFest,MC092,,DC
+CPR_CP.MC094,Mixed,Washington,4/25/2014,SciEngFest,MC094,,DC
+CPR_CP.ME001,Mixed,Washington,4/25/2014,SciEngFest,ME001,,DC
+CPR_CP.ME011,Mixed,Washington,4/25/2014,SciEngFest,ME011,,DC
+CPR_CP.ME012,Mixed,Washington,4/25/2014,SciEngFest,ME012,,DC
+CPR_CP.ME013,Mixed,Washington,4/25/2014,SciEngFest,ME013,,DC
+CPR_CP.ME014,Mixed,Washington,4/25/2014,SciEngFest,ME014,,DC
+CPR_CP.ME015,Mixed,Washington,4/25/2014,SciEngFest,ME015,,DC
+CPR_CP.ME016,Mixed,Washington,4/25/2014,SciEngFest,ME016,,DC
+CPR_CP.ME017,Mixed,Washington,4/25/2014,SciEngFest,ME017,,DC
+CPR_CP.ME018,Mixed,Washington,4/25/2014,SciEngFest,ME018,,DC
+CPR_CP.ME019,Mixed,Washington,4/25/2014,SciEngFest,ME019,,DC
+CPR_CP.ME020,Mixed,Washington,4/25/2014,SciEngFest,ME020,,DC
+CPR_CP.ME022,Mixed,Washington,4/25/2014,SciEngFest,ME022,,DC
+CPR_CP.ME024,Mixed,Washington,4/25/2014,SciEngFest,ME024,,DC
+CPR_CP.ME025,Mixed,Washington,4/25/2014,SciEngFest,ME025,,DC
+CPR_CP.ME026,Mixed,Washington,4/25/2014,SciEngFest,ME026,,DC
+CPR_CP.ME027,Mixed,Washington,4/25/2014,SciEngFest,ME027,,DC
+CPR_CP.ME028,Mixed,Washington,4/25/2014,SciEngFest,ME028,,DC
+CPR_CP.ME029,Mixed,Washington,4/25/2014,SciEngFest,ME029,,DC
+CPR_CP.ME030,Mixed,Washington,4/25/2014,SciEngFest,ME030,,DC
+CPR_CP.ME031,Mixed,Washington,4/25/2014,SciEngFest,ME031,,DC
+CPR_CP.ME032,Mixed,Washington,4/25/2014,SciEngFest,ME032,,DC
+CPR_CP.ME033,Mixed,Washington,4/25/2014,SciEngFest,ME033,,DC
+CPR_CP.ME034,Mixed,Washington,4/25/2014,SciEngFest,ME034,,DC
+CPR_CP.ME035,Mixed,Washington,4/25/2014,SciEngFest,ME035,,DC
+CPR_CP.ME036,Mixed,Washington,4/25/2014,SciEngFest,ME036,,DC
+CPR_CP.ME037,Mixed,Washington,4/25/2014,SciEngFest,ME037,,DC
+CPR_CP.ME038,Mixed,Washington,4/25/2014,SciEngFest,ME038,,DC
+CPR_CP.ME039,Mixed,Washington,4/25/2014,SciEngFest,ME039,,DC
+CPR_CP.ME040,Mixed,Washington,4/25/2014,SciEngFest,ME040,,DC
+CPR_CP.ME041,Mixed,Washington,4/25/2014,SciEngFest,ME041,,DC
+CPR_CP.ME042,Mixed,Washington,4/25/2014,SciEngFest,ME042,,DC
+CPR_CP.ME043,Mixed,Washington,4/25/2014,SciEngFest,ME043,,DC
+CPR_CP.ME044,Mixed,Washington,4/25/2014,SciEngFest,ME044,,DC
+CPR_CP.ME045,Mixed,Washington,4/25/2014,SciEngFest,ME045,,DC
+CPR_CP.ME046,Mixed,Washington,4/25/2014,SciEngFest,ME046,,DC
+CPR_CP.ME047,Mixed,Washington,4/25/2014,SciEngFest,ME047,,DC
+CPR_CP.ME048,Mixed,Washington,4/25/2014,SciEngFest,ME048,,DC
+CPR_CP.ME049,Mixed,Washington,4/25/2014,SciEngFest,ME049,,DC
+CPR_CP.ME050,Mixed,Washington,4/25/2014,SciEngFest,ME050,,DC
+CPR_CP.ME051,Mixed,Washington,4/25/2014,SciEngFest,ME051,,DC
+CPR_CP.ME052,Mixed,Washington,4/25/2014,SciEngFest,ME052,,DC
+CPR_CP.ME053,Mixed,Washington,4/25/2014,SciEngFest,ME053,,DC
+CPR_CP.ME054,Mixed,Washington,4/25/2014,SciEngFest,ME054,,DC
+CPR_CP.ME055,Mixed,Washington,4/25/2014,SciEngFest,ME055,,DC
+CPR_CP.ME056,Mixed,Washington,4/25/2014,SciEngFest,ME056,,DC
+CPR_CP.ME058,Mixed,Washington,4/25/2014,SciEngFest,ME058,,DC
+CPR_CP.ME059,Mixed,Washington,4/25/2014,SciEngFest,ME059,,DC
+CPR_CP.ME060,Mixed,Washington,4/25/2014,SciEngFest,ME060,,DC
+CPR_SH.AG081,Mixed,Washington,4/25/2014,SciEngFest,AG081,,DC
+CPR_SH.AG085,Mixed,Washington,4/25/2014,SciEngFest,AG085,,DC
+CPR_SH.AG095,Mixed,Washington,4/25/2014,SciEngFest,AG095,,DC
+CPR_SH.AG098,Mixed,Washington,4/25/2014,SciEngFest,AG098,,DC
+CPR_SH.AK010,Mixed,Washington,4/25/2014,SciEngFest,AK010,,DC
+CPR_SH.AK071,Mixed,Washington,4/25/2014,SciEngFest,AK071,,DC
+CPR_SH.AK078,Mixed,Washington,4/25/2014,SciEngFest,AK078,,DC
+CPR_SH.AM055,Mixed,Washington,4/25/2014,SciEngFest,AM055,,DC
+CPR_SH.AM056,Mixed,Washington,4/25/2014,SciEngFest,AM056,,DC
+CPR_SH.FY027,Mixed,Washington,4/25/2014,SciEngFest,FY027,,DC
+CPR_SH.FY029,Mixed,Washington,4/25/2014,SciEngFest,FY029,,DC
+CPR_SH.FZ006,Mixed,Washington,4/25/2014,SciEngFest,FZ006,,DC
+CPR_SH.FZ010,Mixed,Washington,4/25/2014,SciEngFest,FZ010,,DC
+CPR_SH.FZ021,Mixed,Washington,4/25/2014,SciEngFest,FZ021,,DC
+CPR_SH.FZ038,Mixed,Washington,4/25/2014,SciEngFest,FZ038,,DC
+CPR_SH.LT057,Mixed,Washington,4/25/2014,SciEngFest,LT057,,DC
+CPR_SH.LT058,Mixed,Washington,4/25/2014,SciEngFest,LT058,,DC
+CPR_SH.LT059,Mixed,Washington,4/25/2014,SciEngFest,LT059,,DC
+CPR_SH.LT060,Mixed,Washington,4/25/2014,SciEngFest,LT060,,DC
+CPR_SH.LT061,Mixed,Washington,4/25/2014,SciEngFest,LT061,,DC
+CPR_SH.LT062,Mixed,Washington,4/25/2014,SciEngFest,LT062,,DC
+CPR_SH.LT063,Mixed,Washington,4/25/2014,SciEngFest,LT063,,DC
+CPR_SH.LT064,Mixed,Washington,4/25/2014,SciEngFest,LT064,,DC
+CPR_SH.LT065,Mixed,Washington,4/25/2014,SciEngFest,LT065,,DC
+CPR_SH.LT066,Mixed,Washington,4/25/2014,SciEngFest,LT066,,DC
+CPR_SH.LT067,Mixed,Washington,4/25/2014,SciEngFest,LT067,,DC
+CPR_SH.LT068,Mixed,Washington,4/25/2014,SciEngFest,LT068,,DC
+CPR_SH.LT069,Mixed,Washington,4/25/2014,SciEngFest,LT069,,DC
+CPR_SH.LT070,Mixed,Washington,4/25/2014,SciEngFest,LT070,,DC
+CPR_SH.LT071,Mixed,Washington,4/25/2014,SciEngFest,LT071,,DC
+CPR_SH.LT072,Mixed,Washington,4/25/2014,SciEngFest,LT072,,DC
+CPR_SH.LT073,Mixed,Washington,4/25/2014,SciEngFest,LT073,,DC
+CPR_SH.LT074,Mixed,Washington,4/25/2014,SciEngFest,LT074,,DC
+CPR_SH.LT075,Mixed,Washington,4/25/2014,SciEngFest,LT075,,DC
+CPR_SH.LT076,Mixed,Washington,4/25/2014,SciEngFest,LT076,,DC
+CPR_SH.LT077,Mixed,Washington,4/25/2014,SciEngFest,LT077,,DC
+CPR_SH.LT078,Mixed,Washington,4/25/2014,SciEngFest,LT078,,DC
+CPR_SH.MC001,Mixed,Washington,4/25/2014,SciEngFest,MC001,,DC
+CPR_SH.MC002,Mixed,Washington,4/25/2014,SciEngFest,MC002,,DC
+CPR_SH.MC004,Mixed,Washington,4/25/2014,SciEngFest,MC004,,DC
+CPR_SH.MC005,Mixed,Washington,4/25/2014,SciEngFest,MC005,,DC
+CPR_SH.MC006,Mixed,Washington,4/25/2014,SciEngFest,MC006,,DC
+CPR_SH.MC011,Mixed,Washington,4/25/2014,SciEngFest,MC011,,DC
+CPR_SH.MC012,Mixed,Washington,4/25/2014,SciEngFest,MC012,,DC
+CPR_SH.MC017,Mixed,Washington,4/25/2014,SciEngFest,MC017,,DC
+CPR_SH.MC023,Mixed,Washington,4/25/2014,SciEngFest,MC023,,DC
+CPR_SH.MC027,Mixed,Washington,4/25/2014,SciEngFest,MC027,,DC
+CPR_SH.MC044,Mixed,Washington,4/25/2014,SciEngFest,MC044,,DC
+CPR_SH.MC045,Mixed,Washington,4/25/2014,SciEngFest,MC045,,DC
+CPR_SH.MC046,Mixed,Washington,4/25/2014,SciEngFest,MC046,,DC
+CPR_SH.MC048,Mixed,Washington,4/25/2014,SciEngFest,MC048,,DC
+CPR_SH.MC051,Mixed,Washington,4/25/2014,SciEngFest,MC051,,DC
+CPR_SH.MC052,Mixed,Washington,4/25/2014,SciEngFest,MC052,,DC
+CPR_SH.MC053,Mixed,Washington,4/25/2014,SciEngFest,MC053,,DC
+CPR_SH.MC054,Mixed,Washington,4/25/2014,SciEngFest,MC054,,DC
+CPR_SH.MC055,Mixed,Washington,4/25/2014,SciEngFest,MC055,,DC
+CPR_SH.MC056,Mixed,Washington,4/25/2014,SciEngFest,MC056,,DC
+CPR_SH.MC057,Mixed,Washington,4/25/2014,SciEngFest,MC057,,DC
+CPR_SH.MC058,Mixed,Washington,4/25/2014,SciEngFest,MC058,,DC
+CPR_SH.MC059,Mixed,Washington,4/25/2014,SciEngFest,MC059,,DC
+CPR_SH.MC060,Mixed,Washington,4/25/2014,SciEngFest,MC060,,DC
+CPR_SH.MC061,Mixed,Washington,4/25/2014,SciEngFest,MC061,,DC
+CPR_SH.MC063,Mixed,Washington,4/25/2014,SciEngFest,MC063,,DC
+CPR_SH.MC064,Mixed,Washington,4/25/2014,SciEngFest,MC064,,DC
+CPR_SH.MC065,Mixed,Washington,4/25/2014,SciEngFest,MC065,,DC
+CPR_SH.MC066,Mixed,Washington,4/25/2014,SciEngFest,MC066,,DC
+CPR_SH.MC067,Mixed,Washington,4/25/2014,SciEngFest,MC067,,DC
+CPR_SH.MC068,Mixed,Washington,4/25/2014,SciEngFest,MC068,,DC
+CPR_SH.MC069,Mixed,Washington,4/25/2014,SciEngFest,MC069,,DC
+CPR_SH.MC070,Mixed,Washington,4/25/2014,SciEngFest,MC070,,DC
+CPR_SH.MC071,Mixed,Washington,4/25/2014,SciEngFest,MC071,,DC
+CPR_SH.MC072,Mixed,Washington,4/25/2014,SciEngFest,MC072,,DC
+CPR_SH.MC073,Mixed,Washington,4/25/2014,SciEngFest,MC073,,DC
+CPR_SH.MC074,Mixed,Washington,4/25/2014,SciEngFest,MC074,,DC
+CPR_SH.MC076,Mixed,Washington,4/25/2014,SciEngFest,MC076,,DC
+CPR_SH.MC077,Mixed,Washington,4/25/2014,SciEngFest,MC077,,DC
+CPR_SH.MC078,Mixed,Washington,4/25/2014,SciEngFest,MC078,,DC
+CPR_SH.MC079,Mixed,Washington,4/25/2014,SciEngFest,MC079,,DC
+CPR_SH.MC081,Mixed,Washington,4/25/2014,SciEngFest,MC081,,DC
+CPR_SH.MC082,Mixed,Washington,4/25/2014,SciEngFest,MC082,,DC
+CPR_SH.MC083,Mixed,Washington,4/25/2014,SciEngFest,MC083,,DC
+CPR_SH.MC084,Mixed,Washington,4/25/2014,SciEngFest,MC084,,DC
+CPR_SH.MC085,Mixed,Washington,4/25/2014,SciEngFest,MC085,,DC
+CPR_SH.MC086,Mixed,Washington,4/25/2014,SciEngFest,MC086,,DC
+CPR_SH.MC087,Mixed,Washington,4/25/2014,SciEngFest,MC087,,DC
+CPR_SH.MC088,Mixed,Washington,4/25/2014,SciEngFest,MC088,,DC
+CPR_SH.MC089,Mixed,Washington,4/25/2014,SciEngFest,MC089,,DC
+CPR_SH.MC090,Mixed,Washington,4/25/2014,SciEngFest,MC090,,DC
+CPR_SH.MC091,Mixed,Washington,4/25/2014,SciEngFest,MC091,,DC
+CPR_SH.MC092,Mixed,Washington,4/25/2014,SciEngFest,MC092,,DC
+CPR_SH.MC094,Mixed,Washington,4/25/2014,SciEngFest,MC094,,DC
+CPR_SH.ME001,Mixed,Washington,4/25/2014,SciEngFest,ME001,,DC
+CPR_SH.ME002,Mixed,Washington,4/25/2014,SciEngFest,ME002,,DC
+CPR_SH.ME011,Mixed,Washington,4/25/2014,SciEngFest,ME011,,DC
+CPR_SH.ME012,Mixed,Washington,4/25/2014,SciEngFest,ME012,,DC
+CPR_SH.ME013,Mixed,Washington,4/25/2014,SciEngFest,ME013,,DC
+CPR_SH.ME014,Mixed,Washington,4/25/2014,SciEngFest,ME014,,DC
+CPR_SH.ME015,Mixed,Washington,4/25/2014,SciEngFest,ME015,,DC
+CPR_SH.ME016,Mixed,Washington,4/25/2014,SciEngFest,ME016,,DC
+CPR_SH.ME017,Mixed,Washington,4/25/2014,SciEngFest,ME017,,DC
+CPR_SH.ME018,Mixed,Washington,4/25/2014,SciEngFest,ME018,,DC
+CPR_SH.ME019,Mixed,Washington,4/25/2014,SciEngFest,ME019,,DC
+CPR_SH.ME020,Mixed,Washington,4/25/2014,SciEngFest,ME020,,DC
+CPR_SH.ME022,Mixed,Washington,4/25/2014,SciEngFest,ME022,,DC
+CPR_SH.ME024,Mixed,Washington,4/25/2014,SciEngFest,ME024,,DC
+CPR_SH.ME025,Mixed,Washington,4/25/2014,SciEngFest,ME025,,DC
+CPR_SH.ME026,Mixed,Washington,4/25/2014,SciEngFest,ME026,,DC
+CPR_SH.ME027,Mixed,Washington,4/25/2014,SciEngFest,ME027,,DC
+CPR_SH.ME028,Mixed,Washington,4/25/2014,SciEngFest,ME028,,DC
+CPR_SH.ME029,Mixed,Washington,4/25/2014,SciEngFest,ME029,,DC
+CPR_SH.ME030,Mixed,Washington,4/25/2014,SciEngFest,ME030,,DC
+CPR_SH.ME031,Mixed,Washington,4/25/2014,SciEngFest,ME031,,DC
+CPR_SH.ME032,Mixed,Washington,4/25/2014,SciEngFest,ME032,,DC
+CPR_SH.ME033,Mixed,Washington,4/25/2014,SciEngFest,ME033,,DC
+CPR_SH.ME034,Mixed,Washington,4/25/2014,SciEngFest,ME034,,DC
+CPR_SH.ME035,Mixed,Washington,4/25/2014,SciEngFest,ME035,,DC
+CPR_SH.ME036,Mixed,Washington,4/25/2014,SciEngFest,ME036,,DC
+CPR_SH.ME037,Mixed,Washington,4/25/2014,SciEngFest,ME037,,DC
+CPR_SH.ME038,Mixed,Washington,4/25/2014,SciEngFest,ME038,,DC
+CPR_SH.ME039,Mixed,Washington,4/25/2014,SciEngFest,ME039,,DC
+CPR_SH.ME040,Mixed,Washington,4/25/2014,SciEngFest,ME040,,DC
+CPR_SH.ME041,Mixed,Washington,4/25/2014,SciEngFest,ME041,,DC
+CPR_SH.ME042,Mixed,Washington,4/25/2014,SciEngFest,ME042,,DC
+CPR_SH.ME043,Mixed,Washington,4/25/2014,SciEngFest,ME043,,DC
+CPR_SH.ME044,Mixed,Washington,4/25/2014,SciEngFest,ME044,,DC
+CPR_SH.ME045,Mixed,Washington,4/25/2014,SciEngFest,ME045,,DC
+CPR_SH.ME046,Mixed,Washington,4/25/2014,SciEngFest,ME046,,DC
+CPR_SH.ME047,Mixed,Washington,4/25/2014,SciEngFest,ME047,,DC
+CPR_SH.ME048,Mixed,Washington,4/25/2014,SciEngFest,ME048,,DC
+CPR_SH.ME049,Mixed,Washington,4/25/2014,SciEngFest,ME049,,DC
+CPR_SH.ME050,Mixed,Washington,4/25/2014,SciEngFest,ME050,,DC
+CPR_SH.ME052,Mixed,Washington,4/25/2014,SciEngFest,ME052,,DC
+CPR_SH.ME053,Mixed,Washington,4/25/2014,SciEngFest,ME053,,DC
+CPR_SH.ME054,Mixed,Washington,4/25/2014,SciEngFest,ME054,,DC
+CPR_SH.ME055,Mixed,Washington,4/25/2014,SciEngFest,ME055,,DC
+CPR_SH.ME056,Mixed,Washington,4/25/2014,SciEngFest,ME056,,DC
+CPR_SH.ME057,Mixed,Washington,4/25/2014,SciEngFest,ME057,,DC
+CPR_SH.ME058,Mixed,Washington,4/25/2014,SciEngFest,ME058,,DC
+CPR_SH.ME059,Mixed,Washington,4/25/2014,SciEngFest,ME059,,DC
+CPR_SH.ME060,Mixed,Washington,4/25/2014,SciEngFest,ME060,,DC
+CPR_CP.LA081,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA081,,DC
+CPR_CP.LA083,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA083,,DC
+CPR_CP.LA084,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA084,,DC
+CPR_CP.LA085,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA085,,DC
+CPR_CP.LA086,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA086,,DC
+CPR_CP.LA087,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA087,,DC
+CPR_CP.LA088,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA088,,DC
+CPR_CP.LA089,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA089,,DC
+CPR_CP.LA090,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA090,,DC
+CPR_CP.LR001,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR001,,DC
+CPR_CP.LR002,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR002,,DC
+CPR_CP.LR003,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR003,,DC
+CPR_CP.LR004,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR004,,DC
+CPR_CP.LR005,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR005,,DC
+CPR_CP.LR006,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR006,,DC
+CPR_CP.LR007,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR007,,DC
+CPR_CP.LR008,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR008,,DC
+CPR_CP.LR009,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR009,,DC
+CPR_CP.LR010,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR010,,DC
+CPR_CP.LR011,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR011,,DC
+CPR_CP.LR012,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR012,,DC
+CPR_CP.LR013,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR013,,DC
+CPR_CP.LR014,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR014,,DC
+CPR_CP.LR015,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR015,,DC
+CPR_CP.LR016,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR016,,DC
+CPR_SH.LA081,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA081,,DC
+CPR_SH.LA082,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA082,,DC
+CPR_SH.LA083,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA083,,DC
+CPR_SH.LA084,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA084,,DC
+CPR_SH.LA085,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA085,,DC
+CPR_SH.LA086,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA086,,DC
+CPR_SH.LA087,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA087,,DC
+CPR_SH.LA089,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA089,,DC
+CPR_SH.LA090,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LA090,,DC
+CPR_SH.LR001,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR001,,DC
+CPR_SH.LR002,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR002,,DC
+CPR_SH.LR003,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR003,,DC
+CPR_SH.LR004,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR004,,DC
+CPR_SH.LR005,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR005,,DC
+CPR_SH.LR006,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR006,,DC
+CPR_SH.LR007,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR007,,DC
+CPR_SH.LR008,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR008,,DC
+CPR_SH.LR009,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR009,,DC
+CPR_SH.LR010,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR010,,DC
+CPR_SH.LR011,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR011,,DC
+CPR_SH.LR012,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR012,,DC
+CPR_SH.LR013,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR013,,DC
+CPR_SH.LR014,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR014,,DC
+CPR_SH.LR015,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR015,,DC
+CPR_SH.LR016,Mixed,Washington,9/14/2013,SmithsonianAirSpace,LR016,,DC
+CPR_CP.AB004,Mixed,San Antonio,4/12/2013,SPURS,AB004,Basketball,TX
+CPR_CP.AB005,Mixed,San Antonio,4/12/2013,SPURS,AB005,Basketball,TX
+CPR_CP.AB006,Mixed,San Antonio,4/12/2013,SPURS,AB006,Basketball,TX
+CPR_CP.AB010,Mixed,San Antonio,4/12/2013,SPURS,AB010,Basketball,TX
+CPR_CP.AB011,Mixed,San Antonio,4/12/2013,SPURS,AB011,Basketball,TX
+CPR_CP.AB012,Mixed,San Antonio,4/12/2013,SPURS,AB012,Basketball,TX
+CPR_CP.AB015,Mixed,San Antonio,4/12/2013,SPURS,AB015,Basketball,TX
+CPR_CP.AB017,Mixed,San Antonio,4/12/2013,SPURS,AB017,Basketball,TX
+CPR_CP.AB018,Mixed,San Antonio,4/12/2013,SPURS,AB018,Basketball,TX
+CPR_CP.AB042,Mixed,San Antonio,4/12/2013,SPURS,AB042,Basketball,TX
+CPR_CP.AB043,Mixed,San Antonio,4/12/2013,SPURS,AB043,Basketball,TX
+CPR_CP.AB045,Mixed,San Antonio,4/12/2013,SPURS,AB045,Basketball,TX
+CPR_CP.AB046,Mixed,San Antonio,4/12/2013,SPURS,AB046,Basketball,TX
+CPR_CP.AB048,Mixed,San Antonio,4/12/2013,SPURS,AB048,Basketball,TX
+CPR_CP.AB049,Mixed,San Antonio,4/12/2013,SPURS,AB049,Basketball,TX
+CPR_CP.AB050,Mixed,San Antonio,4/12/2013,SPURS,AB050,Basketball,TX
+CPR_CP.AB051,Mixed,San Antonio,4/12/2013,SPURS,AB051,Basketball,TX
+CPR_CP.AB055,Mixed,San Antonio,4/12/2013,SPURS,AB055,Basketball,TX
+CPR_CP.AB056,Mixed,San Antonio,4/12/2013,SPURS,AB056,Basketball,TX
+CPR_CP.AB057,Mixed,San Antonio,4/12/2013,SPURS,AB057,Basketball,TX
+CPR_CP.AB058,Mixed,San Antonio,4/12/2013,SPURS,AB058,Basketball,TX
+CPR_CP.AB060,Mixed,San Antonio,4/12/2013,SPURS,AB060,Basketball,TX
+CPR_CP.AE022,Mixed,San Antonio,4/12/2013,SPURS,AE022,Basketball,TX
+CPR_CP.AE023,Mixed,San Antonio,4/12/2013,SPURS,AE023,Basketball,TX
+CPR_CP.AE024,Mixed,San Antonio,4/12/2013,SPURS,AE024,Basketball,TX
+CPR_CP.AE025,Mixed,San Antonio,4/12/2013,SPURS,AE025,Basketball,TX
+CPR_CP.AE026,Mixed,San Antonio,4/12/2013,SPURS,AE026,Basketball,TX
+CPR_CP.AE027,Mixed,San Antonio,4/12/2013,SPURS,AE027,Basketball,TX
+CPR_CP.AE030,Mixed,San Antonio,4/12/2013,SPURS,AE030,Basketball,TX
+CPR_CP.AE031,Mixed,San Antonio,4/12/2013,SPURS,AE031,Basketball,TX
+CPR_CP.AE032,Mixed,San Antonio,4/12/2013,SPURS,AE032,Basketball,TX
+CPR_CP.AE036,Mixed,San Antonio,4/12/2013,SPURS,AE036,Basketball,TX
+CPR_CP.AE038,Mixed,San Antonio,4/12/2013,SPURS,AE038,Basketball,TX
+CPR_CP.AE039,Mixed,San Antonio,4/12/2013,SPURS,AE039,Basketball,TX
+CPR_CP.AE040,Mixed,San Antonio,4/12/2013,SPURS,AE040,Basketball,TX
+CPR_CP.AE062,Mixed,San Antonio,4/12/2013,SPURS,AE062,Basketball,TX
+CPR_CP.AE063,Mixed,San Antonio,4/12/2013,SPURS,AE063,Basketball,TX
+CPR_CP.AE065,Mixed,San Antonio,4/12/2013,SPURS,AE065,Basketball,TX
+CPR_CP.AE066,Mixed,San Antonio,4/12/2013,SPURS,AE066,Basketball,TX
+CPR_CP.AE067,Mixed,San Antonio,4/12/2013,SPURS,AE067,Basketball,TX
+CPR_CP.AE071,Mixed,San Antonio,4/12/2013,SPURS,AE071,Basketball,TX
+CPR_CP.AE076,Mixed,San Antonio,4/12/2013,SPURS,AE076,Basketball,TX
+CPR_CP.AE079,Mixed,San Antonio,4/12/2013,SPURS,AE079,Basketball,TX
+CPR_CP.AE080,Mixed,San Antonio,4/12/2013,SPURS,AE080,Basketball,TX
+CPR_SH.AB004,Mixed,San Antonio,4/12/2013,SPURS,AB004,Basketball,TX
+CPR_SH.AB005,Mixed,San Antonio,4/12/2013,SPURS,AB005,Basketball,TX
+CPR_SH.AB010,Mixed,San Antonio,4/12/2013,SPURS,AB010,Basketball,TX
+CPR_SH.AB011,Mixed,San Antonio,4/12/2013,SPURS,AB011,Basketball,TX
+CPR_SH.AB015,Mixed,San Antonio,4/12/2013,SPURS,AB015,Basketball,TX
+CPR_SH.AB018,Mixed,San Antonio,4/12/2013,SPURS,AB018,Basketball,TX
+CPR_SH.AB042,Mixed,San Antonio,4/12/2013,SPURS,AB042,Basketball,TX
+CPR_SH.AB043,Mixed,San Antonio,4/12/2013,SPURS,AB043,Basketball,TX
+CPR_SH.AB045,Mixed,San Antonio,4/12/2013,SPURS,AB045,Basketball,TX
+CPR_SH.AB046,Mixed,San Antonio,4/12/2013,SPURS,AB046,Basketball,TX
+CPR_SH.AB048,Mixed,San Antonio,4/12/2013,SPURS,AB048,Basketball,TX
+CPR_SH.AB049,Mixed,San Antonio,4/12/2013,SPURS,AB049,Basketball,TX
+CPR_SH.AB050,Mixed,San Antonio,4/12/2013,SPURS,AB050,Basketball,TX
+CPR_SH.AB055,Mixed,San Antonio,4/12/2013,SPURS,AB055,Basketball,TX
+CPR_SH.AB056,Mixed,San Antonio,4/12/2013,SPURS,AB056,Basketball,TX
+CPR_SH.AB057,Mixed,San Antonio,4/12/2013,SPURS,AB057,Basketball,TX
+CPR_SH.AB058,Mixed,San Antonio,4/12/2013,SPURS,AB058,Basketball,TX
+CPR_SH.AB060,Mixed,San Antonio,4/12/2013,SPURS,AB060,Basketball,TX
+CPR_SH.AE022,Mixed,San Antonio,4/12/2013,SPURS,AE022,Basketball,TX
+CPR_SH.AE023,Mixed,San Antonio,4/12/2013,SPURS,AE023,Basketball,TX
+CPR_SH.AE025,Mixed,San Antonio,4/12/2013,SPURS,AE025,Basketball,TX
+CPR_SH.AE026,Mixed,San Antonio,4/12/2013,SPURS,AE026,Basketball,TX
+CPR_SH.AE027,Mixed,San Antonio,4/12/2013,SPURS,AE027,Basketball,TX
+CPR_SH.AE031,Mixed,San Antonio,4/12/2013,SPURS,AE031,Basketball,TX
+CPR_SH.AE032,Mixed,San Antonio,4/12/2013,SPURS,AE032,Basketball,TX
+CPR_SH.AE036,Mixed,San Antonio,4/12/2013,SPURS,AE036,Basketball,TX
+CPR_SH.AE038,Mixed,San Antonio,4/12/2013,SPURS,AE038,Basketball,TX
+CPR_SH.AE039,Mixed,San Antonio,4/12/2013,SPURS,AE039,Basketball,TX
+CPR_SH.AE040,Mixed,San Antonio,4/12/2013,SPURS,AE040,Basketball,TX
+CPR_SH.AE062,Mixed,San Antonio,4/12/2013,SPURS,AE062,Basketball,TX
+CPR_SH.AE063,Mixed,San Antonio,4/12/2013,SPURS,AE063,Basketball,TX
+CPR_SH.AE065,Mixed,San Antonio,4/12/2013,SPURS,AE065,Basketball,TX
+CPR_SH.AE066,Mixed,San Antonio,4/12/2013,SPURS,AE066,Basketball,TX
+CPR_SH.AE067,Mixed,San Antonio,4/12/2013,SPURS,AE067,Basketball,TX
+CPR_SH.AE070,Mixed,San Antonio,4/12/2013,SPURS,AE070,Basketball,TX
+CPR_SH.AE071,Mixed,San Antonio,4/12/2013,SPURS,AE071,Basketball,TX
+CPR_SH.AE074,Mixed,San Antonio,4/12/2013,SPURS,AE074,Basketball,TX
+CPR_SH.AE076,Mixed,San Antonio,4/12/2013,SPURS,AE076,Basketball,TX
+CPR_SH.AE079,Mixed,San Antonio,4/12/2013,SPURS,AE079,Basketball,TX
+CPR_SH.AE080,Mixed,San Antonio,4/12/2013,SPURS,AE080,Basketball,TX
+CPR_CP.FV021,Adult,Palmdale,7/19/2013,TeachersInSpace,FV021,,CA
+CPR_CP.FV022,Adult,Palmdale,7/19/2013,TeachersInSpace,FV022,,CA
+CPR_CP.FV023,Adult,Palmdale,7/19/2013,TeachersInSpace,FV023,,CA
+CPR_CP.FV024,Adult,Palmdale,7/19/2013,TeachersInSpace,FV024,,CA
+CPR_CP.FV025,Adult,Palmdale,7/19/2013,TeachersInSpace,FV025,,CA
+CPR_CP.FV026,Adult,Palmdale,7/19/2013,TeachersInSpace,FV026,,CA
+CPR_CP.FV032,Adult,Palmdale,7/19/2013,TeachersInSpace,FV032,,CA
+CPR_CP.FV033,Adult,Palmdale,7/19/2013,TeachersInSpace,FV033,,CA
+CPR_CP.FV034,Adult,Palmdale,7/19/2013,TeachersInSpace,FV034,,CA
+CPR_CP.FV041,Adult,Palmdale,7/19/2013,TeachersInSpace,FV041,,CA
+CPR_CP.FV042,Adult,Palmdale,7/19/2013,TeachersInSpace,FV042,,CA
+CPR_CP.FV044,Adult,Palmdale,7/19/2013,TeachersInSpace,FV044,,CA
+CPR_SH.FV024,Adult,Palmdale,7/19/2013,TeachersInSpace,FV024,,CA
+CPR_SH.FV026,Adult,Palmdale,7/19/2013,TeachersInSpace,FV026,,CA
+CPR_SH.FV032,Adult,Palmdale,7/19/2013,TeachersInSpace,FV032,,CA
+CPR_SH.FV033,Adult,Palmdale,7/19/2013,TeachersInSpace,FV033,,CA
+CPR_SH.FV034,Adult,Palmdale,7/19/2013,TeachersInSpace,FV034,,CA
+CPR_SH.FV042,Adult,Palmdale,7/19/2013,TeachersInSpace,FV042,,CA
+CPR_SH.FV044,Adult,Palmdale,7/19/2013,TeachersInSpace,FV044,,CA
+CPR_CP.LR041,Adult,Longmeadow,9/26/2013,Tufts,LR041,,MA
+CPR_CP.LR042,Adult,Longmeadow,9/26/2013,Tufts,LR042,,MA
+CPR_CP.LR043,Adult,Longmeadow,9/26/2013,Tufts,LR043,,MA
+CPR_CP.LR044,Adult,Longmeadow,9/26/2013,Tufts,LR044,,MA
+CPR_CP.LR045,Adult,Longmeadow,9/26/2013,Tufts,LR045,,MA
+CPR_SH.LR041,Adult,Longmeadow,9/26/2013,Tufts,LR041,,MA
+CPR_SH.LR042,Adult,Longmeadow,9/26/2013,Tufts,LR042,,MA
+CPR_SH.LR043,Adult,Longmeadow,9/26/2013,Tufts,LR043,,MA
+CPR_SH.LR044,Adult,Longmeadow,9/26/2013,Tufts,LR044,,MA
+CPR_SH.LR045,Adult,Longmeadow,9/26/2013,Tufts,LR045,,MA
+CPR_CP.AD042,Adult,Tulsa,9/11/2013,TulsaCCBio,AD042,,OK
+CPR_CP.AD044,Adult,Tulsa,9/11/2013,TulsaCCBio,AD044,,OK
+CPR_CP.AD045,Adult,Tulsa,9/11/2013,TulsaCCBio,AD045,,OK
+CPR_CP.AD046,Adult,Tulsa,9/11/2013,TulsaCCBio,AD046,,OK
+CPR_CP.AD048,Adult,Tulsa,9/11/2013,TulsaCCBio,AD048,,OK
+CPR_CP.AD052,Adult,Tulsa,9/11/2013,TulsaCCBio,AD052,,OK
+CPR_CP.AD053,Adult,Tulsa,9/11/2013,TulsaCCBio,AD053,,OK
+CPR_CP.AD055,Adult,Tulsa,9/11/2013,TulsaCCBio,AD055,,OK
+CPR_CP.AH001,Adult,Tulsa,9/11/2013,TulsaCCBio,AH001,,OK
+CPR_CP.AH002,Adult,Tulsa,9/11/2013,TulsaCCBio,AH002,,OK
+CPR_CP.AH003,Adult,Tulsa,9/11/2013,TulsaCCBio,AH003,,OK
+CPR_CP.AH004,Adult,Tulsa,9/11/2013,TulsaCCBio,AH004,,OK
+CPR_CP.AH006,Adult,Tulsa,9/11/2013,TulsaCCBio,AH006,,OK
+CPR_CP.AH007,Adult,Tulsa,9/11/2013,TulsaCCBio,AH007,,OK
+CPR_CP.AH008,Adult,Tulsa,9/11/2013,TulsaCCBio,AH008,,OK
+CPR_CP.AH009,Adult,Tulsa,9/11/2013,TulsaCCBio,AH009,,OK
+CPR_CP.AH010,Adult,Tulsa,9/11/2013,TulsaCCBio,AH010,,OK
+CPR_CP.AH011,Adult,Tulsa,9/11/2013,TulsaCCBio,AH011,,OK
+CPR_CP.AH012,Adult,Tulsa,9/11/2013,TulsaCCBio,AH012,,OK
+CPR_CP.AH013,Adult,Tulsa,9/11/2013,TulsaCCBio,AH013,,OK
+CPR_CP.AH016,Adult,Tulsa,9/11/2013,TulsaCCBio,AH016,,OK
+CPR_CP.AH017,Adult,Tulsa,9/11/2013,TulsaCCBio,AH017,,OK
+CPR_CP.AH019,Adult,Tulsa,9/11/2013,TulsaCCBio,AH019,,OK
+CPR_CP.AH020,Adult,Tulsa,9/11/2013,TulsaCCBio,AH020,,OK
+CPR_CP.AH021,Adult,Tulsa,9/11/2013,TulsaCCBio,AH021,,OK
+CPR_CP.AH022,Adult,Tulsa,9/11/2013,TulsaCCBio,AH022,,OK
+CPR_CP.AH023,Adult,Tulsa,9/11/2013,TulsaCCBio,AH023,,OK
+CPR_CP.AH024,Adult,Tulsa,9/11/2013,TulsaCCBio,AH024,,OK
+CPR_CP.AH025,Adult,Tulsa,9/11/2013,TulsaCCBio,AH025,,OK
+CPR_CP.AH026,Adult,Tulsa,9/11/2013,TulsaCCBio,AH026,,OK
+CPR_CP.AH030,Adult,Tulsa,9/11/2013,TulsaCCBio,AH030,,OK
+CPR_CP.AH031,Adult,Tulsa,9/11/2013,TulsaCCBio,AH031,,OK
+CPR_CP.AH033,Adult,Tulsa,9/11/2013,TulsaCCBio,AH033,,OK
+CPR_CP.AH034,Adult,Tulsa,9/11/2013,TulsaCCBio,AH034,,OK
+CPR_CP.AH035,Adult,Tulsa,9/11/2013,TulsaCCBio,AH035,,OK
+CPR_CP.AH036,Adult,Tulsa,9/11/2013,TulsaCCBio,AH036,,OK
+CPR_CP.AH037,Adult,Tulsa,9/11/2013,TulsaCCBio,AH037,,OK
+CPR_CP.AH038,Adult,Tulsa,9/11/2013,TulsaCCBio,AH038,,OK
+CPR_CP.AH040,Adult,Tulsa,9/11/2013,TulsaCCBio,AH040,,OK
+CPR_SH.AD042,Adult,Tulsa,9/11/2013,TulsaCCBio,AD042,,OK
+CPR_SH.AD045,Adult,Tulsa,9/11/2013,TulsaCCBio,AD045,,OK
+CPR_SH.AD046,Adult,Tulsa,9/11/2013,TulsaCCBio,AD046,,OK
+CPR_SH.AD048,Adult,Tulsa,9/11/2013,TulsaCCBio,AD048,,OK
+CPR_SH.AD052,Adult,Tulsa,9/11/2013,TulsaCCBio,AD052,,OK
+CPR_SH.AD053,Adult,Tulsa,9/11/2013,TulsaCCBio,AD053,,OK
+CPR_SH.AD055,Adult,Tulsa,9/11/2013,TulsaCCBio,AD055,,OK
+CPR_SH.AH001,Adult,Tulsa,9/11/2013,TulsaCCBio,AH001,,OK
+CPR_SH.AH002,Adult,Tulsa,9/11/2013,TulsaCCBio,AH002,,OK
+CPR_SH.AH003,Adult,Tulsa,9/11/2013,TulsaCCBio,AH003,,OK
+CPR_SH.AH004,Adult,Tulsa,9/11/2013,TulsaCCBio,AH004,,OK
+CPR_SH.AH005,Adult,Tulsa,9/11/2013,TulsaCCBio,AH005,,OK
+CPR_SH.AH006,Adult,Tulsa,9/11/2013,TulsaCCBio,AH006,,OK
+CPR_SH.AH007,Adult,Tulsa,9/11/2013,TulsaCCBio,AH007,,OK
+CPR_SH.AH008,Adult,Tulsa,9/11/2013,TulsaCCBio,AH008,,OK
+CPR_SH.AH009,Adult,Tulsa,9/11/2013,TulsaCCBio,AH009,,OK
+CPR_SH.AH010,Adult,Tulsa,9/11/2013,TulsaCCBio,AH010,,OK
+CPR_SH.AH011,Adult,Tulsa,9/11/2013,TulsaCCBio,AH011,,OK
+CPR_SH.AH012,Adult,Tulsa,9/11/2013,TulsaCCBio,AH012,,OK
+CPR_SH.AH013,Adult,Tulsa,9/11/2013,TulsaCCBio,AH013,,OK
+CPR_SH.AH016,Adult,Tulsa,9/11/2013,TulsaCCBio,AH016,,OK
+CPR_SH.AH017,Adult,Tulsa,9/11/2013,TulsaCCBio,AH017,,OK
+CPR_SH.AH019,Adult,Tulsa,9/11/2013,TulsaCCBio,AH019,,OK
+CPR_SH.AH020,Adult,Tulsa,9/11/2013,TulsaCCBio,AH020,,OK
+CPR_SH.AH021,Adult,Tulsa,9/11/2013,TulsaCCBio,AH021,,OK
+CPR_SH.AH022,Adult,Tulsa,9/11/2013,TulsaCCBio,AH022,,OK
+CPR_SH.AH023,Adult,Tulsa,9/11/2013,TulsaCCBio,AH023,,OK
+CPR_SH.AH024,Adult,Tulsa,9/11/2013,TulsaCCBio,AH024,,OK
+CPR_SH.AH025,Adult,Tulsa,9/11/2013,TulsaCCBio,AH025,,OK
+CPR_SH.AH026,Adult,Tulsa,9/11/2013,TulsaCCBio,AH026,,OK
+CPR_SH.AH030,Adult,Tulsa,9/11/2013,TulsaCCBio,AH030,,OK
+CPR_SH.AH031,Adult,Tulsa,9/11/2013,TulsaCCBio,AH031,,OK
+CPR_SH.AH033,Adult,Tulsa,9/11/2013,TulsaCCBio,AH033,,OK
+CPR_SH.AH034,Adult,Tulsa,9/11/2013,TulsaCCBio,AH034,,OK
+CPR_SH.AH035,Adult,Tulsa,9/11/2013,TulsaCCBio,AH035,,OK
+CPR_SH.AH036,Adult,Tulsa,9/11/2013,TulsaCCBio,AH036,,OK
+CPR_SH.AH037,Adult,Tulsa,9/11/2013,TulsaCCBio,AH037,,OK
+CPR_SH.AH038,Adult,Tulsa,9/11/2013,TulsaCCBio,AH038,,OK
+CPR_SH.AH040,Adult,Tulsa,9/11/2013,TulsaCCBio,AH040,,OK
+CPR_AK.AG035,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_BLANK1,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_BLANK2,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_BLANK3,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_C.EXTRA,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AB095,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AB097,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AC048,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD039,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD041,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD047,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD056,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD082,Unknown,Unknown,Unknown,Unknown,AD082,,Unknown
+CPR_CP.AD083,Unknown,Unknown,Unknown,Unknown,AD083,,Unknown
+CPR_CP.AD085,Unknown,Unknown,Unknown,Unknown,AD085,,Unknown
+CPR_CP.AD086,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD089,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AD091,Unknown,Unknown,Unknown,Unknown,AD091,,Unknown
+CPR_CP.AD092,Unknown,Unknown,Unknown,Unknown,AD092,,Unknown
+CPR_CP.AD095,Unknown,Unknown,Unknown,Unknown,AD095,,Unknown
+CPR_CP.AD098,Unknown,Unknown,Unknown,Unknown,AD098,,Unknown
+CPR_CP.AD099,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AE001,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AE005,Unknown,Unknown,Unknown,Unknown,AE005,,Unknown
+CPR_CP.AE006,Unknown,Unknown,Unknown,Unknown,AE006,,Unknown
+CPR_CP.AE008,Unknown,Unknown,Unknown,Unknown,AE008,,Unknown
+CPR_CP.AE010,Unknown,Unknown,Unknown,Unknown,AE010,,Unknown
+CPR_CP.AG040,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AG092,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AH094,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AK005,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AK008,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AK039,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AK057,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AQ049,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FR086,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FR088,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FR089,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FR090,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FR097,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT021,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT023,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT024,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT025,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT027,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT028,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT029,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT031,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT032,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT033,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT034,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT035,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT081,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT082,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT083,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT084,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT085,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT086,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT087,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT088,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT089,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT090,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT091,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FT097,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_cp.fv008,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FX068,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FY078,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.FZ014,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.LV020,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.MC080,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.MH057,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.S030,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_noID,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_S.EXTRA,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AB094,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AB097,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AC048,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD039,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD041,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD047,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD056,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD081,Unknown,Unknown,Unknown,Unknown,AD081,,Unknown
+CPR_SH.AD082,Unknown,Unknown,Unknown,Unknown,AD082,,Unknown
+CPR_SH.AD083,Unknown,Unknown,Unknown,Unknown,AD083,,Unknown
+CPR_SH.AD084,Unknown,Unknown,Unknown,Unknown,AD084,,Unknown
+CPR_SH.AD085,Unknown,Unknown,Unknown,Unknown,AD085,,Unknown
+CPR_SH.AD086,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD087,Unknown,Unknown,Unknown,Unknown,AD087,,Unknown
+CPR_SH.AD088,Unknown,Unknown,Unknown,Unknown,AD088,,Unknown
+CPR_SH.AD089,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD090,Unknown,Unknown,Unknown,Unknown,AD090,,Unknown
+CPR_SH.AD091,Unknown,Unknown,Unknown,Unknown,AD091,,Unknown
+CPR_SH.AD092,Unknown,Unknown,Unknown,Unknown,AD092,,Unknown
+CPR_SH.AD093,Unknown,Unknown,Unknown,Unknown,AD093,,Unknown
+CPR_SH.AD094,Unknown,Unknown,Unknown,Unknown,AD094,,Unknown
+CPR_SH.AD095,Unknown,Unknown,Unknown,Unknown,AD095,,Unknown
+CPR_SH.AD096,Unknown,Unknown,Unknown,Unknown,AD096,,Unknown
+CPR_SH.AD098,Unknown,Unknown,Unknown,Unknown,AD098,,Unknown
+CPR_SH.AD099,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AD100,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AE001,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AE005,Unknown,Unknown,Unknown,Unknown,AE005,,Unknown
+CPR_SH.AE006,Unknown,Unknown,Unknown,Unknown,AE006,,Unknown
+CPR_SH.AE008,Unknown,Unknown,Unknown,Unknown,AE008,,Unknown
+CPR_SH.AE010,Unknown,Unknown,Unknown,Unknown,AE010,,Unknown
+CPR_SH.AE012,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AG040,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AG092,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AH094,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AK005,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AK008,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AK039,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AK057,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.AQ052,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FR086,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FR087,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FR088,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FR089,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FR090,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT021,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT023,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT024,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT025,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT026,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT027,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT028,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT029,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT030,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT031,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT032,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT033,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT034,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT035,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT081,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT082,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT083,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT084,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT085,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT087,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT088,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT089,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT090,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT091,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FT097,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.FZ014,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.LV020,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.MB075,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_SH.MC080,Unknown,Unknown,Unknown,Unknown,Unknown,,Unknown
+CPR_CP.AQ041,Kid,Monrovia,9/24/2013,Wildrose,AQ041,,CA
+CPR_CP.AQ042,Kid,Monrovia,9/24/2013,Wildrose,AQ042,,CA
+CPR_CP.AQ044,Kid,Monrovia,9/24/2013,Wildrose,AQ044,,CA
+CPR_CP.AQ045,Kid,Monrovia,9/24/2013,Wildrose,AQ045,,CA
+CPR_CP.AQ046,Kid,Monrovia,9/24/2013,Wildrose,AQ046,,CA
+CPR_CP.AQ047,Kid,Monrovia,9/24/2013,Wildrose,AQ047,,CA
+CPR_CP.AQ048,Kid,Monrovia,9/24/2013,Wildrose,AQ048,,CA
+CPR_CP.AQ050,Kid,Monrovia,9/24/2013,Wildrose,AQ050,,CA
+CPR_CP.AQ051,Kid,Monrovia,9/24/2013,Wildrose,AQ051,,CA
+CPR_CP.AQ053,Kid,Monrovia,9/24/2013,Wildrose,AQ053,,CA
+CPR_CP.AQ054,Kid,Monrovia,9/24/2013,Wildrose,AQ054,,CA
+CPR_CP.AQ055,Kid,Monrovia,9/24/2013,Wildrose,AQ055,,CA
+CPR_CP.AQ056,Kid,Monrovia,9/24/2013,Wildrose,AQ056,,CA
+CPR_CP.AQ057,Kid,Monrovia,9/24/2013,Wildrose,AQ057,,CA
+CPR_CP.AQ058,Kid,Monrovia,9/24/2013,Wildrose,AQ058,,CA
+CPR_CP.AQ059,Kid,Monrovia,9/24/2013,Wildrose,AQ059,,CA
+CPR_CP.AQ060,Kid,Monrovia,9/24/2013,Wildrose,AQ060,,CA
+CPR_SH.AQ042,Kid,Monrovia,9/24/2013,Wildrose,AQ042,,CA
+CPR_SH.AQ044,Kid,Monrovia,9/24/2013,Wildrose,AQ044,,CA
+CPR_SH.AQ045,Kid,Monrovia,9/24/2013,Wildrose,AQ045,,CA
+CPR_SH.AQ046,Kid,Monrovia,9/24/2013,Wildrose,AQ046,,CA
+CPR_SH.AQ048,Kid,Monrovia,9/24/2013,Wildrose,AQ048,,CA
+CPR_SH.AQ050,Kid,Monrovia,9/24/2013,Wildrose,AQ050,,CA
+CPR_SH.AQ051,Kid,Monrovia,9/24/2013,Wildrose,AQ051,,CA
+CPR_SH.AQ053,Kid,Monrovia,9/24/2013,Wildrose,AQ053,,CA
+CPR_SH.AQ054,Kid,Monrovia,9/24/2013,Wildrose,AQ054,,CA
+CPR_SH.AQ055,Kid,Monrovia,9/24/2013,Wildrose,AQ055,,CA
+CPR_SH.AQ056,Kid,Monrovia,9/24/2013,Wildrose,AQ056,,CA
+CPR_SH.AQ057,Kid,Monrovia,9/24/2013,Wildrose,AQ057,,CA
+CPR_SH.AQ058,Kid,Monrovia,9/24/2013,Wildrose,AQ058,,CA
+CPR_SH.AQ060,Kid,Monrovia,9/24/2013,Wildrose,AQ060,,CA
+CPR_CP.AA038,Adult,Washington,4/12/2013,YNDC,AA038,,DC
+CPR_CP.AA041,Adult,Washington,4/12/2013,YNDC,AA041,,DC
+CPR_CP.AA042,Adult,Washington,4/12/2013,YNDC,AA042,,DC
+CPR_CP.AA047,Adult,Washington,4/12/2013,YNDC,AA047,,DC
+CPR_CP.AA048,Adult,Washington,4/12/2013,YNDC,AA048,,DC
+CPR_CP.AA049,Adult,Washington,4/12/2013,YNDC,AA049,,DC
+CPR_CP.AA052,Adult,Washington,4/12/2013,YNDC,AA052,,DC
+CPR_SH.AA041,Adult,Washington,4/12/2013,YNDC,AA041,,DC
+CPR_SH.AA042,Adult,Washington,4/12/2013,YNDC,AA042,,DC
+CPR_SH.AA047,Adult,Washington,4/12/2013,YNDC,AA047,,DC
+CPR_SH.AA048,Adult,Washington,4/12/2013,YNDC,AA048,,DC
+CPR_SH.AA049,Adult,Washington,4/12/2013,YNDC,AA049,,DC
+CPR_SH.AA052,Adult,Washington,4/12/2013,YNDC,AA052,,DC
+CPR_CP.AA053,Adult,Durham,4/12/2013,YNNC,AA053,,NC
+CPR_CP.AA055,Adult,Durham,4/12/2013,YNNC,AA055,,NC
+CPR_CP.AA056,Adult,Durham,4/12/2013,YNNC,AA056,,NC
+CPR_CP.AA057,Adult,Durham,4/12/2013,YNNC,AA057,,NC
+CPR_CP.AA058,Adult,Durham,4/12/2013,YNNC,AA058,,NC
+CPR_CP.AA060,Adult,Durham,4/12/2013,YNNC,AA060,,NC
+CPR_CP.AA061,Adult,Durham,4/12/2013,YNNC,AA061,,NC
+CPR_CP.AA062,Adult,Durham,4/12/2013,YNNC,AA062,,NC
+CPR_CP.AA063,Adult,Durham,4/12/2013,YNNC,AA063,,NC
+CPR_CP.AA064,Adult,Durham,4/12/2013,YNNC,AA064,,NC
+CPR_CP.AA065,Adult,Durham,4/12/2013,YNNC,AA065,,NC
+CPR_CP.AA066,Adult,Durham,4/12/2013,YNNC,AA066,,NC
+CPR_CP.AA067,Adult,Durham,4/12/2013,YNNC,AA067,,NC
+CPR_CP.AA068,Adult,Durham,4/12/2013,YNNC,AA068,,NC
+CPR_CP.AA069,Adult,Durham,4/12/2013,YNNC,AA069,,NC
+CPR_CP.AA070,Adult,Durham,4/12/2013,YNNC,AA070,,NC
+CPR_CP.AA071,Adult,Durham,4/12/2013,YNNC,AA071,,NC
+CPR_CP.AA072,Adult,Durham,4/12/2013,YNNC,AA072,,NC
+CPR_CP.AA073,Adult,Durham,4/12/2013,YNNC,AA073,,NC
+CPR_CP.AA074,Adult,Durham,4/12/2013,YNNC,AA074,,NC
+CPR_CP.AA075,Adult,Durham,4/12/2013,YNNC,AA075,,NC
+CPR_CP.AA076,Adult,Durham,4/12/2013,YNNC,AA076,,NC
+CPR_CP.AA077,Adult,Durham,4/12/2013,YNNC,AA077,,NC
+CPR_CP.AA078,Adult,Durham,4/12/2013,YNNC,AA078,,NC
+CPR_SH.AA054,Adult,Durham,4/12/2013,YNNC,AA054,,NC
+CPR_SH.AA055,Adult,Durham,4/12/2013,YNNC,AA055,,NC
+CPR_SH.AA056,Adult,Durham,4/12/2013,YNNC,AA056,,NC
+CPR_SH.AA057,Adult,Durham,4/12/2013,YNNC,AA057,,NC
+CPR_SH.AA058,Adult,Durham,4/12/2013,YNNC,AA058,,NC
+CPR_SH.AA060,Adult,Durham,4/12/2013,YNNC,AA060,,NC
+CPR_SH.AA061,Adult,Durham,4/12/2013,YNNC,AA061,,NC
+CPR_SH.AA062,Adult,Durham,4/12/2013,YNNC,AA062,,NC
+CPR_SH.AA068,Adult,Durham,4/12/2013,YNNC,AA068,,NC
+CPR_SH.AA071,Adult,Durham,4/12/2013,YNNC,AA071,,NC
+CPR_SH.AA072,Adult,Durham,4/12/2013,YNNC,AA072,,NC
+CPR_SH.AA073,Adult,Durham,4/12/2013,YNNC,AA073,,NC
+CPR_CP.AC001,Adult,New York,4/16/2013,YNNY,AC001,,NY
+CPR_CP.AC003,Adult,New York,4/16/2013,YNNY,AC003,,NY
+CPR_CP.AC004,Adult,New York,4/16/2013,YNNY,AC004,,NY
+CPR_CP.AC005,Adult,New York,4/16/2013,YNNY,AC005,,NY
+CPR_CP.AC006,Adult,New York,4/16/2013,YNNY,AC006,,NY
+CPR_CP.AC009,Adult,New York,4/16/2013,YNNY,AC009,,NY
+CPR_CP.AC010,Adult,New York,4/16/2013,YNNY,AC010,,NY
+CPR_CP.AC011,Adult,New York,4/16/2013,YNNY,AC011,,NY
+CPR_CP.AC012,Adult,New York,4/16/2013,YNNY,AC012,,NY
+CPR_CP.AC013,Adult,New York,4/16/2013,YNNY,AC013,,NY
+CPR_CP.AC014,Adult,New York,4/16/2013,YNNY,AC014,,NY
+CPR_CP.AC016,Adult,New York,4/16/2013,YNNY,AC016,,NY
+CPR_CP.AC017,Adult,New York,4/16/2013,YNNY,AC017,,NY
+CPR_CP.AC018,Adult,New York,4/16/2013,YNNY,AC018,,NY
+CPR_CP.AC019,Adult,New York,4/16/2013,YNNY,AC019,,NY
+CPR_CP.AC020,Adult,New York,4/16/2013,YNNY,AC020,,NY
+CPR_CP.AC021,Adult,New York,4/16/2013,YNNY,AC021,,NY
+CPR_CP.AC023,Adult,New York,4/16/2013,YNNY,AC023,,NY
+CPR_CP.AC024,Adult,New York,4/16/2013,YNNY,AC024,,NY
+CPR_SH.AC001,Adult,New York,4/16/2013,YNNY,AC001,,NY
+CPR_SH.AC003,Adult,New York,4/16/2013,YNNY,AC003,,NY
+CPR_SH.AC004,Adult,New York,4/16/2013,YNNY,AC004,,NY
+CPR_SH.AC005,Adult,New York,4/16/2013,YNNY,AC005,,NY
+CPR_SH.AC006,Adult,New York,4/16/2013,YNNY,AC006,,NY
+CPR_SH.AC009,Adult,New York,4/16/2013,YNNY,AC009,,NY
+CPR_SH.AC010,Adult,New York,4/16/2013,YNNY,AC010,,NY
+CPR_SH.AC011,Adult,New York,4/16/2013,YNNY,AC011,,NY
+CPR_SH.AC012,Adult,New York,4/16/2013,YNNY,AC012,,NY
+CPR_SH.AC013,Adult,New York,4/16/2013,YNNY,AC013,,NY
+CPR_SH.AC014,Adult,New York,4/16/2013,YNNY,AC014,,NY
+CPR_SH.AC015,Adult,New York,4/16/2013,YNNY,AC015,,NY
+CPR_SH.AC016,Adult,New York,4/16/2013,YNNY,AC016,,NY
+CPR_SH.AC017,Adult,New York,4/16/2013,YNNY,AC017,,NY
+CPR_SH.AC018,Adult,New York,4/16/2013,YNNY,AC018,,NY
+CPR_SH.AC019,Adult,New York,4/16/2013,YNNY,AC019,,NY
+CPR_SH.AC020,Adult,New York,4/16/2013,YNNY,AC020,,NY
+CPR_SH.AC021,Adult,New York,4/16/2013,YNNY,AC021,,NY
+CPR_SH.AC022,Adult,New York,4/16/2013,YNNY,AC022,,NY
+CPR_SH.AC023,Adult,New York,4/16/2013,YNNY,AC023,,NY
+CPR_SH.AC024,Adult,New York,4/16/2013,YNNY,AC024,,NY
+CPR_CP.FZ041,Mixed,Houston,4/14/2014,YYCPA,FZ041,,TX
+CPR_CP.FZ042,Mixed,Houston,4/14/2014,YYCPA,FZ042,,TX
+CPR_CP.FZ045,Mixed,Houston,4/14/2014,YYCPA,FZ045,,TX
+CPR_CP.FZ046,Mixed,Houston,4/14/2014,YYCPA,FZ046,,TX
+CPR_CP.FZ047,Mixed,Houston,4/14/2014,YYCPA,FZ047,,TX
+CPR_CP.FZ048,Mixed,Houston,4/14/2014,YYCPA,FZ048,,TX
+CPR_CP.FZ049,Mixed,Houston,4/14/2014,YYCPA,FZ049,,TX
+CPR_CP.FZ050,Mixed,Houston,4/14/2014,YYCPA,FZ050,,TX
+CPR_CP.FZ051,Mixed,Houston,4/14/2014,YYCPA,FZ051,,TX
+CPR_CP.FZ052,Mixed,Houston,4/14/2014,YYCPA,FZ052,,TX
+CPR_CP.FZ053,Mixed,Houston,4/14/2014,YYCPA,FZ053,,TX
+CPR_CP.FZ054,Mixed,Houston,4/14/2014,YYCPA,FZ054,,TX
+CPR_CP.FZ055,Mixed,Houston,4/14/2014,YYCPA,FZ055,,TX
+CPR_CP.FZ056,Mixed,Houston,4/14/2014,YYCPA,FZ056,,TX
+CPR_CP.FZ057,Mixed,Houston,4/14/2014,YYCPA,FZ057,,TX
+CPR_CP.FZ058,Mixed,Houston,4/14/2014,YYCPA,FZ058,,TX
+CPR_CP.FZ059,Mixed,Houston,4/14/2014,YYCPA,FZ059,,TX
+CPR_CP.FZ060,Mixed,Houston,4/14/2014,YYCPA,FZ060,,TX
+CPR_CP.FZ061,Mixed,Houston,4/14/2014,YYCPA,FZ061,,TX
+CPR_CP.FZ062,Mixed,Houston,4/14/2014,YYCPA,FZ062,,TX
+CPR_CP.FZ063,Mixed,Houston,4/14/2014,YYCPA,FZ063,,TX
+CPR_CP.FZ064,Mixed,Houston,4/14/2014,YYCPA,FZ064,,TX
+CPR_CP.FZ065,Mixed,Houston,4/14/2014,YYCPA,FZ065,,TX
+CPR_CP.FZ066,Mixed,Houston,4/14/2014,YYCPA,FZ066,,TX
+CPR_CP.FZ067,Mixed,Houston,4/14/2014,YYCPA,FZ067,,TX
+CPR_CP.FZ068,Mixed,Houston,4/14/2014,YYCPA,FZ068,,TX
+CPR_CP.FZ069,Mixed,Houston,4/14/2014,YYCPA,FZ069,,TX
+CPR_CP.FZ070,Mixed,Houston,4/14/2014,YYCPA,FZ070,,TX
+CPR_CP.FZ071,Mixed,Houston,4/14/2014,YYCPA,FZ071,,TX
+CPR_CP.FZ072,Mixed,Houston,4/14/2014,YYCPA,FZ072,,TX
+CPR_CP.FZ073,Mixed,Houston,4/14/2014,YYCPA,FZ073,,TX
+CPR_CP.FZ074,Mixed,Houston,4/14/2014,YYCPA,FZ074,,TX
+CPR_CP.FZ076,Mixed,Houston,4/14/2014,YYCPA,FZ076,,TX
+CPR_CP.FZ077,Mixed,Houston,4/14/2014,YYCPA,FZ077,,TX
+CPR_CP.FZ078,Mixed,Houston,4/14/2014,YYCPA,FZ078,,TX
+CPR_CP.FZ079,Mixed,Houston,4/14/2014,YYCPA,FZ079,,TX
+CPR_CP.FZ080,Mixed,Houston,4/14/2014,YYCPA,FZ080,,TX
+CPR_CP.FZ081,Mixed,Houston,4/14/2014,YYCPA,FZ081,,TX
+CPR_CP.FZ082,Mixed,Houston,4/14/2014,YYCPA,FZ082,,TX
+CPR_CP.FZ083,Mixed,Houston,4/14/2014,YYCPA,FZ083,,TX
+CPR_CP.FZ084,Mixed,Houston,4/14/2014,YYCPA,FZ084,,TX
+CPR_CP.FZ085,Mixed,Houston,4/14/2014,YYCPA,FZ085,,TX
+CPR_CP.FZ086,Mixed,Houston,4/14/2014,YYCPA,FZ086,,TX
+CPR_CP.FZ087,Mixed,Houston,4/14/2014,YYCPA,FZ087,,TX
+CPR_CP.FZ088,Mixed,Houston,4/14/2014,YYCPA,FZ088,,TX
+CPR_CP.FZ089,Mixed,Houston,4/14/2014,YYCPA,FZ089,,TX
+CPR_CP.FZ090,Mixed,Houston,4/14/2014,YYCPA,FZ090,,TX
+CPR_CP.FZ091,Mixed,Houston,4/14/2014,YYCPA,FZ091,,TX
+CPR_CP.FZ092,Mixed,Houston,4/14/2014,YYCPA,FZ092,,TX
+CPR_CP.FZ093,Mixed,Houston,4/14/2014,YYCPA,FZ093,,TX
+CPR_CP.FZ095,Mixed,Houston,4/14/2014,YYCPA,FZ095,,TX
+CPR_CP.FZ096,Mixed,Houston,4/14/2014,YYCPA,FZ096,,TX
+CPR_CP.FZ097,Mixed,Houston,4/14/2014,YYCPA,FZ097,,TX
+CPR_CP.FZ098,Mixed,Houston,4/14/2014,YYCPA,FZ098,,TX
+CPR_CP.FZ099,Mixed,Houston,4/14/2014,YYCPA,FZ099,,TX
+CPR_CP.FZ100,Mixed,Houston,4/14/2014,YYCPA,FZ100,,TX
+CPR_CP.LR061,Mixed,Houston,4/14/2014,YYCPA,LR061,,TX
+CPR_CP.LR062,Mixed,Houston,4/14/2014,YYCPA,LR062,,TX
+CPR_CP.LR063,Mixed,Houston,4/14/2014,YYCPA,LR063,,TX
+CPR_CP.LR064,Mixed,Houston,4/14/2014,YYCPA,LR064,,TX
+CPR_CP.LR065,Mixed,Houston,4/14/2014,YYCPA,LR065,,TX
+CPR_CP.LR067,Mixed,Houston,4/14/2014,YYCPA,LR067,,TX
+CPR_CP.LR068,Mixed,Houston,4/14/2014,YYCPA,LR068,,TX
+CPR_CP.LR069,Mixed,Houston,4/14/2014,YYCPA,LR069,,TX
+CPR_CP.LR071,Mixed,Houston,4/14/2014,YYCPA,LR071,,TX
+CPR_CP.LR072,Mixed,Houston,4/14/2014,YYCPA,LR072,,TX
+CPR_CP.LR073,Mixed,Houston,4/14/2014,YYCPA,LR073,,TX
+CPR_CP.LR074,Mixed,Houston,4/14/2014,YYCPA,LR074,,TX
+CPR_CP.LR075,Mixed,Houston,4/14/2014,YYCPA,LR075,,TX
+CPR_CP.LR076,Mixed,Houston,4/14/2014,YYCPA,LR076,,TX
+CPR_CP.LR078,Mixed,Houston,4/14/2014,YYCPA,LR078,,TX
+CPR_CP.LR079,Mixed,Houston,4/14/2014,YYCPA,LR079,,TX
+CPR_CP.LR080,Mixed,Houston,4/14/2014,YYCPA,LR080,,TX
+CPR_CP.LR081,Mixed,Houston,4/14/2014,YYCPA,LR081,,TX
+CPR_CP.LR082,Mixed,Houston,4/14/2014,YYCPA,LR082,,TX
+CPR_CP.LR083,Mixed,Houston,4/14/2014,YYCPA,LR083,,TX
+CPR_CP.LR084,Mixed,Houston,4/14/2014,YYCPA,LR084,,TX
+CPR_CP.LR085,Mixed,Houston,4/14/2014,YYCPA,LR085,,TX
+CPR_CP.LR086,Mixed,Houston,4/14/2014,YYCPA,LR086,,TX
+CPR_CP.LR087,Mixed,Houston,4/14/2014,YYCPA,LR087,,TX
+CPR_CP.LR088,Mixed,Houston,4/14/2014,YYCPA,LR088,,TX
+CPR_CP.LR089,Mixed,Houston,4/14/2014,YYCPA,LR089,,TX
+CPR_CP.LR090,Mixed,Houston,4/14/2014,YYCPA,LR090,,TX
+CPR_CP.LR091,Mixed,Houston,4/14/2014,YYCPA,LR091,,TX
+CPR_CP.LR092,Mixed,Houston,4/14/2014,YYCPA,LR092,,TX
+CPR_CP.LR094,Mixed,Houston,4/14/2014,YYCPA,LR094,,TX
+CPR_CP.LR095,Mixed,Houston,4/14/2014,YYCPA,LR095,,TX
+CPR_CP.LR097,Mixed,Houston,4/14/2014,YYCPA,LR097,,TX
+CPR_CP.LR098,Mixed,Houston,4/14/2014,YYCPA,LR098,,TX
+CPR_CP.LR099,Mixed,Houston,4/14/2014,YYCPA,LR099,,TX
+CPR_SH.FZ041,Mixed,Houston,4/14/2014,YYCPA,FZ041,,TX
+CPR_SH.FZ042,Mixed,Houston,4/14/2014,YYCPA,FZ042,,TX
+CPR_SH.FZ044,Mixed,Houston,4/14/2014,YYCPA,FZ044,,TX
+CPR_SH.FZ045,Mixed,Houston,4/14/2014,YYCPA,FZ045,,TX
+CPR_SH.FZ048,Mixed,Houston,4/14/2014,YYCPA,FZ048,,TX
+CPR_SH.FZ050,Mixed,Houston,4/14/2014,YYCPA,FZ050,,TX
+CPR_SH.FZ052,Mixed,Houston,4/14/2014,YYCPA,FZ052,,TX
+CPR_SH.FZ053,Mixed,Houston,4/14/2014,YYCPA,FZ053,,TX
+CPR_SH.FZ054,Mixed,Houston,4/14/2014,YYCPA,FZ054,,TX
+CPR_SH.FZ055,Mixed,Houston,4/14/2014,YYCPA,FZ055,,TX
+CPR_SH.FZ056,Mixed,Houston,4/14/2014,YYCPA,FZ056,,TX
+CPR_SH.FZ057,Mixed,Houston,4/14/2014,YYCPA,FZ057,,TX
+CPR_SH.FZ058,Mixed,Houston,4/14/2014,YYCPA,FZ058,,TX
+CPR_SH.FZ059,Mixed,Houston,4/14/2014,YYCPA,FZ059,,TX
+CPR_SH.FZ060,Mixed,Houston,4/14/2014,YYCPA,FZ060,,TX
+CPR_SH.FZ061,Mixed,Houston,4/14/2014,YYCPA,FZ061,,TX
+CPR_SH.FZ062,Mixed,Houston,4/14/2014,YYCPA,FZ062,,TX
+CPR_SH.FZ065,Mixed,Houston,4/14/2014,YYCPA,FZ065,,TX
+CPR_SH.FZ066,Mixed,Houston,4/14/2014,YYCPA,FZ066,,TX
+CPR_SH.FZ067,Mixed,Houston,4/14/2014,YYCPA,FZ067,,TX
+CPR_SH.FZ068,Mixed,Houston,4/14/2014,YYCPA,FZ068,,TX
+CPR_SH.FZ069,Mixed,Houston,4/14/2014,YYCPA,FZ069,,TX
+CPR_SH.FZ071,Mixed,Houston,4/14/2014,YYCPA,FZ071,,TX
+CPR_SH.FZ072,Mixed,Houston,4/14/2014,YYCPA,FZ072,,TX
+CPR_SH.FZ073,Mixed,Houston,4/14/2014,YYCPA,FZ073,,TX
+CPR_SH.FZ074,Mixed,Houston,4/14/2014,YYCPA,FZ074,,TX
+CPR_SH.FZ075,Mixed,Houston,4/14/2014,YYCPA,FZ075,,TX
+CPR_SH.FZ076,Mixed,Houston,4/14/2014,YYCPA,FZ076,,TX
+CPR_SH.FZ077,Mixed,Houston,4/14/2014,YYCPA,FZ077,,TX
+CPR_SH.FZ078,Mixed,Houston,4/14/2014,YYCPA,FZ078,,TX
+CPR_SH.FZ079,Mixed,Houston,4/14/2014,YYCPA,FZ079,,TX
+CPR_SH.FZ080,Mixed,Houston,4/14/2014,YYCPA,FZ080,,TX
+CPR_SH.FZ081,Mixed,Houston,4/14/2014,YYCPA,FZ081,,TX
+CPR_SH.FZ082,Mixed,Houston,4/14/2014,YYCPA,FZ082,,TX
+CPR_SH.FZ083,Mixed,Houston,4/14/2014,YYCPA,FZ083,,TX
+CPR_SH.FZ084,Mixed,Houston,4/14/2014,YYCPA,FZ084,,TX
+CPR_SH.FZ085,Mixed,Houston,4/14/2014,YYCPA,FZ085,,TX
+CPR_SH.FZ086,Mixed,Houston,4/14/2014,YYCPA,FZ086,,TX
+CPR_SH.FZ090,Mixed,Houston,4/14/2014,YYCPA,FZ090,,TX
+CPR_SH.FZ091,Mixed,Houston,4/14/2014,YYCPA,FZ091,,TX
+CPR_SH.FZ092,Mixed,Houston,4/14/2014,YYCPA,FZ092,,TX
+CPR_SH.FZ093,Mixed,Houston,4/14/2014,YYCPA,FZ093,,TX
+CPR_SH.FZ094,Mixed,Houston,4/14/2014,YYCPA,FZ094,,TX
+CPR_SH.FZ096,Mixed,Houston,4/14/2014,YYCPA,FZ096,,TX
+CPR_SH.FZ097,Mixed,Houston,4/14/2014,YYCPA,FZ097,,TX
+CPR_SH.FZ099,Mixed,Houston,4/14/2014,YYCPA,FZ099,,TX
+CPR_SH.FZ100,Mixed,Houston,4/14/2014,YYCPA,FZ100,,TX
+CPR_SH.LR061,Mixed,Houston,4/14/2014,YYCPA,LR061,,TX
+CPR_SH.LR062,Mixed,Houston,4/14/2014,YYCPA,LR062,,TX
+CPR_SH.LR063,Mixed,Houston,4/14/2014,YYCPA,LR063,,TX
+CPR_SH.LR064,Mixed,Houston,4/14/2014,YYCPA,LR064,,TX
+CPR_SH.LR065,Mixed,Houston,4/14/2014,YYCPA,LR065,,TX
+CPR_SH.LR066,Mixed,Houston,4/14/2014,YYCPA,LR066,,TX
+CPR_SH.LR067,Mixed,Houston,4/14/2014,YYCPA,LR067,,TX
+CPR_SH.LR068,Mixed,Houston,4/14/2014,YYCPA,LR068,,TX
+CPR_SH.LR069,Mixed,Houston,4/14/2014,YYCPA,LR069,,TX
+CPR_SH.LR071,Mixed,Houston,4/14/2014,YYCPA,LR071,,TX
+CPR_SH.LR073,Mixed,Houston,4/14/2014,YYCPA,LR073,,TX
+CPR_SH.LR075,Mixed,Houston,4/14/2014,YYCPA,LR075,,TX
+CPR_SH.LR076,Mixed,Houston,4/14/2014,YYCPA,LR076,,TX
+CPR_SH.LR078,Mixed,Houston,4/14/2014,YYCPA,LR078,,TX
+CPR_SH.LR079,Mixed,Houston,4/14/2014,YYCPA,LR079,,TX
+CPR_SH.LR080,Mixed,Houston,4/14/2014,YYCPA,LR080,,TX
+CPR_SH.LR083,Mixed,Houston,4/14/2014,YYCPA,LR083,,TX
+CPR_SH.LR084,Mixed,Houston,4/14/2014,YYCPA,LR084,,TX
+CPR_SH.LR085,Mixed,Houston,4/14/2014,YYCPA,LR085,,TX
+CPR_SH.LR086,Mixed,Houston,4/14/2014,YYCPA,LR086,,TX
+CPR_SH.LR087,Mixed,Houston,4/14/2014,YYCPA,LR087,,TX
+CPR_SH.LR088,Mixed,Houston,4/14/2014,YYCPA,LR088,,TX
+CPR_SH.LR089,Mixed,Houston,4/14/2014,YYCPA,LR089,,TX
+CPR_SH.LR090,Mixed,Houston,4/14/2014,YYCPA,LR090,,TX
+CPR_SH.LR091,Mixed,Houston,4/14/2014,YYCPA,LR091,,TX
+CPR_SH.LR092,Mixed,Houston,4/14/2014,YYCPA,LR092,,TX
+CPR_SH.LR093,Mixed,Houston,4/14/2014,YYCPA,LR093,,TX
+CPR_SH.LR094,Mixed,Houston,4/14/2014,YYCPA,LR094,,TX
+CPR_SH.LR095,Mixed,Houston,4/14/2014,YYCPA,LR095,,TX
+CPR_SH.LR096,Mixed,Houston,4/14/2014,YYCPA,LR096,,TX
+CPR_SH.LR097,Mixed,Houston,4/14/2014,YYCPA,LR097,,TX
+CPR_SH.LR098,Mixed,Houston,4/14/2014,YYCPA,LR098,,TX
+CPR_SH.LR099,Mixed,Houston,4/14/2014,YYCPA,LR099,,TX
+CPR_SH.LR100,Mixed,Houston,4/14/2014,YYCPA,LR100,,TX

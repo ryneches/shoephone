@@ -1,0 +1,39 @@
+library(vegan)
+library(dplyr)
+library(tibble)
+library(ggplot2)
+library(ade4)
+library(phyloseq)
+library(exactRankTests)
+library(ade4)
+
+# Picking up from the same place we stopped but we have now processed some text files in Perl
+
+load("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/tmp1.rds")
+#load("tmp1.rds");
+ps0.redo.cpr.rar.geodist.site.values.mat <- as.matrix(read.table("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.prev.rar.geodist.site.matrix.txt", sep="\t", header=TRUE))
+#dim(ps0.redo.cpr.rar.geodist.site.values.mat)
+rownames(ps0.redo.cpr.rar.geodist.site.values.mat)<-ps0.redo.cpr.rar.geodist.site.values.mat[,1]
+#rownames(ps0.redo.cpr.rar.geodist.site.values.mat)
+
+ps0.redo.cpr.rar.geodist.site.values.mat<-ps0.redo.cpr.rar.geodist.site.values.mat[,-1]
+print("Phone")
+dim(ps0.redo.cpr.rar.geodist.site.values.mat)
+ps0.redo.cpr.rar.phone.event
+
+mantel.rtest(as.dist(ps0.redo.cpr.rar.geodist.site.values.mat), ps0.redo.cpr.rar.phone.event.dist, nrepet=9999)
+print("Shoe")
+mantel.rtest(as.dist(ps0.redo.cpr.rar.geodist.site.values.mat), ps0.redo.cpr.rar.shoe.event.dist, nrepet=9999)
+ps0.redo.cpr.rar.shoe.event
+
+
+ps0.redo.cpr.rar.geodist.site.values <- read.table("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.prev.rar.geodist.bysite.values.txt", sep="\t", header=TRUE)
+ps0.redo.cpr.rar.geodist.plot<-ggplot(ps0.redo.cpr.rar.geodist.site.values, aes(x=Geographical.Distance, y=Bray.Curtis)) + geom_point(shape=1) + theme(text = element_text(size=48)) + facet_grid(. ~ SampleType)+geom_smooth(method='lm',formula=y~x)
+png("/share/eisenlab/gjospin/misc/David/Project_Mercury/shoephone/figure_dir_finaltest/ps0.redo.cpr.prev.rar.geodist.plot.png", 1600, 1600);
+ps0.redo.cpr.rar.geodist.plot
+dev.off();
+
+
+print("ANOSIM - Type");
+
+anosim(otu_table(ps0.redo.cpr.prev.rar), sample_data(ps0.redo.cpr.prev.rar)$Type, "bray", permutations=999)
